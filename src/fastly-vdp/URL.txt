@@ -1,0 +1,3 @@
+manage.fastly.com
+api.fastly.com
+docs.fastly.com

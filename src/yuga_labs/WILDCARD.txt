@@ -1,0 +1,9 @@
+*.boredapeyachtclub.com
+*.yuga.com
+*.yugalabs.io
+*.otherside.xyz
+*.meebits.app
+*.cryptopunks.app
+*.mdvmm.xyz
+*.10ktf.com
+*.wenewmoments.com

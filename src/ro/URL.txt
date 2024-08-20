@@ -1,0 +1,7 @@
+my.ro.co
+login.ro.co
+start.ro.co
+http://ro.co/pharmacy
+http://ro.co/mind
+http://ro.co/derm
+http://ro.co/spermkit

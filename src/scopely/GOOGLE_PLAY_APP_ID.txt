@@ -1,0 +1,12 @@
+com.pieyel.scrabble
+com.withbuddies.dice.free
+com.scopely.yux
+com.foxnextgames.m3
+com.scopely.monopolygo
+com.scopely.startrek
+com.kitkagames.fallbuddies
+com.aqupepgames.projectpepe
+com.gsn.android.casino
+com.gsn.grandcasino
+air.com.bitrhymes.bingo
+com.gsn.android.tripeaks

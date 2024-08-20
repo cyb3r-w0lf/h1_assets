@@ -1,0 +1,4 @@
+metamask.io
+snaps.metamask.io
+https://user-storage.api.cx.metamask.io
+portfolio.metamask.io

@@ -1,0 +1,9 @@
+api.wordpress.org
+planet.wordpress.org
+doaction.org
+codex.wordpress.org,codex.bbpress.org,codex.buddypress.org
+mercantile.wordpress.org
+lists.wordpress.org
+wordpressfoundation.org
+irclogs.wordpress.org
+gutenberg.run

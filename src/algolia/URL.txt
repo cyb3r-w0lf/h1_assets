@@ -1,0 +1,2 @@
+www.algolia.com
+dashboard.algolia.com

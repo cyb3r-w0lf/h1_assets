@@ -1,0 +1,16 @@
+api.tumblr.com
+safe.tumblr.com
+secure.tumblr.com
+assets.tumblr.com
+embed.tumblr.com
+www.tumblr.com
+t.umblr.com
+wordpress.com
+akismet.com
+mailpoet.com
+my.pressable.com
+simplenote.com
+simperium.com
+gravatar.com
+intensedebate.com
+happy.tools

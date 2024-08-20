@@ -1,0 +1,5 @@
+*.rebelliondefence.com
+*.rebelliondefense.com
+*.rebellion.dev
+*.moochirp.io
+*.mooch.rip

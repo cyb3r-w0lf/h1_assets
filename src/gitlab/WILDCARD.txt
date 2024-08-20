@@ -1,0 +1,3 @@
+*.gitlab.net
+*.gitlab.org
+*.gitlap.com

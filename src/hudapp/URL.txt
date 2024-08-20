@@ -1,0 +1,5 @@
+prod-cloud.hookupdating.mobi
+prod-realtime.hookupdating.mobi
+cdn.hookupdating.mobi
+console.huddatingapp.com
+www.hudapp.com

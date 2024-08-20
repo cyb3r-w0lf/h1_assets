@@ -1,0 +1,3 @@
+com.peterandlinda.iOCNotes
+it.twsweb.Nextcloud
+com.nextcloud.Talk

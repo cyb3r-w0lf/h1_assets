@@ -1,0 +1,7 @@
+core.yoti.com
+api.yoti.com
+ccloud.yoti.com
+code.yoti.com
+www.yotisign.com
+hub.yoti.com
+identity.yoti.com

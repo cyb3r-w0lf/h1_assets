@@ -1,0 +1,8 @@
+dash.cloudflare.com
+cloudflareworkers.com
+*.teams.cloudflare.com
+api.cloudflare.com
+*.cloudflare.com
+http://github.com/cloudflare
+one.dash.cloudflare.com
+waf.cumulusfire.net

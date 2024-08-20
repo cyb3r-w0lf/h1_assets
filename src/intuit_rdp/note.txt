@@ -1,0 +1,1 @@
+58895	https://hackerone.com/intuit_rdp	Intuit	intuit_rdp

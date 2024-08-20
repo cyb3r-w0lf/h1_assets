@@ -1,0 +1,2 @@
+*.d-cd.net
+*.drive2.ru

@@ -1,0 +1,5 @@
+https://www.amazonpay.in/*
+Other Amazon Retail Sites (Please only actively test explicitly stated scope)
+Other Amazon Retail Mobile Apps (Please only actively test explicitly stated scope)
+Amazon Subsidiaries (Please only actively test explicitly stated scope)
+Other Amazon Retail Assets (Please only actively test explicitly stated scope)

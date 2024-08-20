@@ -1,0 +1,9 @@
+*.urbandictionary.com
+*.urbandictionary.net
+*.urbandictionary.biz
+*.urbandictionary.org
+*.ud.wtf
+*.udimg.com
+*.urbandictionary.blog
+*.urbanup.com
+*.urbandictionary.store

@@ -1,0 +1,7 @@
+*racing.fanduel.com
+*.east.fdbox.net
+*.prod.fdbox.net
+*.mgmt.fndlsb.net
+*.prd.fndlsb.net
+*inf.fndlsb.net
+*.numberfire.com

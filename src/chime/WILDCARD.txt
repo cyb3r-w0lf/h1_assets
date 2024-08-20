@@ -1,0 +1,6 @@
+*.1debit.com
+*.chimebank.com
+*.chimecard.com
+*.chime.com
+*.chmfin.com
+*.chimepayments.com

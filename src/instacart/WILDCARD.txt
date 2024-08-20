@@ -1,0 +1,2 @@
+*.instacart.com
+*.instacart.tools

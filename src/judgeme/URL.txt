@@ -1,0 +1,6 @@
+judge.me
+https://judge.me/reviews
+shop.judge.me
+woocommerce-adapter.judge.me
+bigcommerce-adapter.judge.me
+cache.judge.me

@@ -1,0 +1,9 @@
+*.capitalone.com
+*.wikibuy.com
+*.capitalone.ca
+*.capitalone.co.uk
+*.bluetarp.com
+*.luma.co.uk
+*.theunioncard.com
+*.teamstercardnow.com
+*.capitaloneshopping.com

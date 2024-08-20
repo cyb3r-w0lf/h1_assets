@@ -1,0 +1,7 @@
+*.zomato.com
+*.zdev.net
+*.zomans.com
+*.hyperpure.com
+*.runnr.in
+http://*.grofer.io
+http://*.grofers.com

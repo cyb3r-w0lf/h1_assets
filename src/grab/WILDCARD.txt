@@ -1,0 +1,9 @@
+*.myteksi.com
+*.myteksi.net
+*.grab.com
+*.grabpay.com
+*.grab-sure.com
+*.ovo.id
+*.taralite.com
+*.grabtaxi.com
+*.grab.co

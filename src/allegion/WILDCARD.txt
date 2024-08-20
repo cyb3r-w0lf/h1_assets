@@ -1,0 +1,5 @@
+*.allegion.com
+*.yonomi.co
+*.allegionengage.com
+*.isonaspureaccesscloud.com
+*.my-mobilekey.com

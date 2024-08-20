@@ -1,0 +1,14 @@
+*.8x8.vc
+*.jit.si
+*.jitsi.net
+*.8x8staging.com
+*.chalet.8x8.com
+vcc-*.8x8.com
+https://*.chalet.8x8.com/ws/v1
+http://*.packet8.net
+*.8x8.id
+*.8x8cloud.net
+*.p8t.us
+*.wavecell.com
+qm-*.8x8.com
+analytics-*.8x8.com

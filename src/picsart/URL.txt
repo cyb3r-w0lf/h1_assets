@@ -1,0 +1,15 @@
+www.picsart.com
+picsart.io
+api.picsart.io
+ai.picsart.com
+api.picsart.com
+content-discovery.picsart.io
+video-api.picsart.io
+revenue-tracking.picsart.io
+demo.sdk.picsart.io
+cdn-basic-content-api.picsart.io
+t.picsart.com
+stage.optifyr.com
+optifyr.com
+upload.picsart.com
+console.picsart.io

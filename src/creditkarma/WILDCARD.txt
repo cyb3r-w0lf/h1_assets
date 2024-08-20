@@ -1,0 +1,3 @@
+https://*.creditkarma.com
+http://*.creditkarma.co.uk
+https://*.creditkarma.ca

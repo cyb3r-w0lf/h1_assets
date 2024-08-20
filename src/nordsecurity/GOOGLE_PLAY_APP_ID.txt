@@ -1,0 +1,2 @@
+com.nordvpn.android
+com.nordpass.android.app.password.manager

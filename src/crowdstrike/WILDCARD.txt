@@ -1,0 +1,8 @@
+*.crowdstrike.com
+*.humio.com
+*.securecircle.com
+*.preempt.com
+*.preemptsecurity.com
+*.reposify.com
+*.bionic.ai
+*.flowsecurity.app

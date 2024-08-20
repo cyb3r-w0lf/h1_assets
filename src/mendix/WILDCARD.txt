@@ -1,0 +1,3 @@
+*.mendix.com
+*.timeseries.com
+*.timeseries.nl

@@ -1,0 +1,3 @@
+*.securityscorecard.io
+*.securityscorecard.com
+*.cvedetails.com

@@ -1,0 +1,3 @@
+*.sc-corp.net
+Tier A - Core Assets
+Tier B - Non Core (Bitmoji, Playcanvas)

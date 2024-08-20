@@ -1,0 +1,3 @@
+com.atlassian.JitsiMeet.ios
+8x8-meeting-rooms
+8x8-work

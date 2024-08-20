@@ -1,0 +1,6 @@
+Freshdesk-iOS-App
+Freshservice-iOS-App
+Freshsales-iOS-App
+Freshchat-iOS-App
+Freshcaller-iOS-App
+Freshservice-Intune-iOS-App

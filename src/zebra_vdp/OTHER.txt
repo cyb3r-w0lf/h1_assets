@@ -1,0 +1,13 @@
+*.fetchcore-cloud.com
+*.zebrasports.com
+ partnerconnect.zebra.com
+*.antuit.ai
+*.profitect.com
+*.pttpro.zebra.com
+*.zams-eu.zebra.com
+*.zams.zebra.com
+*.zebra.com/mobicontrol
+cto-*.zebra.engineering
+*.zebramwe.com
+*.zpc.zebra.com 
+spx-*.zebra.engineering

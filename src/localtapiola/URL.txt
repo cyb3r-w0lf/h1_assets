@@ -1,0 +1,14 @@
+www.lahitapiola.fi
+www.tapiola.fi
+verkkopalvelu.tapiola.fi
+yrityspalvelu.tapiola.fi
+secure.lahitapiola.fi
+tunnistus.lahitapiola.fi
+ext-gw.lahitapiola.fi
+lisasijoitus.lahitapiola.fi
+verovelvollisuustiedot.lahitapiola.fi
+sijoitusvakuutus.lahitapiola.fi
+asiointi.lahitapiola.fi
+api.lahitapiola.fi
+privatetarget-2-secure.zigzag
+privatetarget-1-www.zigzag

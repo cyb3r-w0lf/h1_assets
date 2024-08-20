@@ -1,0 +1,14 @@
+kolesa.kz
+m.kolesa.kz
+krisha.kz
+m.krisha.kz
+avtoelon.uz
+m.avtoelon.uz
+api.kolesa.kz
+app.kolesa.kz
+id.kolesa.kz
+api.krisha.kz
+app.krisha.kz
+api.avtoelon.uz
+app.avtoelon.uz
+id.avtoelon.uz

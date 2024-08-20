@@ -1,0 +1,747 @@
+Ivanti Avalanche
+Ivanti Endpoint Manager
+Cherwell Service Management (CSM)
+Desktop and Server Management (DSM)
+Ivanti Service Desk
+Ivanti Automation
+Ivanti Identity Director
+Ivanti Endpoint Manager Mobile (EPMM)
+Ivanti Endpoint Security for Endpoint Manager
+Ivanti Neurons for ITSM
+Ivanti Neurons for ZTA
+Ivanti Connect Secure
+Ivanti Neurons for MDM
+Ivanti Policy Secure
+Ivanti Sentry (on-prem)
+Infrastructure & Internal Apps/Services
+Prudential Assets
+Security vulnerabilities that are identified in 6sense products or in website domains owned, operated, or controlled by 6sense are in scope
+Render Infrastructure
+gateway.elevi.net
+tenant-svc-fw-02.orl01.cymycloud.com
+38.77.128.123
+38.77.128.190
+38.77.128.196
+38.77.128.254
+38.77.128.255
+autodiscover.cybermyte.io
+imap.cybermyte.io
+mail.cybermyte.io
+vpn-west.lgsinnovations.com
+access.saphotonics.com
+connect-dr.caci.com
+connect.caci.com
+dns1.caci.com
+dns2.caci.com
+dns4.caci.com
+vpn-east.lgsinnovations.com
+mail.caci.com
+mailserver1a.caci.com
+mailserver1b.caci.com
+mailserver2a.caci.com
+mailserver2b.caci.com
+mailserver3a.caci.com
+mailserver3b.caci.com
+devvpn.centurum.com
+ems.centurum.com
+https://sslvpn.centurum.com
+keeper.centurum.com
+syslog.centurum.com
+tip.centurum.com
+50.76.152.193
+Corporate Assets
+Open Source - Consoleme
+Open Source - Weep
+Open Source - Zuul
+Microsites
+Open Source - Spectator
+Secondary Assets
+Content Authorization Targets
+Open Source - Dispatch
+Affiliates or entities such as recently acquired companies
+Content authorization vulnerabilities affecting only the in-browser player
+Low impact, individually exposed Google Docs with no common root cause (see “Publicly accessible Google Document or Drive Links” in the “Corporate Targets” section)
+Netflix Gaming Target
+Merchant Portal
+All internet-facing Aon assets are in scope
+Any public cloud resource or infrastructure operated and managed by REI
+Android & iOS App for REI Customers
+*.dyson.com
+Other Dyson Assets
+Github findings
+*.aerlingus.com
+*.iberiaexpress.com
+iagcargo.com/*
+*.iaggbs.com
+*.iairgroup.com
+https://partnerservices.avios.com/partnerpages/password/request.html?partner=WEBGB00001&languageCode=en
+All other Assets
+Core Assets
+H5G
+Mercado Pago Apps Endpoints
+Other
+Web3 Smart Contract
+<locale>.trip.com
+bankaccountdata.gocardless.com, ob.gocardless.com
+Any public cloud resource or infrastructure operated and managed by REI.
+e-Commerce
+ All other applications (web sites, web applications, web services, and mobile applications) owned by AboitizPower and its Business Units
+Eurofins Assets
+*.freightliner.com
+All Apps published by Daimler Truck AG
+Vehicles
+*detroitconnect.com
+Freshservice Discovery Agent and Probe
+https://ring.com/*
+https://api.ring.com/*
+https://fw.ring.com/*
+https://app.ring.com/*
+https://admin.ring.com/*
+https://nw.ring.com/*
+https://oauth.ring.com/*
+https://billing.ring.com/*
+Mozilla VPN Clients
+Product Delivery
+Mozilla Ad Routing Service
+All other applications (web sites, web applications, web services, and mobile applications) owned by Merck & Co., Inc., Rahway, NJ, USA
+IP range 81.128.180.193 - 81.128.180.254
+IP range 217.33.241.33 - 217.33.241.62
+IP range 194.74.25.97 - 194.74.25.110
+IP range 81.128.176.2 - 81.128.176.62
+https://node.e2ro.com/*
+https://api-user.e2ro.com/*
+Assets which are owned by Paystack are in scope for this Vulnerability Disclosure Program
+* IPv4 addresses
+* IPv6 addresses
+OKX Android APK
+OKX iOS APP
+OKT Chain
+OKX Wallet Chrome Extension
+OKX Wallet Edge Add-ons
+OKX Wallet Safari Extension
+Mac OS Executable
+Windows OS Executable
+Okcoin Android APK
+Okcoin iOS App
+https://marketplace.atlassian.com/apps/1219583/jira-cards-by-miro?hosting=cloud
+https://marketplace.atlassian.com/apps/1217530/miro-for-confluence?hosting=cloud
+https://marketplace.atlassian.com/apps/1215456/miro-for-jira-cloud?hosting=cloud
+Miro SDK
+Tier1
+Tier2
+Intelligent Canvas
+Malwarebytes Privacy (VPN)
+BrowserGuard (Firefox/Chrome/Safari browser extension)
+Vulnerability & Patch Management
+Malwarebytes Endpoint Detection and Response (EDR)
+Malwarebytes Endpoint Protection
+Malwarebytes Device Control
+Any other Malwarebytes asset
+Hedera Testnet API Endpoints
+Testnet Mirror Node APIs
+Intellectual Property on Public Domains
+8x8 Partner Portal
+Delivery Hero
+Foodpanda
+Foodora
+Hungerstation
+Yemeksepeti
+mjam
+Instashop
+Talabat
+DámeJídlo.cz
+Woowabros
+foody
+efood.gr
+PedidosYa
+Glovo
+Tabsquare
+831287358355275877
+961114489414094898
+937011954453721119
+329381334701178885
+Security vulnerabilities that are identified in products or website domains owned by Cognizant are in scope
+Other Expedia-owned Asset 
+*.magiceden.io
+*.magiceden.dev
+*.magiceden.workers.dev
+Magic Eden Wallet (Chrome Extension)
+Tier 1
+Tier 2
+strongDM Gateway Docker/Kuberneters/Fargate Relay Container Image
+Other Not Listed
+Interflex Software IF-6040
+Interflex Software SP-EXPERT
+Interflex Software IF-6020
+Interflex Managed Services (cloud)
+https://cisasmartaccess.allegion.com/login
+https://keycontrol.allegion.com/it
+CISA Aero PMS Service (Windows)
+Smart Software 4
+CISA Reader App (Windows)
+CISA Reader App (iMac)
+MongoDB Driver: Node.js
+MongoDB Driver: Java
+MongoDB Driver: Python
+MongoDB Driver: .NET
+MongoDB Owned GitHub Repositories
+MongoDB Driver: Ruby
+MongoDB Driver: Rust
+MongoDB Server Local Instance
+MongoDB BI Connector
+MongoDB Cluster-To-Cluster sync
+MongoDB Compass
+MongoDB Driver: C
+MongoDB Driver: C#
+MongoDB Driver: C++
+MongoDB Driver: Go
+MongoDB Driver: PHP
+MongoDB Driver: Swift
+MongoDB Kafka Connector
+MongoDB Realm SDKs
+MongoDB Relational Migrator
+MongoDB Shell
+MongoDB Spark Connector
+MongoDB VS Code Plugin
+Tesco
+Booker
+One Stop
+Trellix Products
+Other Trellix Websites
+Other Skyhigh Security Websites
+Skyhigh Security products
+MetaMask Browser Extension
+MetaMask SDK
+https://metamask.github.io/phishing-warning/<vX.Y.Z>
+Snaps
+Authentication component
+Third Party Snaps
+All Keurig Dr Pepper-owned Assets
+Any public (Internet-facing) infrastructure owned and operated by Palantir.
+Any public cloud (e.g. Amazon AWS, Microsoft Azure) resource or infrastructure operated and managed by Palantir.
+Any subdomain infrastructure issue
+Any subdomain application issue
+External service data leakage 
+Android & iOS App for Instacart Shoppers
+FAX Programmable API
+All Other In-Scope Assets
+Tenable Security Center
+Nessus
+Log Correlation Engine
+Tenable Identity Exposure
+Tenable OT Security
+Nessus Agent
+Tenable Core
+Tenable Web Application Scanning
+Tenable Attack Surface Management
+Tenable Lumin
+Tenable One Exposure Management Platform
+Tenable Vulnerability Management
+Tenable Cloud Security
+Nessus Network Monitor
+Other Hy-Vee owned asset
+Product Vulnerabilities
+Corporate Infrastructure
+Wickr Pro/Wickr Me (all related technical components) (up to)
+Wickr Pro Android
+Wickr Pro iOS
+Wickr Pro Linux
+Wickr Me iOS
+Wickr Me Android
+Wickr Me Linux
+Wickr Me OS X
+Wickr Pro OS X
+Wickr Pro Windows
+Wickr Me Windows
+SEGA Europe
+SEGA Japan
+Creative Assembly
+Sports Interactive
+Two Point Studios
+Amplitude Studios
+Hardlight Studios
+Relic Entertainment
+Rovio Entertainment
+Clubhouse Production and Corporate Infrastructure
+Any other Epic games owned asset not listed in the out of scope section
+EpicOnlineServices
+Elastic Package Registry
+Elastic Synthetics Monitoring
+Software Supply Chain
+Elastic Clients
+elastic.co credentials
+jdisonline.com
+johndeere.com
+wirtgen-group.com
+bearflagrobotics.com
+johndeerecloud.com
+starfirenetwork.com
+johndeeretechinfo.com
+jdisonsite.com
+Stripe Payments
+Stripe Checkout
+Stripe Connect
+Stripe Terminal
+Stripe Billing
+Stripe Elements
+Stripe Dashboard
+Stripe Issuing
+Stripe Radar
+Stripe Sigma
+Stripe Atlas
+Stripe SDKs
+Stripe Open Source
+Stripe Apps
+Stripe Payment Links
+Stripe Invoicing
+Stripe Financial Connections
+Stripe Revenue Recognition
+Stripe Identity
+Stripe Climate
+Stripe Data Pipeline
+Stripe Tax
+Stripe Capital
+Stripe Treasury
+*.isharesonline.com
+R3 - everything in scope
+*.fetchcore-cloud.com
+*.zebrasports.com
+ partnerconnect.zebra.com
+*.antuit.ai
+*.profitect.com
+*.pttpro.zebra.com
+*.zams-eu.zebra.com
+*.zams.zebra.com
+*.zebra.com/mobicontrol
+cto-*.zebra.engineering
+*.zebramwe.com
+*.zpc.zebra.com 
+spx-*.zebra.engineering
+Non-Core Assets
+Android App
+iOS App
+Heartland Payment Systems
+TSYS 
+AdvancedMD
+GP eCom
+GPE
+Bleep
+GP AUNZ
+Storman
+eWay
+Ezidebit
+Sentral
+Quickcliq
+GP Integrated
+PayGateway
+3PointData / CX2
+OpenEdge
+Cayan 
+Callpop
+Global Payments Integrated
+Xenial (Xenial)
+SICOM
+Nextep
+Active Networks
+TouchNet
+Heartland Restaurant / Retail / Payroll / Human Capital Management (Get Hired)
+Greater Giving
+Micropayments
+Gaming
+ECSI
+Zego
+Commercia Global Payments 
+MineralTree
+EVO Payments, Inc. 
+My School Bucks
+Games Tier 1
+Games Tier 2
+Chime IOS App (Beta)
+Chime Android App (Beta)
+PayFriends/PayAnyone Features
+*.sam.gov
+*.acquisition.gov
+*.digital.gov
+*.ecpic.gov
+*.facadatabase.gov
+*.gsa.gov
+Exodus Browser Extension
+Yoti Password Manager browser extension
+Yoti liveness detection campaign
+Scope Questions: Items not explicitly listed here
+Enjin Coin - Ethereum ERC-20 Contract
+Enjin Blockchain
+Enjin - Ethereum ERC-1155 Contract
+Figma Atlassian App
+Figma Desktop App
+Figma iOS and Android apps
+Figma Slack App
+Figma for Microsoft Teams
+s3://faraday-uploads
+s3://faraday-secret
+Simple Poll Slack app
+Simple Goals slack app
+Acronis Cyber Infrastructure
+Other Acronis Domains
+com.affirm.internal.hackerone
+Kruidvat (subdomains)
+Superdrug (subdomains)
+ICI Paris XL (subdomains)
+The Perfume Shop (subdomains)
+Fortress (subdomains)
+PNS (subdomains)
+Watsons HK (subdomains)
+Watsons MY (subdomains)
+Moneyback (subdomains)
+Watsons PH (subdomains)
+Watsons TW (subdomains)
+Watsons TR (subdomains)
+Marionnaud (subdomains)
+Watsons TH (subdomains)
+Watsons SG (subdomains)
+Watsons ID (subdomains)
+Trekpleister (subdomains)
+PlayStation Network
+Other Hardware Assets
+MIUI OS for Xiaomi Phone
+Other APK Assets
+iVUE AppSuite
+iVUE ABS
+iVUE CC&B
+iVUE Connect
+iVUE E&O
+iVUE Document Vault
+NISC Cloud Portal
+NISC Community
+NISC Payment Gateway
+NISC SmartHub
+https://www.amazonpay.in/*
+Other Amazon Retail Sites (Please only actively test explicitly stated scope)
+Other Amazon Retail Mobile Apps (Please only actively test explicitly stated scope)
+Amazon Subsidiaries (Please only actively test explicitly stated scope)
+Other Amazon Retail Assets (Please only actively test explicitly stated scope)
+Account Settings
+Login with SMS - Feature
+Magic and Fortmatic Products
+Multi-factor Auth - Feature
+Any .magic.link demo sites
+Components
+Campaign
+k8s.gcr.io
+https://storage.googleapis.com/kubernetes-release/
+Community Management & Communications
+All Mobile Assets
+NordVPN Browser Extension
+Chrome Extension
+LINE Messenger - VOOM
+LINE Messenger - Keep
+LINE Messenger - VoIP
+LINE Messenger - Chat
+LINE Messenger - OpenChat
+LINE Messenger - News
+Other Assets
+Platform Core API
+Etherspot SDK
+Coda Chrome Extension
+*equifax.com
+*equifax.com.ar
+*equifax.com.mx
+*equifax.com.pr
+*equifax.com.tw
+*equifax.ca
+*equifax.com.au
+*equifax.cl
+*equifax.co.cr
+*equifax.ec
+*equifax.sv
+*equifax.hn
+*equifax.co.in
+*equifax.co.nz
+*equifax.com.py
+*equifax.pe
+*equifax.pt
+*equifax.ru
+*equifax.es
+*equifax.co.uk
+*.mapcity.com
+*.dicom.cl
+*.ansoniacreditdata.com
+*.talx.com
+*.i2verify.com
+*.kount.net
+*.hiretech.com
+*.wageverify.com
+*.kount.com
+*.accountscore.com
+*.accountscore.co.uk
+*.accountscore.net
+*.employersedge.com
+*.employersedge.net
+*.datacredito.com
+*.datacredito.com.do
+*.datacredito.info
+*.healthefx.net
+*.healthefx.us
+*.healthefxforms.us
+*.paynet.us,*.paynet.ca,*.paynet.com,*.paynet.credit
+*.equifax.com.pe
+*.i9anywhere.com
+*.paynetonline.us,*.paynetonline.ca,*.paynetonline.com,*.paynetonline.site,*.paynetonline.mobi
+*.efficienthire.com
+*.efficientforms.com
+*.i9advantage.com
+*.midigator.com
+*.appriss.com,*.appriss.net,*.apprissafety.com,*.apprissgomobile.com,*.apprissinsights.com,*.apprissinsights.net,*.apprissmobile.com
+*.datacredito1.com
+*.datacredito2.com
+*.datacredito3.com
+*.equifax.cl
+*.equifax.com
+Faucets
+Eno® Browser Extension
+ MS Office Add-In
+Browser Extensions
+Capture the Flag
+AppActions
+Grammarly Business Features
+Braintree SDK
+PayPal SDK
+IBM Products
+IBM Websites
+IBM Tokens & Secrets
+All Other BitMEX Assets
+https://play.google.com/store/apps/details?id=com.bitmex.app.android.testnet
+https://testflight.apple.com/join/533gFghn
+CosmWasm
+Packet Forward Middleware
+CometBFT
+Cosmos SDK
+ibc-go
+Horcrux
+Hermes Relayer
+IBC Go Relayer
+*.advisorsolutions.gs.com
+*.folioclient.com
+*.foliofn.com
+*.folioidentity.com
+*.folioinstitutional.com
+*.nnip.com
+*.vennhypotheken.nl
+*.nextcapital.com
+*.foliodigitalwealth.com
+*.foliofirst.com
+*.folioinvesting.com
+Steam Servers
+Steam Client
+Crypto.com Wallet Extension
+Security vulnerabilities that are identified in Sony products or in website domains owned, operated, or controlled by Sony are in scope.
+CrowdStrike public infrastructure
+BBAC
+Other Semrush Related Asset
+Leaked/Сompromised Employee accounts
+https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb?hl=en
+https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/
+https://addons.opera.com/extensions/details/bitwarden-free-password-manager/
+https://safari-extensions.apple.com/details/?id=com.bitwarden.safari-LTZ2PFU5D6
+Tor
+Tor Browser
+C100447517
+C103149579
+Parrot Security OS
+Other Spotify websites
+Gimlet
+Anchor
+Loudr
+Parcast
+Megaphone
+Podsights
+Chartable
+Sonantic
+Standalone Chrome extension
+FIles.com REST API
+Files.com SDK's
+https://wordpress.org/plugins/formassembly-web-forms/ 
+Subdomain Takeover (SDTO)
+Other assets
+0x0d8775f648430679a709e98d2b0cb6250d2887ef
+0x44fcfabfbe32024a01b778c025d70498382cced0
+0x7c31560552170ce96c4a7b018e93cddc19dc61b6
+0xfbfa258b9028c7d4fc52ce28031469214d10daeb
+0x67fa2c06c9c6d4332f330e14a66bdf1873ef3d2b
+Malicious or compromised gem
+GitHub Enterprise Cloud
+GitHub Pages
+GitHub Production Credentials
+Dependabot
+GitHub for mobile
+Copilot
+GitHub CSP
+Copilot Chat on dotcom
+uber.com
+Recon Data
+*.uberinternal.com
+*ubereats.com
+Your Own GitLab Instance
+Other non-production infrastructure
+GitLab for Jira Cloud
+All Assets (other than Blinkit)
+All Blinkit assets (in scope)
+github.com/deriv-com
+https://developer.zendesk.com/documentation/zendesk-sdks/#ios
+https://developer.zendesk.com/documentation/zendesk-sdks/#android
+Shopify Mobile Applications
+Shopify Developed Apps
+Shopify Third Party Apps
+Shopify Third Party Store
+*.sc-corp.net
+Tier A - Core Assets
+Tier B - Non Core (Bitmoji, Playcanvas)
+UniFi Cloud
+UID
+Adobe Commerce, Commerce B2B and Commerce Open Source
+C2PA Tool
+Workfront Outlook Plugin
+ContentCal
+Localized airbnb sites listed at the link below:
+channelstore.roku.com/details/48061/vhx
+VHX Branded Customer iOS Apps
+VHX Branded Customer Android Apps
+VHX Branded Customer Roku Apps
+Livestream software (Producer, Studio)
+Any IP address reasonably attribute to Informatica 
+Any other domain reasonably attributable to Informatica 
+Cloudflare Pages
+CDNJS
+WARP Mobile Apps
+Cloudflare Access
+Stream
+1.1.1.1 Resolver
+Magic Transit
+Spectrum
+Load Balancing
+Bot Management
+Cloudflare Zero Trust/Cloudflare One
+Open source tools from Cloudflare
+Cloudflare D1
+Cloudflare R2
+WARP desktop client
+*.cloudflarepartners.com
+Cloudflare DNS
+Cloudflare CASB
+Workers
+Cloudflare Tunnel
+AMP Real URL
+Cloudflare Cache 
+Magic Firewall
+Cloudflare Zaraz
+China Network
+API Shield
+Gateway
+Browser Isolation
+AI Gateway
+Vectorize
+Hyperdrive
+Workers KV
+Cloudflare Analytics
+Cloudflare Durable Objects
+Turnstile
+Waiting Room
+Magic WAN
+Data Loss Prevention (DLP)
+SSL/TLS
+Images
+WooCommerce
+Crowdsignal
+WordPress.com VIP
+WordPress Plugins & Themes
+https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad
+Web3 Smart Contracts
+Coinbase WaaS (Wallet as a Service)
+*.base.org
+Slack Desktop Application
+Yahoo! (misc)
+7News
+Yahoo Sports: Editorial
+Yahoo Sports: Fantasy Sports
+Yahoo Sports: Rivals
+Yahoo Finance
+Yahoo HK News
+Yahoo Mail
+Yahoo Search
+TW eCommerce: Auctions
+TW Media: News
+TW eCommerce: Shopping
+TW Media: Stock
+Yahoo Video
+Yahoo Weather
+Newsroom
+Yahoo News
+Gemini
+Makers
+BUILD
+Built By Girls
+Membership
+Omega
+Ensemble
+Yahoo Calendar
+RYOT
+Engadget
+TechCrunch
+Autoblog
+AOL Mail
+Yahoo Sports: Rivals Forums
+Yahoo Sports: Mobile
+Yahoo Sports: Fantasy Slate/PicknWin
+Yahoo Sports: Best Ball
+Yahoo Sports: Fantasy Games
+Yahoo Sports: Fantasy Wallet
+Yahoo Sports: Daily Fantasy
+Social Media Accounts
+TW Media: Front Page
+TW eCommerce: Used Car
+AOL (misc)
+AOL Homepage
+AOL Mobile Apps
+AOL Search
+AOL Help
+Yahoo Elections
+Online Marketplace
+Low Cost Access
+DSP
+Yahoo Homepages
+Yahoo Games
+Other (misc)
+*.vpn.hackerone.net
+MacOS App Store
+Our infrastructure hosted in Azure Cloud
+https://haveafling.s3.amazonaws.com/
+github.com/aiven
+Aiven for Apache Kafka managed and hosted service 
+Aiven for M3 managed and hosted service 
+Aiven for PostgreSQL managed and hosted service
+Aiven for MySQL managed and hosted service
+Aiven for OpenSearch managed and hosted service
+Aiven for Apache Cassandra managed and hosted service
+Aiven for Redis managed and hosted service
+Aiven for InfluxDB managed and hosted service
+Aiven for Grafana managed and hosted service
+Aiven for Apache Flink (beta) managed and hosted service
+Aiven for Clickhouse (beta) managed and hosted service
+CTF challenge: ed25519 SSH host key of falcon-bug-bounty-flag-pgsql-dev-sandbox.aivencloud.com
+(*).theendlessweb.com
+(*).itsendless.org
+(*).endlessgroup.org
+nlaolsrvq02.mtn.co.za:8006/rest/atg/v1/device/mtnsite
+portals-preprod.mtn.co.za:443
+mtnid-preprod.mtn.co.za:443
+http://nlaussrvu01:9982/
+http://jhmcgwrva01:8080
+http://flaeblrvd09:15002/ebilling-qa-ui/-1   
+AODocs Smartbar Chrome Extension
+Amitree Chrome extension https://chrome.google.com/webstore/detail/folio/ecaieeiecbdhkcgknidmfelflleobbnp?hl=en
+Magento 2 Commerce, Commerce B2B and Open Source 
+Any IP belonging to Liberapay
+com/us/app/cobinhood-ethereum-exchange/id1369572233?mt=8&ign-mpt=uo%3D4
+Maps Marker Pro WordPress plugin
+Content
+twitter.com/urbandictionary

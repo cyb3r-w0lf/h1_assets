@@ -1,0 +1,6 @@
+com.spotify.tv.android
+com.spotify.s4a
+com.spotify.music
+com.spotify.lite
+com.spotify.kids
+fm.anchor.android

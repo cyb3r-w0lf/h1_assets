@@ -1,0 +1,6 @@
+www.bitwala.com
+app.bitwala.com
+api.app.bitwala.com
+www.nuri.com
+app.nuri.com
+api.app.nuri.com

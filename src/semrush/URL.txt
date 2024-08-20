@@ -1,0 +1,2 @@
+workflows.semrush.com
+investors.semrush.com

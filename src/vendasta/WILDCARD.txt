@@ -1,0 +1,3 @@
+*.apigateway.co
+*.vendasta-internal.com
+*.yesware.com

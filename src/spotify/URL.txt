@@ -1,0 +1,3 @@
+assets.spotify.com
+api.spotify.com
+backstage.io

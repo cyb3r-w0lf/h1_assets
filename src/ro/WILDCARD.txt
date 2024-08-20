@@ -1,0 +1,7 @@
+*.ro.co
+*.getroman.com
+*.ropharmacy.com
+*.hellorory.com
+*.modernfertility.com
+*.kit.ro.co
+*.myplenity.com

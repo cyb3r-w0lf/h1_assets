@@ -1,0 +1,2 @@
+*.staging-airtableblocks.com
+*.staging.airtable.com

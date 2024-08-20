@@ -1,0 +1,4 @@
+*.lahitapiolarahoitus.fi
+*.lahitapiola.fi
+*.tapiola.fi
+*.beta.lahitapiola.fi

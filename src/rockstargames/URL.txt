@@ -1,0 +1,7 @@
+socialclub.rockstargames.com
+prod.ros.rockstargames.com
+support.rockstargames.com
+*.rockstargames.com
+store.rockstargames.com
+rockstarnorth.com
+circolocorecords.com/

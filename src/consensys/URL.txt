@@ -1,0 +1,14 @@
+activate.codefi.network
+canary.activate.codefi.network
+on-ramp.metaswap-dev.codefi.network
+webhooks-api-experimental.codefi.network
+http://portfolio.metamask.io
+app.infura.io
+https://metamask-sdk-socket.metafi.codefi.network/
+http://staking.consensys.io
+https://consensys.io/
+https://www.infura.io/faucet/sepolia
+https://www.infura.io/faucet/linea
+bridge.codefi.network
+support.metamask.io
+tickets.metamask.io

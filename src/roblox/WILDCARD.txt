@@ -1,0 +1,4 @@
+*.roblox.com
+*.rbx.com
+*.guilded.gg
+*.ra.roblox.com

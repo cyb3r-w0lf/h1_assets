@@ -1,0 +1,7 @@
+customers.gitlab.com
+registry.gitlab.com
+gitlab.com
+about.gitlab.com
+docs.gitlab.com
+design.gitlab.com
+advisories.gitlab.com

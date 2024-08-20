@@ -1,0 +1,5 @@
+bitso.com
+api.bitso.com
+http://bitso.com/alpha
+nvio.mx
+nvio.ar

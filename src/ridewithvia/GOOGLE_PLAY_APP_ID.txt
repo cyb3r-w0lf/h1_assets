@@ -1,0 +1,2 @@
+via.rider
+ com.citymapper.app.release

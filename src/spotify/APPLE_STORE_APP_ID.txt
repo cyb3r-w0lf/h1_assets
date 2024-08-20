@@ -1,0 +1,4 @@
+com.spotify.client
+com.spotify.s4a
+com.spotify.kids
+com.anchorfminc.Anchor

@@ -1,0 +1,2 @@
+www.elastic.co
+cloud.elastic.co

@@ -1,0 +1,6 @@
+*.sam.gov
+*.acquisition.gov
+*.digital.gov
+*.ecpic.gov
+*.facadatabase.gov
+*.gsa.gov

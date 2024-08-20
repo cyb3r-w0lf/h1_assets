@@ -1,0 +1,3 @@
+global-api.citymapper.com
+eu.remix.com
+platform.remix.com

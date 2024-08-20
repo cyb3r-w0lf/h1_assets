@@ -1,0 +1,5 @@
+www.hostinger.com
+cpanel.hostinger.com
+hpanel.hostinger.com
+payments.hostinger.com
+builder.hostinger.com

@@ -1,0 +1,6 @@
+dashboard.razorpay.com
+api.razorpay.com
+checkout.razorpay.com
+invoices.razorpay.com
+payroll.razorpay.com
+x.razorpay.com

@@ -1,0 +1,3 @@
+*.tumblr.com
+*.srvcs.tumblr.com
+*.txmblr.com

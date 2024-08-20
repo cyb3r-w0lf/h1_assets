@@ -1,0 +1,2 @@
+web.grindr.com
+preprod1.grindr.com

@@ -1,0 +1,216 @@
+https://packagecloud.io/pagerduty/rundeckpro/packages/rpm_any/rpm_any/rundeckpro-enterprise-4.14.1.20230622-1.noarch.rpm/download.rpm?distro_version_id=227
+https://packagecloud.io/pagerduty/rundeckpro/packages/java/com.rundeck.sidecar/pd-runner-0.1.46.jar
+https://packagecloud.io/pagerduty/rundeckpro/packages/java/com.rundeck.enterprise/rundeckpro-enterprise-4.14.1-20230622.war/artifacts/rundeckpro-enterprise-4.14.1-20230622.war/download 
+https://packagecloud.io/pagerduty/rundeckpro/packages/any/any/rundeckpro-enterprise_4.14.1.20230622-1_all.deb/download.deb?distro_version_id=35 
+https://packagecloud.io/pagerduty/rundeck/packages/rpm_any/rpm_any/rundeck-4.14.1.20230622-1.noarch.rpm/download.rpm?distro_version_id=227
+https://packagecloud.io/pagerduty/rundeck/packages/java/org.rundeck/rundeck-4.14.1-20230622.war/artifacts/rundeck-4.14.1-20230622.war/download 
+https://packagecloud.io/pagerduty/rundeck/packages/any/any/rundeck_4.14.1.20230622-1_all.deb/download.deb?distro_version_id=35
+Dynatrace OneAgent
+Dynatrace ActiveGate
+Dynatrace MobileAgent
+Front for Mac
+Front for Windows
+HyprUnlock.exe
+HYPR Workforce Access.app
+Windows Desktop Application
+MacOS Desktop Application
+Malwarebytes for Windows
+Malwarebytes for Mac
+Malwarebytes for Teams
+Malwarebytes Remediation for CrowdStrike
+Malwarebytes Incident Response
+Malwarebytes ToolSet (MBTS)
+Malwarebytes Anti-Exploit
+Malwarebytes Anti-Ransomware
+Malwarebytes Windows Firewall Control
+AdwCleaner
+USB Flash Drive Control
+Virtual Office Desktop
+doppler
+SDM Client - Windows (sdm.exe)
+SDM Client - macOS (sdm.app)
+SDM Gateway - *nix 
+Tenable Sensor Proxy
+https://download.krisp.ai/win
+https://download.krisp.ai/mac
+406056744
+FortniteClient-Win64-Shipping.exe
+FortniteLauncher-Win64-Shipping.exe
+FortniteLauncher-Win64-Shipping_BE.exe
+FortniteLauncher-Win64-Shipping_EAC.exe
+FortniteLauncher.exe
+EOS C# SDK
+UnrealEditorFortnite-Win64-Shipping.exe
+EpicGamesLauncher.exe    
+Beats - Auditbeat
+Beats - Filebeat
+Beats - Heartbeat
+Beats - Metricbeat
+Beats - Packetbeat
+Beats - Winlogbeat
+Elastic Agent
+Elastic Cloud Enterprise (ECE)
+Elastic Cloud on Kubernetes (ECK)
+Elastic Enterprise Search
+Elastic Maps Server
+Elasticsearch
+Logstash
+Observability - APM Agents
+Observability - APM Server
+Fleet Server
+Kibana
+Beats
+Mattermost Desktop
+Windows OS Executable: Download here https://www.larksuite.com/download
+Mac OS Executable: Download here https://www.larksuite.com/download
+Exodus Desktop Wallet
+basecamp3.exe
+Basecamp.app
+HEY.app
+hey-mail
+Streamlabs Desktop Application PC/MAC
+Logitech Sync
+Logitech MIXLINE
+Logi Tune PC/MAC
+G Hub
+Logi Options+ PC/MAC
+Other Logitech Desktop and Mobile Application
+Harmony Remote Software
+Logitech Options PC/MAC
+Acronis Agent
+Acronis Cyber Protect
+Acronis Cyber Protect Home Office (formerly Acronis True Image)
+Acronis DeviceLock DLP
+Acronis Snap Deploy
+Acronis Cyber Files
+Other Acronis executables
+Acronis Cloud Manager
+Mackeeper app
+HCL AppScan
+HCL BigFix
+HCL Commerce
+HCL Connections
+HCL Digital Experience (Portal & Content Manager)
+HCL Domino
+HCL Notes
+HCL Sametime
+HCL Unica
+HCL Verse
+HCL Clara
+HCL HERO
+HCL Atlas
+HCL Design Room Live!
+HCL Forms
+HCL Informix
+HCL Informix on Cloud
+HCL Integration Platform (HIP)
+HCL Leap
+HCL OneTest
+HCL One Test Embedded
+HCL RealTime Software Tooling (RTist)
+HCL Terminal Enterprise Access (TEA)
+HCL UrbanCode Deploy
+HCL UrbanCode Velocity
+HCL Workload Automation (HWA)
+HCL Workload Automation on AWS
+HCL Z Asset Optimizer 
+HCL Z Data Tools
+HCL Tech - GEO - Leave Management System (LMS)
+HCL Tech - India - Leave Management System (LMS)
+HCL Tech - Global Claim System - CVCS Azure
+HCL Tech - TP-SOW
+HCL Tech - Smart Service Desk (SSD) Azure
+HCL Tech - Revenue Forecast System (iRFS)
+HCL Tech - Resource Assignation System (RAS)
+HCL Tech - HCLT-EIS-Project Initiation & Budgeting
+HCL Tech - Netconsole Joining
+HCL Tech - My Travel TAS AZURE
+HCL Tech - My Profile (ESS)
+HCL Tech - iTIME
+HCL Tech - iRemunerate
+HCL Tech - iOnboard Application
+HCL Tech - iOffboardWebOnPrim
+HCL Tech - Global Claim System - ECS
+HCL Tech - Geo Joining Console (GJC)
+HCL Tech - Compensation Console OnPrim
+HCL Tech - Billing Request System (BRQ)
+Roblox Client
+Roblox Studio
+Jitsi Meet Desktop
+DSE, Opscenter
+NordVPN - Windows Executable
+NordVPN - MacOS Executable
+NordVPN - Linux Executable
+NordPass - Windows Executable
+NordPass - MacOS Executable
+NordPass - Linux Executable
+Windows Executable
+Suspected Java Component
+Grammarly for Microsoft Word
+Grammarly Desktop for Windows
+Grammarly Desktop for macOS
+https://github.com/bitwarden/desktop/releases/latest
+https://github.com/bitwarden/cli/releases/latest
+Spotify desktop application (Windows and Mac)
+https://www.dashlane.com/fr/directdownload-v2?os=none&platform=website&target=archive_win
+https://www.dashlane.com/fr/directdownload-v2?os=OS_X_10_12_6&platform=website&target=launcher_macosx
+Rockstar Games Launcher
+Files.com Desktop Application for Windows or Mac
+Burp Collaborator
+Burp Suite Enterprise Edition
+Burp Suite Pro/Community
+Burp Suite Extension (BApps)
+https://laptop-updates.brave.com/latest/osx
+https://laptop-updates.brave.com/latest/winx64
+https://laptop-updates.brave.com/latest/winia32
+https://laptop-updates.brave.com/latest/dev/debian64
+https://laptop-updates.brave.com/latest/dev/ubuntu64
+https://laptop-updates.brave.com/latest/mint64
+https://laptop-updates.brave.com/latest/fedora64
+https://laptop-updates.brave.com/latest/openSUSE64
+https://laptop-updates.brave.com/latest/linux64
+GoCD (https://www.gocd.org/download)
+Desktop Client
+GitHub Desktop
+GitHub CLI
+npm CLI
+Lens Studio
+UniFi Network Application
+UCRM
+UNMS
+ColdFusion
+Adobe Acrobat Reader DC
+Photoshop
+Lightroom
+After Effects
+Animate
+Audition
+Adobe AIR
+Bridge
+Character Animator
+Creative Cloud Desktop Application
+Digital Editions
+Dreamweaver
+Flash Player
+Fonts
+Framemaker
+Illustrator
+InCopy
+InDesign
+Media Encoder
+Prelude
+Premiere Pro
+XD
+Adobe Campaign
+Adobe Experience Manager (AEM)
+Lightroom Classic
+XMP Toolkit
+Distiller
+Premiere Rush
+Premiere Elements
+Dimension
+Substance 3D
+Any Informatica on-premise software
+https://salesforce.quip.com/blog/desktop
+yarn
+VK Messenger

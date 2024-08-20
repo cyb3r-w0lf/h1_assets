@@ -1,0 +1,6 @@
+*.gocardless.io,*.gocardless-banking.io
+*.gocardless-cicd.io
+*.gocardless-staging.io
+*.gocardless-lab.io
+*.gocardless.com
+*.gocardless.dev

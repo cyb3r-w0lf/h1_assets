@@ -1,0 +1,6 @@
+*.cloud.vimeo.com
+*.vimeo.com
+*.vhx.tv
+*.magisto.com
+*.livestream.com
+*.new.livestream.com

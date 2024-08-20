@@ -1,0 +1,8 @@
+*.withspotify.com
+*.byspotify.com
+*.atspotify.com
+*.avecspotify.com
+*.enspotify.com
+*.forspotify.com
+*.fromspotify.com
+*.tospotify.com

@@ -1,0 +1,10 @@
+github.com
+api.github.com
+gist.github.com
+classroom.github.com
+*.githubapp.com
+*.github.net
+education.github.com
+*.githubusercontent.com
+npmjs.com
+npmjs.org

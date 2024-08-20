@@ -1,0 +1,17 @@
+iv.usps.com
+id.usps.com
+gateway.usps.com
+reg.usps.com
+pi.usps.com
+retail-pi.usps.com
+store.usps.com
+internationalclaims.usps.com
+https://www.usps.com/postalone/
+ncoa.usps.gov
+moversguide.usps.com
+https://holdmail.usps.com/holdmail/
+https://redelivery.usps.com/redelivery/
+https://about.usps.com/what/government-services/election-mail/
+www.usps.com
+www.liteblue.usps.gov
+www.usps.gov

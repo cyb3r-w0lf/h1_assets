@@ -1,0 +1,7 @@
+*.snooguts.net
+*.reddit.com
+*.redditmedia.com
+*.redditinc.com
+*.redditblog.com
+*.reddithelp.com
+*.spiketrap.io

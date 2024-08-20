@@ -1,0 +1,4 @@
+*.windstreamsmallbusiness.com
+*broadviewnet.com
+*.windstream.com
+*.windstream.net

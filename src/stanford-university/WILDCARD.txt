@@ -1,0 +1,2 @@
+*.sahr.stanford.edu
+https://*.stanford.edu

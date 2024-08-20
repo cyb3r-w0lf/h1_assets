@@ -1,0 +1,11 @@
+*.jimdosite.com
+*.jimdoreseller.com
+*.jimdo-platform.net
+*.jimdo-data-platform.net
+*.jimdo-server.com
+*.jimdo.com
+*.jimdofree.com
+*.jimdoapi.com
+*.jimdo-stable-staging.com
+*.jimdo-dev-staging.com
+*.jimdo.systems

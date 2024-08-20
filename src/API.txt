@@ -1,0 +1,17 @@
+auth.onepeloton.com
+auth-orca.onepeloton.com 
+auth2.onepeloton.com
+auth-stage.onepeloton.com 
+auth2-stage.onepeloton.com
+https://api.6sense.com/docs/#introduction
+funding-webhooks.remitly.io
+hub-api-sandbox.remitly.io
+apimobile.vueling.com
+https://sandbox.fireblocks.io/v2/settings/notifications
+api-gateway.polygon.technology
+faucet-api.polygon.technology/
+gasstation.polygon.technology/
+api-polygon-tokens.polygon.technology/
+balance-api.polygon.technology/
+Crypto.com mobile app APIs that require an account
+Crypto.com Exchange APIs that require an account

@@ -1,0 +1,4 @@
+*.grindr.io
+*.grindr.com
+*.grindr.mobi
+*.dev.grindr.io

@@ -1,0 +1,5 @@
+*.apnic.net
+*.apnic.foundation
+*.isif.asia
+*.seedalliance.net
+*.apidt.org

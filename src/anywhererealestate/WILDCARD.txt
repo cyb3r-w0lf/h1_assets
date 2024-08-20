@@ -1,0 +1,16 @@
+*.era.com
+*.trgc.com
+*.leadrouter.com
+*.cartus.com
+*.mycbdesk.com
+*.anywhere.re
+*.century21.com
+*.realogy.com
+*.bhgre.com
+*.sothebysrealty.com
+*.corcoran.com
+*.cbcworldwide.com
+*.nrtllc.com
+*.coldwellbanker.com
+*.century21global.com
+*.c21.com

@@ -1,0 +1,14 @@
+*.coinbase.com
+*.cbhq.net
+pro.coinbase.com
+custody.coinbase.com
+commerce.coinbase.com
+prime.coinbase.com
+institutional.coinbase.com
+api.coinbase.com
+api.custody.coinbase.com
+cloud.coinbase.com
+coinbase.com
+nft.coinbase.com
+http://coinbase.com
+international.coinbase.com

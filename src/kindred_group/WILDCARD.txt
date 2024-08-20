@@ -1,0 +1,12 @@
+*.unibet.com
+*.unibet.fr
+*.storspiller.com
+*.bingo.com
+*.mariacasino.com
+*.kolikkopelit.com
+*.casinohuone.com
+*.vladcazino.ro
+*.ottokasino.com
+*.kindredext.net
+*.highrolling.nu
+*.kes.kindredext.net

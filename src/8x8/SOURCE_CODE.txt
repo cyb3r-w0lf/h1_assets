@@ -1,0 +1,2 @@
+https://github.com/jitsi
+https://github.com/8x8/8x8_messaging_java_client

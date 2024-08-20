@@ -1,0 +1,578 @@
+65430	https://hackerone.com/ivanti_vdp	Ivanti (VDP)	ivanti_vdp
+82909	https://hackerone.com/anthropic-vdp	Anthropic (VDP)	anthropic-vdp
+59057	https://hackerone.com/vodafone_oman	Vodafone Oman	vodafone_oman
+83103	https://hackerone.com/peloton	Peloton	peloton
+54574	https://hackerone.com/pagerduty	PagerDuty	pagerduty
+86792	https://hackerone.com/nba-public	NBA Public Bug Bounty	nba-public
+56330	https://hackerone.com/prudential-financial	Prudential Financial	prudential-financial
+18748	https://hackerone.com/oportun_vdp	Oportun	oportun_vdp
+55472	https://hackerone.com/moov	Moov	moov
+63726	https://hackerone.com/tim_hortons_vdp	Tim Hortons VDP	tim_hortons_vdp
+83086	https://hackerone.com/6sense-vdp	6sense VDP	6sense-vdp
+57997	https://hackerone.com/productboard	ProductBoard, Inc.	productboard
+57016	https://hackerone.com/render	Render	render
+76677	https://hackerone.com/timelycare	TimelyCare	timelycare
+51966	https://hackerone.com/dib-vdp	DIB-VDP	dib-vdp
+83563	https://hackerone.com/circle-bbp	Circle BBP	circle-bbp
+79046	https://hackerone.com/nimiq	Nimiq	nimiq
+83935	https://hackerone.com/varonis	Varonis	varonis
+75285	https://hackerone.com/netflix	Netflix	netflix
+37035	https://hackerone.com/early_warning	Early Warning	early_warning
+81945	https://hackerone.com/klarna	Klarna	klarna
+53499	https://hackerone.com/koho	KOHO	koho
+72870	https://hackerone.com/aeromexico_vdp	Aeromexico VDP	aeromexico_vdp
+71332	https://hackerone.com/transunion	TransUnion LLC	transunion
+64932	https://hackerone.com/ionity_gmbh	Ionity GmbH	ionity_gmbh
+70006	https://hackerone.com/aon	Aon	aon
+77155	https://hackerone.com/lowes	Lowe's Companies VDP	lowes
+74937	https://hackerone.com/banco_bmg	Banco BMG VDP	banco_bmg
+58679	https://hackerone.com/rei_vdp	REI VDP	rei_vdp
+9322	https://hackerone.com/dyson	Dyson	dyson
+44135	https://hackerone.com/truecaller	Truecaller 	truecaller
+32674	https://hackerone.com/remitly	Remitly	remitly
+77076	https://hackerone.com/chia_network	Chia Network	chia_network
+76876	https://hackerone.com/alchemyplatform	Alchemy Insights, Inc.	alchemyplatform
+76567	https://hackerone.com/interco_vdp	Inter & Co. VDP	interco_vdp
+63660	https://hackerone.com/toolsforhumanity	Tools for Humanity	toolsforhumanity
+48435	https://hackerone.com/vendasta	Vendasta	vendasta
+46476	https://hackerone.com/international_airlines_group	International Airlines Group	international_airlines_group
+58609	https://hackerone.com/arkose_labs	Arkose Labs	arkose_labs
+58697	https://hackerone.com/sheer_bbp	Sheer	sheer_bbp
+60414	https://hackerone.com/pornbox	PornBox	pornbox
+103	https://hackerone.com/publitas	Publitas	publitas
+57779	https://hackerone.com/fireblocks	Fireblocks	fireblocks
+39572	https://hackerone.com/dynatrace	Dynatrace	dynatrace
+69717	https://hackerone.com/oaknorth_bank	OakNorth Bank	oaknorth_bank
+57935	https://hackerone.com/dynamic_labs	Dynamic Labs	dynamic_labs
+75348	https://hackerone.com/wellhive	WellHive	wellhive
+45515	https://hackerone.com/hostinger	hostinger 	hostinger
+62739	https://hackerone.com/eufy_security	eufy Security	eufy_security
+60430	https://hackerone.com/egress-vdp	Egress Software Technologies	egress-vdp
+73655	https://hackerone.com/23andme_bbp	23andMe Bug Bounty	23andme_bbp
+33462	https://hackerone.com/mercadolibre	MercadoLibre	mercadolibre
+73681	https://hackerone.com/temu	Temu	temu
+1078	https://hackerone.com/bookingcom	Booking.com	bookingcom
+71387	https://hackerone.com/bybit_fintech	Bybit Fintech Ltd	bybit_fintech
+45827	https://hackerone.com/navient_solutions	Navient Solutions LLC	navient_solutions
+58820	https://hackerone.com/frontegg	Frontegg	frontegg
+50128	https://hackerone.com/cbre	CBRE	cbre
+35433	https://hackerone.com/fronthq	Front	fronthq
+59152	https://hackerone.com/boozt	Boozt Fashion AB	boozt
+70847	https://hackerone.com/trip_com	Trip.com	trip_com
+58649	https://hackerone.com/mergify	Mergify	mergify
+51985	https://hackerone.com/compass-bbp	Compass	compass-bbp
+50163	https://hackerone.com/blueapron	Blue Apron, LLC VDP	blueapron
+51483	https://hackerone.com/hypr-corp	HYPR	hypr-corp
+57841	https://hackerone.com/modern_treasury	Modern Treasury	modern_treasury
+63596	https://hackerone.com/nicehash	NiceHash	nicehash
+53090	https://hackerone.com/particle-health-vdp	Particle Health VDP	particle-health-vdp
+62920	https://hackerone.com/brightspeed	Brightspeed	brightspeed
+39750	https://hackerone.com/gocardless_bbp	GoCardless Bug Bounty Program	gocardless_bbp
+58678	https://hackerone.com/rei_bbp	REI BBP	rei_bbp
+58669	https://hackerone.com/coinhako	Coinhako	coinhako
+70673	https://hackerone.com/inditex	Inditex	inditex
+70351	https://hackerone.com/leather_wallet	Leather Wallet	leather_wallet
+63712	https://hackerone.com/alshaya	Alshaya	alshaya
+57982	https://hackerone.com/wisdomtree	WisdomTree, Inc.	wisdomtree
+60429	https://hackerone.com/kahootz-vdp	Kahootz	kahootz-vdp
+60539	https://hackerone.com/abn_amro_vdp	ABN AMRO Bank VDP	abn_amro_vdp
+61537	https://hackerone.com/fertitta_entertainment	Fertitta Entertainment	fertitta_entertainment
+64556	https://hackerone.com/aboitizpower_corporation	AboitizPower	aboitizpower_corporation
+70022	https://hackerone.com/fireblocks_mpc	Fireblocks MPC	fireblocks_mpc
+36246	https://hackerone.com/nba-vdp	NBA	nba-vdp
+60123	https://hackerone.com/greenfly	Greenfly	greenfly
+45444	https://hackerone.com/standard_notes	Standard Notes	standard_notes
+69749	https://hackerone.com/aven_response	Aven (Response)	aven_response
+53129	https://hackerone.com/servicenow-disclosure	ServiceNow Disclosure	servicenow-disclosure
+63537	https://hackerone.com/eurofins	Eurofins	eurofins
+55164	https://hackerone.com/fresenius	Fresenius	fresenius
+61055	https://hackerone.com/redox_bbp	Redox	redox_bbp
+63820	https://hackerone.com/visa	Visa	visa
+57436	https://hackerone.com/daimler_truck	Daimler Truck	daimler_truck
+58322	https://hackerone.com/fifth_third_bank_vdp	Fifth Third Bank VDP	fifth_third_bank_vdp
+61909	https://hackerone.com/truist_financial	Truist Financial	truist_financial
+54839	https://hackerone.com/clarivate	Clarivate	clarivate
+50166	https://hackerone.com/freshworks	Freshworks 	freshworks
+59489	https://hackerone.com/kolesagroup	Kolesa Group	kolesagroup
+63606	https://hackerone.com/ring	Ring	ring
+51971	https://hackerone.com/tide	Tide	tide
+61236	https://hackerone.com/mozilla	Mozilla	mozilla
+47225	https://hackerone.com/shutterfly_vdp	Shutterfly VDP	shutterfly_vdp
+63415	https://hackerone.com/six-group	SIX Group	six-group
+52738	https://hackerone.com/latamairlines	LATAM Airlines	latamairlines
+53211	https://hackerone.com/newegg	Newegg	newegg
+6000	https://hackerone.com/msd	Merck & Co., Inc., Rahway, NJ, USA	msd
+60431	https://hackerone.com/prolinx-vdp	Prolinx VDP	prolinx-vdp
+62568	https://hackerone.com/eero	eero	eero
+56830	https://hackerone.com/floqast	FloQast	floqast
+55457	https://hackerone.com/hilton	Hilton	hilton
+50934	https://hackerone.com/paystack-vdp	Paystack Vulnerability Disclosure	paystack-vdp
+54565	https://hackerone.com/apnic	APNIC	apnic
+60793	https://hackerone.com/okg	OKG	okg
+57704	https://hackerone.com/city_of_los_angeles_vdp	City of Los Angeles	city_of_los_angeles_vdp
+53632	https://hackerone.com/fastly-vdp	Fastly VDP	fastly-vdp
+58857	https://hackerone.com/indrive	inDrive	indrive
+50697	https://hackerone.com/grindr	Grindr	grindr
+58305	https://hackerone.com/zabbix	Zabbix	zabbix
+56661	https://hackerone.com/skinport	Skinport	skinport
+49424	https://hackerone.com/miro	Miro	miro
+58246	https://hackerone.com/abb	ABB Information Systems Ltd	abb
+21978	https://hackerone.com/malwarebytes	Malwarebytes	malwarebytes
+57677	https://hackerone.com/canada_goose_inc	Canada Goose Inc.	canada_goose_inc
+56159	https://hackerone.com/svb-financial	SVB Financial	svb-financial
+45660	https://hackerone.com/td-bank	TD Bank Group	td-bank
+29970	https://hackerone.com/s-pankki	S-Pankki	s-pankki
+61129	https://hackerone.com/tron_dao	TRON DAO	tron_dao
+8582	https://hackerone.com/kiwicom	Kiwi.com	kiwicom
+52949	https://hackerone.com/hedera-hashgraph	Hedera Hashgraph	hedera-hashgraph
+55704	https://hackerone.com/stanford-university	Stanford University	stanford-university
+58186	https://hackerone.com/kkr_vdp	KKR-VDP	kkr_vdp
+49732	https://hackerone.com/8x8-bounty	8x8 Bounty	8x8-bounty
+60591	https://hackerone.com/superbet	Superbet	superbet
+54756	https://hackerone.com/moonpay	MoonPay 	moonpay
+57325	https://hackerone.com/deliveryhero	Delivery Hero	deliveryhero
+50767	https://hackerone.com/doppler	Doppler	doppler
+52881	https://hackerone.com/us-department-of-state	U.S. Department of State	us-department-of-state
+59122	https://hackerone.com/one_zero_vdp	ONE ZERO VDP	one_zero_vdp
+58088	https://hackerone.com/yuga_labs	Yuga Labs	yuga_labs
+46646	https://hackerone.com/cognizant	Cognizant	cognizant
+33992	https://hackerone.com/expediagroup_bbp	Expedia Group Bug Bounty	expediagroup_bbp
+33400	https://hackerone.com/expediagroup	Expedia Group	expediagroup
+59452	https://hackerone.com/magic-eden	Magic Eden	magic-eden
+58701	https://hackerone.com/zerobounce	ZeroBounce	zerobounce
+55090	https://hackerone.com/divvy-homes	Divvy Homes	divvy-homes
+57405	https://hackerone.com/avalara	Avalara	avalara
+58895	https://hackerone.com/intuit_rdp	Intuit	intuit_rdp
+57666	https://hackerone.com/resmed	ResMed	resmed
+56118	https://hackerone.com/deribit	Deribit	deribit
+58228	https://hackerone.com/abercrombie_fitch	Abercrombie & Fitch Management Co.	abercrombie_fitch
+55550	https://hackerone.com/strongdm	StrongDM	strongdm
+57318	https://hackerone.com/monarch_money	Monarch Money	monarch_money
+55426	https://hackerone.com/allegion	Allegion	allegion
+55148	https://hackerone.com/amazonvrp-devices	Amazon Vulnerability Research Program - Devices	amazonvrp-devices
+54544	https://hackerone.com/blend-labs	Blend Labs	blend-labs
+55951	https://hackerone.com/mongodb	MongoDB	mongodb
+58856	https://hackerone.com/alsco	ALSCO	alsco
+55226	https://hackerone.com/fossil	Fossil	fossil
+55865	https://hackerone.com/mount-sinai-health	Mount Sinai Health	mount-sinai-health
+50581	https://hackerone.com/mars	Mars	mars
+46196	https://hackerone.com/flexport_vdp	Flexport VDP	flexport_vdp
+15466	https://hackerone.com/cornershop	Cornershop	cornershop
+52295	https://hackerone.com/trendyol	Trendyol	trendyol
+53169	https://hackerone.com/tesco	Tesco	tesco
+1930	https://hackerone.com/trellix	Trellix	trellix
+55552	https://hackerone.com/sidefx	SideFX	sidefx
+54832	https://hackerone.com/godaddy-vdp	GoDaddy VDP	godaddy-vdp
+55863	https://hackerone.com/windstream	Windstream	windstream
+56081	https://hackerone.com/fidelity	Fidelity	fidelity
+22762	https://hackerone.com/usertesting	UserTesting	usertesting
+56419	https://hackerone.com/metamask	MetaMask	metamask
+54261	https://hackerone.com/oanda	OANDA	oanda
+52544	https://hackerone.com/beiersdorf	Beiersdorf	beiersdorf
+54299	https://hackerone.com/razorpay	Razorpay	razorpay
+58	https://hackerone.com/linkedin	LinkedIn	linkedin
+3006	https://hackerone.com/wealthsimple	Wealthsimple	wealthsimple
+53834	https://hackerone.com/planet-labs	Planet Labs	planet-labs
+56104	https://hackerone.com/ro	Ro	ro
+51045	https://hackerone.com/pfizer	Pfizer	pfizer
+53207	https://hackerone.com/keurigdrpepper	Keurig Dr Pepper	keurigdrpepper
+1320	https://hackerone.com/kayak	KAYAK	kayak
+49225	https://hackerone.com/callsign	Callsign	callsign
+55988	https://hackerone.com/sorare	Sorare	sorare
+46469	https://hackerone.com/shein	SHEIN	shein
+54981	https://hackerone.com/disney	The Walt Disney Company	disney
+55091	https://hackerone.com/palantir_public	Palantir Public	palantir_public
+12719	https://hackerone.com/exness	EXNESS	exness
+52553	https://hackerone.com/smtp2go	SMTP2GO BBP	smtp2go
+54884	https://hackerone.com/circle	Circle	circle
+55215	https://hackerone.com/securityscorecard	SecurityScorecard	securityscorecard
+50742	https://hackerone.com/gymshark	Gymshark	gymshark
+34960	https://hackerone.com/etoro_bbp	eToro BBP	etoro_bbp
+35527	https://hackerone.com/instacart	Instacart	instacart
+46613	https://hackerone.com/ups	UPS VDP	ups
+56034	https://hackerone.com/alohi	Alohi	alohi
+50349	https://hackerone.com/anywhererealestate	Anywhere Real Estate	anywhererealestate
+24603	https://hackerone.com/databricks	Databricks	databricks
+53638	https://hackerone.com/tenable	Tenable	tenable
+53329	https://hackerone.com/hy-vee	Hy-Vee	hy-vee
+51514	https://hackerone.com/payoneer	Payoneer	payoneer
+54608	https://hackerone.com/redis-vdp	Redis 	redis-vdp
+50957	https://hackerone.com/costco	Costco	costco
+55095	https://hackerone.com/mondelez	Mondelēz International	mondelez
+54803	https://hackerone.com/veeam	Veeam	veeam
+51682	https://hackerone.com/jetblue	JetBlue	jetblue
+50979	https://hackerone.com/tennessee-valley-authority	Tennessee Valley Authority	tennessee-valley-authority
+53084	https://hackerone.com/krisp	Krisp	krisp
+55425	https://hackerone.com/wickr	Wickr	wickr
+55361	https://hackerone.com/agoric	Agoric	agoric
+53545	https://hackerone.com/sega	SEGA	sega
+52105	https://hackerone.com/clubhouse	Clubhouse	clubhouse
+53867	https://hackerone.com/snowplow	Snowplow	snowplow
+53236	https://hackerone.com/octopus-energy	Octopus Energy Group	octopus-energy
+50842	https://hackerone.com/judgeme	Judge.me 	judgeme
+51968	https://hackerone.com/mtb	M&T Bank Vulnerability Disclosure	mtb
+44211	https://hackerone.com/evernote	Evernote	evernote
+23233	https://hackerone.com/epicgames	Epic Games	epicgames
+102	https://hackerone.com/tinder	Tinder	tinder
+51940	https://hackerone.com/recorded-future	Recorded Future	recorded-future
+50592	https://hackerone.com/gsa_bbp	GSA Bounty	gsa_bbp
+54349	https://hackerone.com/ibb	Internet Bug Bounty	ibb
+40160	https://hackerone.com/consensys	Consensys	consensys
+52713	https://hackerone.com/lacework	Lacework	lacework
+52595	https://hackerone.com/nominet	Nominet	nominet
+50470	https://hackerone.com/xvideos	XVIDEOS	xvideos
+23607	https://hackerone.com/elastic	Elastic	elastic
+49728	https://hackerone.com/john-deere	John Deere	john-deere
+50933	https://hackerone.com/stripe	Stripe	stripe
+44150	https://hackerone.com/usps	USPS - United States Postal Service	usps
+3115	https://hackerone.com/homebargains	Home Bargains	homebargains
+49422	https://hackerone.com/aig	AIG	aig
+48976	https://hackerone.com/blackrock	BlackRock	blackrock
+33640	https://hackerone.com/urbancompany	Urban Company	urbancompany
+46293	https://hackerone.com/cedars-sinai	Cedars-Sinai	cedars-sinai
+43923	https://hackerone.com/thomsonreuters-public	Thomson Reuters	thomsonreuters-public
+45701	https://hackerone.com/r3	R3	r3
+48923	https://hackerone.com/zebra_vdp	Zebra VDP	zebra_vdp
+52057	https://hackerone.com/lumiradx	LumiraDx	lumiradx
+35710	https://hackerone.com/reddit	Reddit	reddit
+41393	https://hackerone.com/coinspot	CoinSpot	coinspot
+52423	https://hackerone.com/fastify	Fastify	fastify
+36980	https://hackerone.com/ridewithvia	Via	ridewithvia
+51924	https://hackerone.com/global-payments	Global Payments	global-payments
+50928	https://hackerone.com/on	On 	on
+567	https://hackerone.com/scopely	Scopely	scopely
+35268	https://hackerone.com/mattermost	Mattermost	mattermost
+50286	https://hackerone.com/ohiosecretaryofstate	Ohio Secretary of State	ohiosecretaryofstate
+48983	https://hackerone.com/chime	Chime	chime
+43232	https://hackerone.com/thnks	Thnks	thnks
+48754	https://hackerone.com/launchdarkly	LaunchDarkly	launchdarkly
+46502	https://hackerone.com/openmage	OpenMage	openmage
+45943	https://hackerone.com/cirrusinsight	Cirrus Insight	cirrusinsight
+50698	https://hackerone.com/emoney-advisor	eMoney Advisor	emoney-advisor
+6820	https://hackerone.com/fetlife	FetLife	fetlife
+51543	https://hackerone.com/who-covid-19-mobile-app	WHO COVID-19 Mobile App	who-covid-19-mobile-app
+45152	https://hackerone.com/skale_network	SKALE Network	skale_network
+50553	https://hackerone.com/gsa_vdp	U.S. General Services Administration	gsa_vdp
+193	https://hackerone.com/bitso	Bitso	bitso
+40674	https://hackerone.com/lark_technologies	Lark Technologies	lark_technologies
+48281	https://hackerone.com/mendix	Mendix	mendix
+43825	https://hackerone.com/exodus	Exodus	exodus
+21795	https://hackerone.com/yoti	Yoti	yoti
+22962	https://hackerone.com/netlify	Netlify	netlify
+67	https://hackerone.com/basecamp	Basecamp	basecamp
+50631	https://hackerone.com/csg-public	Cloud Software Group	csg-public
+49708	https://hackerone.com/tiktok	TikTok	tiktok
+32972	https://hackerone.com/logitech	Logitech	logitech
+16388	https://hackerone.com/enjin	Enjin	enjin
+48739	https://hackerone.com/figma	Figma	figma
+48311	https://hackerone.com/cs_money	CS Money	cs_money
+8855	https://hackerone.com/mainwp	MainWP	mainwp
+45675	https://hackerone.com/faraday_inc	Faraday, Inc.	faraday_inc
+45395	https://hackerone.com/simple_poll	Simple Poll	simple_poll
+49254	https://hackerone.com/rebellion-defense	Rebellion Defense	rebellion-defense
+13428	https://hackerone.com/acronis	Acronis	acronis
+24883	https://hackerone.com/affirm	Affirm	affirm
+48354	https://hackerone.com/watson_group	A.S. Watson Group 	watson_group
+43746	https://hackerone.com/clario	Clario	clario
+48980	https://hackerone.com/finra	FINRA Response	finra
+7242	https://hackerone.com/wellsfargo	Wells Fargo	wellsfargo
+44879	https://hackerone.com/playstation	PlayStation	playstation
+47876	https://hackerone.com/trycourier	Courier	trycourier
+49048	https://hackerone.com/polygon-technology	Polygon Technology	polygon-technology
+1387	https://hackerone.com/ips	Invision Power Services, Inc.	ips
+16083	https://hackerone.com/xiaomi	Xiaomi	xiaomi
+24587	https://hackerone.com/flutteruki	Flutter UK&I	flutteruki
+34784	https://hackerone.com/insulet_corporation	Insulet Corporation	insulet_corporation
+31110	https://hackerone.com/nisc	NISC-VDP	nisc
+44002	https://hackerone.com/amazonvrp	Amazon Vulnerability Research Program	amazonvrp
+41286	https://hackerone.com/meta	Meta	meta
+35713	https://hackerone.com/magic-bbp	Magic	magic-bbp
+45900	https://hackerone.com/stagingdoteverydotorg	Staging.every.org	stagingdoteverydotorg
+44612	https://hackerone.com/myndr	Myndr	myndr
+204	https://hackerone.com/glassdoor	Glassdoor	glassdoor
+44134	https://hackerone.com/picsart	Picsart	picsart
+14047	https://hackerone.com/kindred_group	Kindred Group	kindred_group
+43928	https://hackerone.com/hcl_software	HCL Software Inc.	hcl_software
+30994	https://hackerone.com/marriott	Marriott Bug Bounty Program	marriott
+1684	https://hackerone.com/goodrx	GoodRx	goodrx
+19491	https://hackerone.com/roblox	Roblox	roblox
+14122	https://hackerone.com/localizejs	Localize	localizejs
+42008	https://hackerone.com/investnext	InvestNext	investnext
+16887	https://hackerone.com/nutanix	Nutanix	nutanix
+43330	https://hackerone.com/lab45	Lab45	lab45
+39386	https://hackerone.com/kubernetes	Kubernetes	kubernetes
+25188	https://hackerone.com/pingidentity	Ping Identity	pingidentity
+32665	https://hackerone.com/8x8	8x8	8x8
+42327	https://hackerone.com/palo_alto_software	Palo Alto Software	palo_alto_software
+39487	https://hackerone.com/datastax	DataStax	datastax
+17173	https://hackerone.com/nordsecurity	Nord Security	nordsecurity
+44491	https://hackerone.com/pubg	PUBG	pubg
+13343	https://hackerone.com/line	LY Corporation	line
+42368	https://hackerone.com/stripo	Stripo Inc	stripo
+35350	https://hackerone.com/pillarproject	Pillar Project Worldwide Limited	pillarproject
+43225	https://hackerone.com/oasisprotocol	Oasis Protocol Foundation	oasisprotocol
+36713	https://hackerone.com/filezilla	FileZilla	filezilla
+43432	https://hackerone.com/gmelius	Gmelius	gmelius
+44045	https://hackerone.com/lemlist	lemlist	lemlist
+41089	https://hackerone.com/keybank	KeyBank	keybank
+42426	https://hackerone.com/overloop	Overloop	overloop
+40499	https://hackerone.com/worklytics	Worklytics	worklytics
+41357	https://hackerone.com/top_echelon_software	Top Echelon Software	top_echelon_software
+39147	https://hackerone.com/coda_bbp	Coda	coda_bbp
+42751	https://hackerone.com/jnj_mobile	JNJ Mobile	jnj_mobile
+29446	https://hackerone.com/pixiv	pixiv	pixiv
+39489	https://hackerone.com/forescout_technologies	ForeScout Technologies	forescout_technologies
+122	https://hackerone.com/att	AT&T	att
+5044	https://hackerone.com/equifax	Equifax-vdp	equifax
+40756	https://hackerone.com/solidus	Solidus	solidus
+33317	https://hackerone.com/defectdojo	DefectDojo	defectdojo
+31577	https://hackerone.com/chainlink	Chainlink	chainlink
+8936	https://hackerone.com/phpbb	phpBB	phpbb
+59	https://hackerone.com/priceline	Priceline	priceline
+35663	https://hackerone.com/curl	curl	curl
+13323	https://hackerone.com/pyca	Python Cryptographic Authority	pyca
+36569	https://hackerone.com/capital-one	Capital One	capital-one
+37774	https://hackerone.com/starling_bank	Starling Bank Limited	starling_bank
+33616	https://hackerone.com/creditkarma	Credit Karma	creditkarma
+35524	https://hackerone.com/central-security-project	Central Security Project	central-security-project
+21045	https://hackerone.com/omise	Omise	omise
+35812	https://hackerone.com/ford	Ford	ford
+7883	https://hackerone.com/hyatt	Hyatt Hotels	hyatt
+22746	https://hackerone.com/grammarly	Grammarly	grammarly
+26860	https://hackerone.com/ratelimited	RATELIMITED	ratelimited
+34753	https://hackerone.com/fanduel	FanDuel	fanduel
+23970	https://hackerone.com/smule	Smule	smule
+32982	https://hackerone.com/flickr	Flickr	flickr
+1925	https://hackerone.com/matomo	Matomo	matomo
+1915	https://hackerone.com/paypal	PayPal	paypal
+30475	https://hackerone.com/chaturbate	Chaturbate	chaturbate
+2060	https://hackerone.com/ibm	IBM	ibm
+24323	https://hackerone.com/bitmex	BitMEX	bitmex
+10995	https://hackerone.com/duckduckgo	DuckDuckGo	duckduckgo
+8724	https://hackerone.com/mariadb	MariaDB	mariadb
+1069	https://hackerone.com/airtable	Airtable	airtable
+19264	https://hackerone.com/shipt	Shipt	shipt
+29833	https://hackerone.com/arkadiyt-projects	arkadiyt-projects	arkadiyt-projects
+24626	https://hackerone.com/cosmos	Cosmos	cosmos
+5708	https://hackerone.com/goldmansachs	Goldman Sachs	goldmansachs
+23363	https://hackerone.com/valve	Valve	valve
+27759	https://hackerone.com/crypto	Crypto.com	crypto
+25854	https://hackerone.com/rootstocklabs	Rootstock Labs	rootstocklabs
+22522	https://hackerone.com/hyperledger	Hyperledger	hyperledger
+22984	https://hackerone.com/nodejs	Node.js	nodejs
+26813	https://hackerone.com/loofah	Loofah	loofah
+1711	https://hackerone.com/nokogiri	Nokogiri	nokogiri
+15391	https://hackerone.com/plaid	Plaid	plaid
+16427	https://hackerone.com/sony	Sony	sony
+24846	https://hackerone.com/coalition	Coalition, Inc.	coalition
+14743	https://hackerone.com/toyota	Toyota	toyota
+25570	https://hackerone.com/passhash	passhash	passhash
+25172	https://hackerone.com/crowdstrike	Crowdstrike	crowdstrike
+20286	https://hackerone.com/johnblackbourn	JohnBlackbourn	johnblackbourn
+24342	https://hackerone.com/ed	Ed	ed
+8416	https://hackerone.com/localtapiola	LocalTapiola	localtapiola
+15966	https://hackerone.com/semrush	Semrush	semrush
+9520	https://hackerone.com/aspen	Aspen	aspen
+21024	https://hackerone.com/bitwarden	Bitwarden	bitwarden
+13798	https://hackerone.com/hiro	Hiro	hiro
+7731	https://hackerone.com/monero	Monero	monero
+1800	https://hackerone.com/torproject	Tor	torproject
+1659	https://hackerone.com/grab	Grab	grab
+21801	https://hackerone.com/wakatime	WakaTime	wakatime
+20287	https://hackerone.com/stellar	Stellar.org	stellar
+20423	https://hackerone.com/parrot_sec	Parrot Sec	parrot_sec
+21554	https://hackerone.com/bumble	Bumble	bumble
+2010	https://hackerone.com/spotify	Spotify	spotify
+554	https://hackerone.com/dashlane	Dashlane	dashlane
+19468	https://hackerone.com/weblate	Weblate	weblate
+55	https://hackerone.com/wordpress	WordPress	wordpress
+2143	https://hackerone.com/rockstargames	Rockstar Games	rockstargames
+13031	https://hackerone.com/files	Files.com	files
+16334	https://hackerone.com/lyst	Lyst	lyst
+224	https://hackerone.com/formassembly	FormAssembly	formassembly
+16893	https://hackerone.com/discourse	Discourse	discourse
+3152	https://hackerone.com/quora	Quora	quora
+16634	https://hackerone.com/nintendo	Nintendo	nintendo
+15252	https://hackerone.com/portswigger	PortSwigger Web Security	portswigger
+1989	https://hackerone.com/starbucks	Starbucks	starbucks
+16064	https://hackerone.com/deptofdefense	U.S. Dept Of Defense	deptofdefense
+12633	https://hackerone.com/owox	OWOX, Inc.	owox
+424	https://hackerone.com/blockchain	Blockchain	blockchain
+15688	https://hackerone.com/brave	Brave Software	brave
+8212	https://hackerone.com/rubygems	RubyGems	rubygems
+545	https://hackerone.com/yelp	Yelp	yelp
+13559	https://hackerone.com/gocd	GoCD	gocd
+7724	https://hackerone.com/ruby	Ruby	ruby
+13291	https://hackerone.com/nextcloud	Nextcloud	nextcloud
+1361	https://hackerone.com/moneybird	Moneybird	moneybird
+1894	https://hackerone.com/github	GitHub	github
+314	https://hackerone.com/uber	Uber	uber
+1366	https://hackerone.com/mapbox	Mapbox	mapbox
+264	https://hackerone.com/gitlab	GitLab	gitlab
+2943	https://hackerone.com/zomato	Zomato	zomato
+7205	https://hackerone.com/gm	General Motors	gm
+443	https://hackerone.com/algolia	Algolia	algolia
+2706	https://hackerone.com/deriv	Deriv.com	deriv
+2367	https://hackerone.com/revive_adserver	Revive Adserver	revive_adserver
+3067	https://hackerone.com/versioncake	Version Cake	versioncake
+1516	https://hackerone.com/coursera	Coursera	coursera
+205	https://hackerone.com/zendesk	Zendesk	zendesk
+1566	https://hackerone.com/udemy	Udemy	udemy
+1382	https://hackerone.com/shopify	Shopify	shopify
+513	https://hackerone.com/snapchat	Snapchat	snapchat
+800	https://hackerone.com/ui	Ubiquiti Inc.	ui
+347	https://hackerone.com/adobe	Adobe	adobe
+1080	https://hackerone.com/airbnb	Airbnb	airbnb
+56	https://hackerone.com/vimeo	Vimeo	vimeo
+453	https://hackerone.com/informatica	Informatica	informatica
+312	https://hackerone.com/greenhouse	Greenhouse.io	greenhouse
+265	https://hackerone.com/expressionengine	ExpressionEngine	expressionengine
+61	https://hackerone.com/x	X (Formerly Twitter)	x
+41	https://hackerone.com/cloudflare	Cloudflare Public Bug Bounty	cloudflare
+111	https://hackerone.com/automattic	Automattic	automattic
+140	https://hackerone.com/irccloud	IRCCloud	irccloud
+134	https://hackerone.com/khanacademy	Khan Academy	khanacademy
+104	https://hackerone.com/coinbase	Coinbase	coinbase
+60	https://hackerone.com/concretecms	Concrete CMS	concretecms
+69	https://hackerone.com/slack	Slack	slack
+19	https://hackerone.com/yahoo	Yahoo!	yahoo
+18	https://hackerone.com/phabricator	Phabricator	phabricator
+22	https://hackerone.com/rails	Ruby on Rails	rails
+23	https://hackerone.com/django	Django	django
+13	https://hackerone.com/security	HackerOne	security
+48043	https://hackerone.com/insightly	Insightly	insightly
+49230	https://hackerone.com/estee-lauder	 Esteé  Lauder	estee-lauder
+72779	https://hackerone.com/tari_labs	Tari	tari_labs
+52950	https://hackerone.com/palta	Palta	palta
+58335	https://hackerone.com/shi_vdp	SHI	shi_vdp
+63689	https://hackerone.com/aleo	Aleo	aleo
+58946	https://hackerone.com/oyo_rooms	OYO Rooms	oyo_rooms
+61998	https://hackerone.com/gsa-h1c3	GSA H1C3	gsa-h1c3
+40178	https://hackerone.com/raivo	Raivo	raivo
+46857	https://hackerone.com/n45ht	N45HT	n45ht
+58093	https://hackerone.com/hack-us-h1c	Hack U.S.	hack-us-h1c
+54523	https://hackerone.com/caterpillar	Caterpillar	caterpillar
+23949	https://hackerone.com/nodejs-ecosystem	Node.js third-party modules	nodejs-ecosystem
+50466	https://hackerone.com/trafficfactory	Traffic Factory	trafficfactory
+53813	https://hackerone.com/twitter-algorithmic-bias	Twitter Algorithmic Bias	twitter-algorithmic-bias
+46330	https://hackerone.com/logsnitch	LogSnitch	logsnitch
+48395	https://hackerone.com/av	Azbuka Vkusa	av
+12340	https://hackerone.com/drugs_com	Drugs.com	drugs_com
+52589	https://hackerone.com/upchieve	UPchieve	upchieve
+52484	https://hackerone.com/mcuboot	MCUboot	mcuboot
+51815	https://hackerone.com/glovo	Glovo	glovo
+44342	https://hackerone.com/chorus_jg4l2	Chorus	chorus_jg4l2
+50090	https://hackerone.com/hudapp	Hud App	hudapp
+44163	https://hackerone.com/earny	Earny	earny
+41626	https://hackerone.com/panther_labs	Panther Labs	panther_labs
+35549	https://hackerone.com/remitano	Remitano	remitano
+50114	https://hackerone.com/jimdo	Jimdo GmbH	jimdo
+38302	https://hackerone.com/impresscms	ImpressCMS	impresscms
+45650	https://hackerone.com/aiven_ltd	Aiven Ltd	aiven_ltd
+49538	https://hackerone.com/dropcontact	Dropcontact	dropcontact
+45986	https://hackerone.com/gener8	Gener8	gener8
+47507	https://hackerone.com/ozon	Ozon	ozon
+42023	https://hackerone.com/uphabit	UpHabit	uphabit
+41380	https://hackerone.com/nuri	Nuri	nuri
+44956	https://hackerone.com/rghost	RGhost	rghost
+46581	https://hackerone.com/alibaba	Alibaba BBP	alibaba
+45735	https://hackerone.com/btfs	BTFS	btfs
+12172	https://hackerone.com/helium	Helium	helium
+43727	https://hackerone.com/companyhub	CompanyHub	companyhub
+37038	https://hackerone.com/endless_group	Endless Group	endless_group
+46757	https://hackerone.com/h1-ctf	h1-ctf	h1-ctf
+14633	https://hackerone.com/drive_net_inc	DRIVE.NET, Inc.	drive_net_inc
+41919	https://hackerone.com/mtn_group	MTN Group	mtn_group
+22763	https://hackerone.com/streak_com	Streak	streak_com
+40469	https://hackerone.com/replyify	Replyify	replyify
+45140	https://hackerone.com/github-security-lab	GitHub Security Lab	github-security-lab
+43285	https://hackerone.com/mobisystems_ltd	MobiSystems Ltd.	mobisystems_ltd
+40811	https://hackerone.com/aodocs	AODocs	aodocs
+26806	https://hackerone.com/tumblr	Tumblr	tumblr
+41371	https://hackerone.com/people_interactive	People Interactive	people_interactive
+40485	https://hackerone.com/mailtime_technology_inc	Mailtime Technology Inc.	mailtime_technology_inc
+43020	https://hackerone.com/copper	Copper	copper
+37632	https://hackerone.com/spell	Spell	spell
+40637	https://hackerone.com/amitree_inc	Amitree Inc	amitree_inc
+22925	https://hackerone.com/kartpay	Kartpay	kartpay
+36721	https://hackerone.com/notepad-plus-plus	Notepad++	notepad-plus-plus
+34401	https://hackerone.com/sweatco_ltd	Sweatco Ltd	sweatco_ltd
+38470	https://hackerone.com/smartsheet	Smartsheet	smartsheet
+38469	https://hackerone.com/midpoint_h1c	Midpoint (European Commission - DIGIT)	midpoint_h1c
+36866	https://hackerone.com/filezilla_h1c	FileZilla (European Commission - DIGIT)	filezilla_h1c
+33043	https://hackerone.com/magento	Magento	magento
+36863	https://hackerone.com/vlc_h1c	VLC (European Commission - DIGIT)	vlc_h1c
+36867	https://hackerone.com/apache_kafka_h1c	Apache Kafka (European Commission - DIGIT)	apache_kafka_h1c
+36864	https://hackerone.com/putty_h1c	PuTTY (European Commission - DIGIT)	putty_h1c
+36865	https://hackerone.com/notepad_h1c	Notepad++ (European Commission - DIGIT)	notepad_h1c
+30500	https://hackerone.com/cfptime	CFP Time	cfptime
+315	https://hackerone.com/otf	Open Technology Fund	otf
+30278	https://hackerone.com/hannob	Hanno's projects	hannob
+33314	https://hackerone.com/h1-5411-ctf	h1-5411-CTF	h1-5411-ctf
+31752	https://hackerone.com/eslint	ESLint	eslint
+19858	https://hackerone.com/rocket_chat	Rocket.Chat	rocket_chat
+23855	https://hackerone.com/fig	Fig	fig
+26754	https://hackerone.com/ycombinator	Y Combinator	ycombinator
+28411	https://hackerone.com/liberapay	Liberapay	liberapay
+26953	https://hackerone.com/cobinhood	Cobinhood	cobinhood
+11788	https://hackerone.com/deliveroo	Deliveroo	deliveroo
+24397	https://hackerone.com/jamieweb	JamieWeb	jamieweb
+21981	https://hackerone.com/upserve	Upserve 	upserve
+22998	https://hackerone.com/deconf_com	Deconf	deconf_com
+18073	https://hackerone.com/rbkmoney	RBKmoney	rbkmoney
+21745	https://hackerone.com/infogram	Infogram	infogram
+21291	https://hackerone.com/wink_jq3al	WINK	wink_jq3al
+2672	https://hackerone.com/unikrn	Unikrn	unikrn
+221	https://hackerone.com/bigmonocle	Big Monocle	bigmonocle
+22649	https://hackerone.com/fransvisitsvegas	Frans Visits Vegas	fransvisitsvegas
+21953	https://hackerone.com/delight_im	delight.im	delight_im
+16780	https://hackerone.com/mapsmarker_com_e_u	MapsMarker.com e.U.	mapsmarker_com_e_u
+20051	https://hackerone.com/teradici	Teradici	teradici
+19399	https://hackerone.com/homebrew	Homebrew	homebrew
+16420	https://hackerone.com/alvosec	Alvosec	alvosec
+12946	https://hackerone.com/pushwoosh	Pushwoosh	pushwoosh
+15668	https://hackerone.com/shopify-scripts	shopify-scripts	shopify-scripts
+1601	https://hackerone.com/legalrobot	Legal Robot	legalrobot
+2379	https://hackerone.com/kaspersky	Kaspersky	kaspersky
+8146	https://hackerone.com/olx	OLX	olx
+12707	https://hackerone.com/fantasytote	FantasyTote	fantasytote
+13417	https://hackerone.com/secnews	SecNews	secnews
+11973	https://hackerone.com/websummit	WebSummit	websummit
+1492	https://hackerone.com/drchrono	drchrono	drchrono
+7068	https://hackerone.com/bime	Bime	bime
+8619	https://hackerone.com/bitaccess	bitaccess	bitaccess
+10543	https://hackerone.com/apitest	APITest.IO	apitest
+9409	https://hackerone.com/veris	Veris	veris
+1926	https://hackerone.com/badoo	Badoo	badoo
+7954	https://hackerone.com/cakebet	Cakebet	cakebet
+3056	https://hackerone.com/kiwi-ki	KIWI.KI GmbH	kiwi-ki
+7747	https://hackerone.com/leaseweb	LeaseWeb	leaseweb
+8539	https://hackerone.com/paragonie	Paragon Initiative Enterprises	paragonie
+5013	https://hackerone.com/codeigniter	CodeIgniter	codeigniter
+2450	https://hackerone.com/radancy	Radancy	radancy
+638	https://hackerone.com/imgur	Imgur	imgur
+3059	https://hackerone.com/owncloud	ownCloud	owncloud
+2738	https://hackerone.com/flox	Flox	flox
+1782	https://hackerone.com/ok	ok.ru	ok
+695	https://hackerone.com/zaption	Zaption	zaption
+2250	https://hackerone.com/libsass	LibSass	libsass
+1737	https://hackerone.com/maplogin	MapLogin	maplogin
+1254	https://hackerone.com/vkcom	VK.com	vkcom
+679	https://hackerone.com/certly	Certly	certly
+569	https://hackerone.com/whisper	Whisper	whisper
+607	https://hackerone.com/mobilevikings	Mobile Vikings	mobilevikings
+563	https://hackerone.com/enter	Enter	enter
+557	https://hackerone.com/thisdata	ThisData	thisdata
+504	https://hackerone.com/blockio	Block.io	blockio
+361	https://hackerone.com/wordpoints	WordPoints	wordpoints
+374	https://hackerone.com/glasswire	GlassWire	glasswire
+297	https://hackerone.com/wp-api	WP API	wp-api
+293	https://hackerone.com/digitalsellz	DigitalSellz	digitalsellz
+266	https://hackerone.com/jsdelivr	jsDelivr	jsdelivr
+222	https://hackerone.com/fanfootage	FanFootage	fanfootage
+48	https://hackerone.com/mavenlink	Mavenlink	mavenlink
+207	https://hackerone.com/urbandictionary	Urban Dictionary	urbandictionary
+194	https://hackerone.com/kadira	Kadira	kadira
+165	https://hackerone.com/stopthehacker	StopTheHacker	stopthehacker
+162	https://hackerone.com/iandunn-projects	Ian Dunn	iandunn-projects
+75	https://hackerone.com/c2fo	C2FO	c2fo

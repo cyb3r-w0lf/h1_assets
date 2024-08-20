@@ -1,0 +1,3 @@
+https://*.fastly.com/
+*.signalsciences.com
+*.fanout.io

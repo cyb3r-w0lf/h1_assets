@@ -1,0 +1,6 @@
+staking-api.polygon.technology
+faucet.polygon.technology
+portal.polygon.technology
+staking.polygon.technology
+ecosystem.polygon.technology
+ecosystem-api.polygon.technology

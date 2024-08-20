@@ -1,0 +1,2 @@
+app.faraday.ai
+api.faraday.ai

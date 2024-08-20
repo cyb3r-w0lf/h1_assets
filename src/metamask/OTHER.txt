@@ -1,0 +1,6 @@
+MetaMask Browser Extension
+MetaMask SDK
+https://metamask.github.io/phishing-warning/<vX.Y.Z>
+Snaps
+Authentication component
+Third Party Snaps

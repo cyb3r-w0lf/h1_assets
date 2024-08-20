@@ -1,0 +1,3 @@
+*.grammarly.io
+*.grammarlyaws.com
+*.grammarly.com

@@ -1,0 +1,2 @@
+h1-*your-own-instance*.cloud.mattermost.com
+*.mattermost.com

@@ -1,0 +1,5 @@
+yourdomain.freshdesk.com
+yourdomain.freshservice.com
+yourdomain.freshchat.com
+yourdomain.freshcaller.com
+yourdomain.myfreshworks.com

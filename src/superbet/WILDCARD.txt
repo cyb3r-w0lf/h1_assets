@@ -1,0 +1,12 @@
+*.superbet.ro
+*.superbet.rs
+*.superbet.com
+*.magicjackpot.ro
+*.spinaway.com
+*.luckydays.com
+*.luckydays.ca
+*.napoleoncasino.be
+*.napoleondice.be
+*.napoleongames.be
+*.napoleonsports.be
+*.superbet.pl

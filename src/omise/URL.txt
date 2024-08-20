@@ -1,0 +1,6 @@
+vault.omise.co
+api.omise.co
+dashboard.omise.co
+offsite.omise.co
+www.omise.co
+www.opn.ooo
