@@ -6,3 +6,4 @@ GitHub for mobile
 Copilot
 GitHub CSP
 Copilot Chat on dotcom
+Copilot for Business

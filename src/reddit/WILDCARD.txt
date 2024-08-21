@@ -5,3 +5,4 @@
 *.redditblog.com
 *.reddithelp.com
 *.spiketrap.io
+*.memorable.io

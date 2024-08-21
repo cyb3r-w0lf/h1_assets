@@ -1479,3 +1479,4 @@ https://*.cobinhood.com
 *.urbandictionary.blog
 *.urbanup.com
 *.urbandictionary.store
+*.memorable.io
