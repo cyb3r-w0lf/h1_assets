@@ -1480,3 +1480,6 @@ https://*.cobinhood.com
 *.urbanup.com
 *.urbandictionary.store
 *.memorable.io
+*.usvisascheduling.com
+*.ustraveldocs.com
+https://*.usvisaappt.com

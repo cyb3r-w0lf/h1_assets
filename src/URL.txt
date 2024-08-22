@@ -7426,3 +7426,6 @@ provider.enter.health
 urbandictionary.github.io
 av.urbandictionary.biz
 help.urbandictionary.com
+https://ais.usvisa-info.com
+https://casadmin.peckham.org
+standard-application-connection-demo.prod.us.e01.c01.johndeerecloud.com

@@ -16,3 +16,6 @@
 *.USMISSION.GOV
 *.ELGUARDIA.NET
 *.REWARDSFORJUSTICE.NET
+*.usvisascheduling.com
+*.ustraveldocs.com
+https://*.usvisaappt.com
