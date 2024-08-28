@@ -422,3 +422,4 @@ com.vkontakte.android
 com.vk.im
 com.vk.admin
 com.urbandictionary.android
+com.secretkeylabs.xverse

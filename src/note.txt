@@ -576,3 +576,4 @@
 165	https://hackerone.com/stopthehacker	StopTheHacker	stopthehacker
 162	https://hackerone.com/iandunn-projects	Ian Dunn	iandunn-projects
 75	https://hackerone.com/c2fo	C2FO	c2fo
+69690	https://hackerone.com/xverse	Xverse	xverse
