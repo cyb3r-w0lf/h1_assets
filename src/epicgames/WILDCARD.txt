@@ -1,1 +1,2 @@
 *.epicgames.dev
+*.twinmotion.com
