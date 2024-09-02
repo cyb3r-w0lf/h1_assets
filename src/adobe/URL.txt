@@ -88,3 +88,6 @@ stock.adobe.com
 contributor.stock.adobe.com
 nicetryapril.na1.echosignsandbox.com
 marketo.com
+http://ims-na1.adobelogin.com
+adobeid-na1.services.adobe.com
+http://federatedid-na1.services.adobe.com

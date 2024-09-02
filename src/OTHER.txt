@@ -747,3 +747,4 @@ Content
 twitter.com/urbandictionary
 Copilot for Business
 https://chrome.google.com/webstore/detail/xverse-wallet/idnnbdplmphpflfnlkomgpfbpcgelopg
+*.lightroom.adobe.com
