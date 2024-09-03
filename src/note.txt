@@ -577,3 +577,4 @@
 162	https://hackerone.com/iandunn-projects	Ian Dunn	iandunn-projects
 75	https://hackerone.com/c2fo	C2FO	c2fo
 69690	https://hackerone.com/xverse	Xverse	xverse
+52545	https://hackerone.com/playtika	Playtika	playtika

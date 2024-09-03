@@ -9,3 +9,5 @@ zopim.com
 app.futuresimple.com
 api.getbase.com
 http://h1-your-domain.zendesk.com/sell
+http://h1-your-domain.zendesk.com/wfm/
+http://h1-your-domain.zendesk.com/qa/
