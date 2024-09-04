@@ -578,3 +578,4 @@
 75	https://hackerone.com/c2fo	C2FO	c2fo
 69690	https://hackerone.com/xverse	Xverse	xverse
 52545	https://hackerone.com/playtika	Playtika	playtika
+86709	https://hackerone.com/supabase	Supabase	supabase

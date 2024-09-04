@@ -1510,3 +1510,4 @@ https://*.usvisaappt.com
 *.redecor.com
 *.justfall.lol,*.justplay.lol,*.1v1.lol
 *.seriously.com
+https://*.database.dev/

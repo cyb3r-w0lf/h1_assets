@@ -634,3 +634,4 @@ https://github.com/WordPoints/
 github.com/urbandictionary
 WordPress.org plugins
 GitHub repositories
+https://github.com/supabase
