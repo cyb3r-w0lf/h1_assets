@@ -9,3 +9,7 @@ Chartable
 Sonantic
 Core Assets
 Non-Core Assets
+GHE
+Jira
+Okta
+VPN
