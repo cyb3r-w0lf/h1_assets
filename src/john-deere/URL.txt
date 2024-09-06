@@ -643,3 +643,5 @@ invisionapp.com
 standard-application-connection-demo.prod.us.e01.c01.johndeerecloud.com
 atscalepoc.ae-databricks-prod-standalone.us.e18.c01.johndeerecloud.com
 https://forestry.deere.com/dealers/salesreport/
+bpeople-ar-prod.deere.com
+bantotal-ar-cert.deere.com

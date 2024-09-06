@@ -7520,3 +7520,7 @@ https://multiplayer.dev
 https://supabase.help
 https://supabase.link
 https://forestry.deere.com/dealers/salesreport/
+access.remitly.com
+access-sandbox.remitly.com
+bpeople-ar-prod.deere.com
+bantotal-ar-cert.deere.com
