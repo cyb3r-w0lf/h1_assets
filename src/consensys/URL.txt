@@ -12,3 +12,4 @@ https://www.infura.io/faucet/linea
 bridge.codefi.network
 support.metamask.io
 tickets.metamask.io
+webhook.metamask-institutional.io
