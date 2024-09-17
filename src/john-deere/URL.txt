@@ -645,3 +645,5 @@ atscalepoc.ae-databricks-prod-standalone.us.e18.c01.johndeerecloud.com
 https://forestry.deere.com/dealers/salesreport/
 bpeople-ar-prod.deere.com
 bantotal-ar-cert.deere.com
+partsdesk.deere.com
+ai-lab-code-interpreter-api.ae-machine-learning-operations-devl-vpn.us.e18.c01.johndeerecloud.com
