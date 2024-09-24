@@ -2169,3 +2169,4 @@ https://*.khealth.us/
 *.rocketball.com
 *.travix.com
 *.travix.io
+https://www.mactag.com/*
