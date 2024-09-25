@@ -24,3 +24,4 @@ github.com
 https://vpoconfig.tools.prod.appriss.com
 register.alertxpress.com
 verifier.efxfed.com
+https://equifax.ivdocs.net

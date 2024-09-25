@@ -25,3 +25,4 @@ api.foliofn.com
 *.unitedcp.com
 *.finlife.com
 *.finlifepartners.com
+www.fitvermogen.nl
