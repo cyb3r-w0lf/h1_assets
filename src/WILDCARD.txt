@@ -2170,3 +2170,4 @@ https://*.khealth.us/
 *.travix.com
 *.travix.io
 https://www.mactag.com/*
+*.interpag.co

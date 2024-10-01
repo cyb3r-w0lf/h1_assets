@@ -15,3 +15,4 @@ api-polygon-tokens.polygon.technology/
 balance-api.polygon.technology/
 Crypto.com mobile app APIs that require an account
 Crypto.com Exchange APIs that require an account
+8x8 Communication APIs
