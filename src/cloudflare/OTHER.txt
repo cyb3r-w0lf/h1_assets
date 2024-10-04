@@ -38,3 +38,5 @@ Magic WAN
 Data Loss Prevention (DLP)
 SSL/TLS
 Images
+Area 1
+Cloudflare Workers CI
