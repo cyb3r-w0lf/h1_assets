@@ -5,3 +5,5 @@ grok.x.ai
 ide.x.ai
 t.co
 xadsacademy.com
+accounts.x.ai
+console.x.ai
