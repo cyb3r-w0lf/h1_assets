@@ -15,3 +15,4 @@ app3.rewire.to
 metrics.int.remitly.com
 access.remitly.com
 access-sandbox.remitly.com
+blog.remitly.com
