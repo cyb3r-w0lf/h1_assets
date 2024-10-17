@@ -7668,3 +7668,7 @@ auth.moonpay.com
 app.moonpay.com
 api.moonpay.com
 crm.alshayamarketing.com
+tomfordbeauty.com
+aveda.it
+esteelauder.com
+https://srtlatam.appslatam.com/

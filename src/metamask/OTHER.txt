@@ -4,3 +4,4 @@ https://metamask.github.io/phishing-warning/<vX.Y.Z>
 Snaps
 Authentication component
 Third Party Snaps
+Message signing snap
