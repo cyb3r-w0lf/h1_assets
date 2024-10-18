@@ -652,3 +652,4 @@ origin-www.tal.deere.com
 viewv.dpn.deere.com
 aiproducts.com
 jdsn-cart-qual.deere.com
+about.deere.com
