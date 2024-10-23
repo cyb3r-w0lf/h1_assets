@@ -7711,3 +7711,6 @@ connect.secure.wellsfargo.com
 http://wellsfargo.com
 http://wf.com
 site.rewire.com
+eligibility.khealth.com
+treatments.khealth.com
+https://flightwatch.lancargo.com/flightwatchweb-2.0/login.jsf
