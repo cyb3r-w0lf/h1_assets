@@ -1,2 +1,4 @@
 via.rider
  com.citymapper.app.release
+ridewithvia.neoridelittlerock
+ridewithvia.par.piercetransit
