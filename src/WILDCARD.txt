@@ -2258,3 +2258,9 @@ https://*.wonder.com
 *.x.ai
 *.amlab7.com
 *.coalfirefederal.com
+*.tomtom-global.com
+*.tomtom.com
+*.tomtomgroup.com
+*.saltlabs.com
+*.spotify.com
+*.spotify.net
