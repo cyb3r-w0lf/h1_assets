@@ -26,3 +26,6 @@ https://github.com/smartcontractkit/chainlink/tree/master/contracts
 https://github.com/smartcontractkit/staking-v0.1/tree/master/contracts
 https://base.org
 https://docs.world.org/world-chain/reference/address-book
+https://github.com/circlefin/buidl-wallet-contracts
+https://github.com/circlefin/stablecoin-evm
+https://github.com/circlefin/noble-fiattokenfactory

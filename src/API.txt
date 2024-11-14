@@ -17,3 +17,4 @@ Crypto.com mobile app APIs that require an account
 Crypto.com Exchange APIs that require an account
 8x8 Communication APIs
 api.spotify.com, api-partner.spotify.com
+ api.spotify.com, api-partner.spotify.com
