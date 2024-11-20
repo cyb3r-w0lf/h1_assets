@@ -22,3 +22,4 @@ analytics-*.8x8.com
 *.8x8e2e.com
 *.ucverse.com
 *.8x8pilot.com
+*.cceng.8x8.com

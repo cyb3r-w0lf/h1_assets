@@ -24,3 +24,4 @@ https://www.britishairways.com/travel/btt/execclub/_gf/en_gb
 https://rewardsapp.iagl.digital/v3
 https://api.pgt.shopping.ba.com/
 adfs.avios.com
+https://www.britishairways.com/nx
