@@ -1,2 +1,4 @@
 *.planet.com
 *.planet-labs.com
+*.sentinel-hub.cc
+*.sentinel-hub.com
