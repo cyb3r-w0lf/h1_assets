@@ -1,1 +1,3 @@
 grammarly.ai
+capi.grammarly.com
+app.grammarly.com

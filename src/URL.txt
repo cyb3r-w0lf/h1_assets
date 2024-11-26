@@ -8009,3 +8009,5 @@ vote.nba.com
 mcdalerts.nba.com
 elm.nba.com
 master.parts.deere.africa
+capi.grammarly.com
+app.grammarly.com
