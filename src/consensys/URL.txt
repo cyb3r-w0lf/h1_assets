@@ -13,3 +13,5 @@ bridge.codefi.network
 support.metamask.io
 tickets.metamask.io
 webhook.metamask-institutional.io
+developer.metamask.io
+https://docs.metamask.io/developer-tools/faucet
