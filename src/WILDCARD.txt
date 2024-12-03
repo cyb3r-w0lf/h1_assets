@@ -2275,3 +2275,4 @@ https://www.britishairways.com/nx/*
 *.sentinel-hub.com
 *.lemonsqueezy.com
 primevideo.com/*
+*.adaptive-shield.com

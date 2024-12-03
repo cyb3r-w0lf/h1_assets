@@ -1,3 +1,5 @@
 All Assets (other than Blinkit)
 All Blinkit assets (in scope)
 Scope Questions: Items not explicitly listed here
+BlinkIT & Hyperpure assets (in scope)
+All Zomato Assets (Other than BlinkIT & Hyperpure)

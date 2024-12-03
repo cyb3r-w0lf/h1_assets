@@ -6,3 +6,4 @@
 *.reposify.com
 *.bionic.ai
 *.flowsecurity.app
+*.adaptive-shield.com
