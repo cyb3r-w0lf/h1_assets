@@ -2276,3 +2276,4 @@ https://www.britishairways.com/nx/*
 *.lemonsqueezy.com
 primevideo.com/*
 *.adaptive-shield.com
+https://openam-bug-bounty-stag.forgeblocks.com/*
