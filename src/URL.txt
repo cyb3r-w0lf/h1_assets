@@ -8024,3 +8024,5 @@ arc.net
 thebrowser.company
 bcny.com
 https://vault.chiatest.net/
+homeloans.wellsfargo.com
+https://api.deposits.oaknorth.co.uk
