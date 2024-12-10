@@ -19,3 +19,4 @@ Crypto.com Exchange APIs that require an account
 api.spotify.com, api-partner.spotify.com
  api.spotify.com, api-partner.spotify.com
 api.ishosting.com
+https://events.1password.com/
