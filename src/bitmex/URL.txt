@@ -1,1 +1,2 @@
 testnet.bitmex.com
+www.bitmex.com

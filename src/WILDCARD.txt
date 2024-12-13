@@ -2292,3 +2292,5 @@ https://googleplace*.bykea.net
 https://*test*.bykea.net
 *.trainpal.com,*.mytrainpal.com
 *.cheaptickets.nl
+*.wssfas133.com
+*.wssfas133.net
