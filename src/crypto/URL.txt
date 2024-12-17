@@ -10,3 +10,4 @@ tax.crypto.com
 https://crypto.com/price
 web.crypto.com
 developer-platform-api.crypto.com
+nadex.com
