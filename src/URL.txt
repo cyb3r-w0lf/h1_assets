@@ -8092,3 +8092,5 @@ www.bitmex.com
 kronor.io
 https://amelia.appslatam.com
 nadex.com
+cvml-primaries.deere.com
+app.gmelius.com

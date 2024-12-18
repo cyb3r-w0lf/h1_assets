@@ -2294,3 +2294,8 @@ https://*test*.bykea.net
 *.cheaptickets.nl
 *.wssfas133.com
 *.wssfas133.net
+https://*.verily.com/
+https://*.onduo.com/
+https://*.projectbaseline.com/
+https://*.signalpath.com/
+https://*.granularinsurance.com/
