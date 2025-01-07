@@ -3,3 +3,5 @@ All Blinkit assets (in scope)
 Scope Questions: Items not explicitly listed here
 BlinkIT & Hyperpure assets (in scope)
 All Zomato Assets (Other than BlinkIT & Hyperpure)
+BlinkIT, Hyperpure assets (in scope)
+All District Assets (Other than Zomato, BlinkIT & Hyperpure)
