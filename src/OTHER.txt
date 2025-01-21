@@ -1067,3 +1067,4 @@ Tier 3
 1474700 (Steam app id)
 Crypto
 Other BILL assets
+Games Tier 3
