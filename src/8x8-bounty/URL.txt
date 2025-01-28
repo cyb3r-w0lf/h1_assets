@@ -21,3 +21,4 @@ vcc-ce.8x8.com
 8x8.my.site.com
 www.fuzemeeting.com
 fuze.me
+debug.8x8.com
