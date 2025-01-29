@@ -3,3 +3,4 @@
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
+*.pci.shopifyinc.com

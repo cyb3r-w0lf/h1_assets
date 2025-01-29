@@ -1,1 +1,2 @@
 parrotlinux.org
+parrotsec.org

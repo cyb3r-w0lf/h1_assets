@@ -2357,3 +2357,4 @@ https://*.granularinsurance.com/
 *.mercadoshops.com.uy
 *.mlstatic.com
 *.playticorp.com
+*.pci.shopifyinc.com

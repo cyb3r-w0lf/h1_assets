@@ -1,3 +1,4 @@
 com.lowes.LowesStoreTestFlight
 com.wisdomtree.wtprime
 com.finnwea.Raivo
+https://testflight.apple.com/join/vwFxXX7t
