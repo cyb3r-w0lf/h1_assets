@@ -2358,3 +2358,5 @@ https://*.granularinsurance.com/
 *.mlstatic.com
 *.playticorp.com
 *.pci.shopifyinc.com
+*.sourpatchkids.com
+www.sourpatchkids.com/*
