@@ -5,3 +5,4 @@ com.frame.FrameIO
 com.adobe.lrmobilephone
 com.adobe.lrmobile
 com.adobe.PSMobile
+adobe.fresco.ios

@@ -2369,3 +2369,4 @@ a*.clover.com
 *.eu.clover.com
 *.dev.clover.com
 *.wsssuite.com
+*.acrobat.adobe.com
