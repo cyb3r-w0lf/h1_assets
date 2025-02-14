@@ -30,3 +30,11 @@ visayanelectric.com.ph
 visayanelectric.ph
 1apeip-gmis.aboitizpower.com
 1apeip-gmis-uat.aboitizpower.com
+http://1ap.aboitizpower.com
+http://aboitizpower.cas-oprs.com
+http://apportal.aboitizpower.com
+http://apps.hedcor.com
+http://emsc.aboitizpower.com
+http://energytrading.aboitizpower.com
+http://entrypass1ap.web.app
+http://lrms.hedcor.com
