@@ -525,3 +525,4 @@ https://apps.apple.com/us/app/quip-docs-chat-sheets/id647922896
 com.costco.costco
 id6504492387
 adobe.fresco.ios
+Klarna iOS App (com.klarna.app)

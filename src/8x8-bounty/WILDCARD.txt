@@ -23,3 +23,6 @@ analytics-*.8x8.com
 *.ucverse.com
 *.8x8pilot.com
 *.cceng.8x8.com
+*.prod.cloud.8x8.com
+*.acceptance.cloud.8x8.com
+*.staging.cloud.8x8.com
