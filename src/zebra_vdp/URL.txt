@@ -66,3 +66,5 @@ www.matrox.com
 dcs-polarion.zebra.com
 https://devicetracker-released-internal-demo.firebaseapp.com/
 https://www.sellandwinclub.com
+api.zillin.io
+portal.uvtrace.com

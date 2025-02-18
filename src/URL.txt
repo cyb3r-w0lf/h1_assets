@@ -9491,3 +9491,5 @@ http://www.davaolight.com
 http://www.enerzones.com
 http://www.prismenergy.com.ph
 http://www.visayanelectric.com
+api.zillin.io
+portal.uvtrace.com
