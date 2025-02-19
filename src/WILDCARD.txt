@@ -2403,3 +2403,4 @@ a*.clover.com
 *.mcduk.reflexisinc.co.uk
 *.zpc.zebra.com
 *.qa-zebra.com
+*.learningportal.zebra.com

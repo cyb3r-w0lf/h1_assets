@@ -68,3 +68,8 @@ https://devicetracker-released-internal-demo.firebaseapp.com/
 https://www.sellandwinclub.com
 api.zillin.io
 portal.uvtrace.com
+learning.zebra.com
+training.zebra.com
+psion.com
+software.symbol.com
+support.symbol.com
