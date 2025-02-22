@@ -9,3 +9,5 @@ flyiin.com
 priceline.com
 press.priceline.com
 www.bookingholdings.com
+ir.bookingholdings.com
+bookingholdings-coe.com
