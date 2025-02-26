@@ -2412,3 +2412,4 @@ a*.clover.com
 *.corebridgefinancial.com
 *.corebridgegolf.com
 *.valic.com
+*.whoop.com

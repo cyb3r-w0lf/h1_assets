@@ -1082,3 +1082,5 @@ QuickApps
 Test environment
 Comercia Global Payments 
 modeldsu-idp.dsu.corebridgefinancial.com
+WHOOP 4.0 STRAP
+https://support.whoop.com/Battery_Pack_Updater
