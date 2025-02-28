@@ -2414,3 +2414,4 @@ a*.clover.com
 *.valic.com
 *.whoop.com
 *.in2tel.ie
+**.whoop.com
