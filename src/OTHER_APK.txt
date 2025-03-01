@@ -22,3 +22,9 @@ com.betfair.sportsbook
 com.betfair.exchange
 com.nordvpn.android
 https://app.bitrise.io/app/51a95edaab331ec5/installable-artifacts/e5213e1a814bf0ba/public-install-page/bed0d33f048271d6828c5a4a979ecc96
+com.coloros.assistantscreen
+com.oplus.games
+com.coloros.video
+com.heytap.music
+com.heytap.pictorial
+com.coloros.pictorial
