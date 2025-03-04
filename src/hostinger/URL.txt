@@ -3,3 +3,4 @@ cpanel.hostinger.com
 hpanel.hostinger.com
 payments.hostinger.com
 builder.hostinger.com
+horizons.hostinger.com
