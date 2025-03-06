@@ -51,3 +51,8 @@ microsite.digitalcapture.elcompanies.com
 d2c-register-balmainbeauty.elcompanies.co.uk
 form.digitalcapture.elcompanies.com
 www.eform.ap.elcompanies.com
+elcompanies.com
+elcompanies.co.uk
+d2c-balmainbeauty.elcompanies.co.uk
+beautyqr.com
+cliniquecomputer.com
