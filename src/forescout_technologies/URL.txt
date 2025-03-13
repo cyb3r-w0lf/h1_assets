@@ -56,3 +56,4 @@ uk.forescout.cloud
 de.forescout.cloud
 cysiv.com
 app.command.cysiv.com
+cloud.forescout.com
