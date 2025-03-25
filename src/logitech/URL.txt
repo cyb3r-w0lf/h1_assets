@@ -31,3 +31,4 @@ logitechgchallenge.com
 www.logitechclub.com
 select.logitech.com
 alert.logitech.com
+https://www.logitech.com/blog
