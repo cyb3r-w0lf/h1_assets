@@ -1,3 +1,4 @@
 *.okx.com
 *.okcoin.com
 *.oklink.com
+*.okg.com
