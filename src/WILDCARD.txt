@@ -2445,3 +2445,5 @@ https://*.intrusion.com
 *.pdc.abb.com
 *.evcharging.abb.com
 *.motors.abb.com
+*.motors.abb.com.cn
+*.logicool.co.jp

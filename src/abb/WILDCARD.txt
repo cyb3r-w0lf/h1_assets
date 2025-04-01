@@ -20,3 +20,4 @@
 *.pdc.abb.com
 *.evcharging.abb.com
 *.motors.abb.com
+*.motors.abb.com.cn
