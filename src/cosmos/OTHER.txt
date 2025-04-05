@@ -6,3 +6,4 @@ ibc-go
 Horcrux
 Hermes Relayer
 IBC Go Relayer
+Solidity IBC Eureka
