@@ -1,2 +1,4 @@
 checksw.com
 royal.checksw.com
+sandbox.securegateway.com
+sandbox-royal.securegateway.com
