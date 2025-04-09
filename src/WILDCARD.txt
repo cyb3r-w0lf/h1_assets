@@ -2448,3 +2448,4 @@ https://*.intrusion.com
 *.motors.abb.com.cn
 *.logicool.co.jp
 https://*.payzippy.com
+*.grok.com
