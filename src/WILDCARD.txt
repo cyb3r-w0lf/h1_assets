@@ -2482,3 +2482,4 @@ https://*.payzippy.com
 https://*.hex.tech
 *.silabs.com
 *.hertz.com
+https://*.theossteam.com
