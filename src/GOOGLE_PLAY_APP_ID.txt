@@ -583,3 +583,5 @@ org.lichess.mobileapp
 com.espn.bet
 com.fivemobile.thescore
 ai.x.grok
+com.bah.r1smobile
+com.audible.application

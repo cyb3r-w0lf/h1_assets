@@ -1121,3 +1121,4 @@ Burp Suite DAST
 Any other domain reasonably attributable to Silicon Labs
 Tesco Mobile
 GitHub Enterprise Cloud with Data Residency (GHEC-DR)
+*.audible.*
