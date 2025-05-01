@@ -2483,3 +2483,4 @@ https://*.hex.tech
 *.silabs.com
 *.hertz.com
 https://*.theossteam.com
+*.acx.com
