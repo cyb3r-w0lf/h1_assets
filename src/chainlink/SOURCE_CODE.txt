@@ -1,1 +1,2 @@
 https://github.com/smartcontractkit/external-adapters-js/
+https://github.com/smartcontractkit/chainlink

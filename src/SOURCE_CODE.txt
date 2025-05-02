@@ -690,3 +690,4 @@ https://github.com/rsksmart/liquidity-provider-server
 https://github.com/rsksmart/liquidity-bridge-contract
 https://github.com/rsksmart/bridges-core-sdk
 https://github.com/rsksmart/flyover-sdk
+https://github.com/smartcontractkit/chainlink
