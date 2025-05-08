@@ -33,3 +33,4 @@ watchlistapi.etoro.com
 rankings.etoro.com
 delta.app
 bullsheet.me
+helpers.bullsheet.me
