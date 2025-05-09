@@ -11,3 +11,4 @@ press.priceline.com
 www.bookingholdings.com
 ir.bookingholdings.com
 bookingholdings-coe.com
+https://www.priceline.com/pwd/v0/pcln-graphql/
