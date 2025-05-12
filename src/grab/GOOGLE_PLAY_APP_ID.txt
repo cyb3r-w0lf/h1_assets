@@ -3,3 +3,4 @@ com.grabtaxi.driver2
 com.grab.merchant
 ovo.id
 com.grabpay.merchant
+com.moveit.app.customer
