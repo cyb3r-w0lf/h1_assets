@@ -7,3 +7,4 @@
 *.taralite.com
 *.grabtaxi.com
 *.grab.co
+*.ovofinansial.com
