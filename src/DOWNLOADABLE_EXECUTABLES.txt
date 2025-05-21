@@ -229,3 +229,4 @@ Acrobat Reader
 UEFN
 Simplicity Studio Development Platform
 Malwarebytes Support Tool (MBST)
+Dia
