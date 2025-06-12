@@ -2526,3 +2526,4 @@ www.lazada.*sixcountry
 *.grubhub.com
 *.trip.biz
 *.uisp.com
+*.thescore.com
