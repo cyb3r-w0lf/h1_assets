@@ -34,3 +34,4 @@ analytics-*.8x8.com
 *.8x8hosts.internal
 *.8x8hosts.pilot
 *.call-control.ie
+*-vpn.8x8.com

@@ -2530,3 +2530,4 @@ www.lazada.*sixcountry
 app*.hubspot.com
 api*.hubspot.com
 api*.hubapi.com
+*-vpn.8x8.com
