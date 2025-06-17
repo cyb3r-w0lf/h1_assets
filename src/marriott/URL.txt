@@ -28,3 +28,4 @@ mipartnerprivileges.marriott.com
 hotel-deals.marriott.com
 http://www.shopmarriott.com
 giftcards.marriott.com
+psp.marriott.com
