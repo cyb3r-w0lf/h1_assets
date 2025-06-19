@@ -1,1 +1,2 @@
 demo.openmage.org
+demo-admin.openmage.com
