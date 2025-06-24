@@ -97,3 +97,11 @@
 *.royalcanin.org
 *.royalcaninclub.hr
 *.royalcanin-cp.jp
+*.royalcaninevent.com
+*.royalcaninfoundation.org
+*.royalcaninmalaysia.my
+*.royalcaninshop.com.ua
+*.royalcaninup.com
+*.royalcaninvetdiets.com.sg
+*.royalrands.co.za
+*.solucionesrc.com.ar
