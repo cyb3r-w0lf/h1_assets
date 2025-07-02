@@ -2544,3 +2544,4 @@ api*.hubapi.com
 *.solucionesrc.com.ar
 *.tapingo.com
 *.jo30.com
+*.vineapps.com
