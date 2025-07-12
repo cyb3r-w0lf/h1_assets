@@ -2598,3 +2598,4 @@ api*.hubapi.com
 *.marionnaud.at
 *.marionnaud.sk
 *.pns.hk
+*.ferrero.com
