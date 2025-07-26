@@ -14,3 +14,4 @@ simperium.com
 gravatar.com
 intensedebate.com
 happy.tools
+clay.earth
