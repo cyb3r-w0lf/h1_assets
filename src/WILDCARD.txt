@@ -2639,3 +2639,4 @@ bottle-dup.*.svc.singlestore.com
 nova-gateway.*.svc.singlestore.com
 ai.*.svc.singlestore.com
 *.mars-dna.com
+*.logitechg.com*
