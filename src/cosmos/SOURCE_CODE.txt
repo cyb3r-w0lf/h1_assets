@@ -5,3 +5,4 @@ https://github.com/iqlusioninc/crates/tree/main/signatory
 https://github.com/cosmos/ledger-cosmos
 https://github.com/cosmos/gaia
 https://github.com/cosmos/ics23
+https://github.com/skip-mev/go-fast-contracts
