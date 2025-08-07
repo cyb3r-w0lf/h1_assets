@@ -2640,3 +2640,4 @@ nova-gateway.*.svc.singlestore.com
 ai.*.svc.singlestore.com
 *.mars-dna.com
 *.logitechg.com*
+*.vetsource.com
