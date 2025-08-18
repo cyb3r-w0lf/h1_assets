@@ -2642,3 +2642,6 @@ ai.*.svc.singlestore.com
 *.logitechg.com*
 *.vetsource.com
 *.airbnb.org
+*.abb-drives.com
+*.abb.ca
+*.abb.in
