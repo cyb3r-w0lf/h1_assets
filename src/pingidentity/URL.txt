@@ -1,3 +1,4 @@
 api.ort-one-pingone.com
 console.ort-one-pingone.com
 apps.ort-one-pingone.com
+auth.ort-one-pingone.com
