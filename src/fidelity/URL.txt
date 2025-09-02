@@ -1,3 +1,4 @@
 *.fidelity.com
 web.fidsafe.com
 www.fidsafe.com
+www.fidelityprivateshares.com
