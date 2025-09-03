@@ -11,3 +11,4 @@
 *.abnamrolease.com
 *.abnamroinvestmentsolutions.com
 *.new10.com
+*.buut.com
