@@ -2664,3 +2664,4 @@ ai.*.svc.singlestore.com
 *.bybit-tr.com
 *.bybit.tr
 *.buut.com
+*uniti.com
