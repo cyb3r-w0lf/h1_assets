@@ -664,3 +664,4 @@
 101050	https://hackerone.com/hack_the_box	Hack The Box	hack_the_box
 55863	https://hackerone.com/unitigroup	Uniti	unitigroup
 102689	https://hackerone.com/netscaler_private_program	NetScaler Private Program	netscaler_private_program
+102689	https://hackerone.com/netscaler_public_program	NetScaler Public Program	netscaler_public_program
