@@ -665,3 +665,4 @@
 55863	https://hackerone.com/unitigroup	Uniti	unitigroup
 102689	https://hackerone.com/netscaler_private_program	NetScaler Private Program	netscaler_private_program
 102689	https://hackerone.com/netscaler_public_program	NetScaler Public Program	netscaler_public_program
+105319	https://hackerone.com/docusign	DocuSign	docusign
