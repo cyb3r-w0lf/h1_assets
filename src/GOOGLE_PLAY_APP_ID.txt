@@ -628,3 +628,4 @@ com.ripio.android
 com.trendyol.go
 com.abnamro.nl.buut
 Saily - Android
+com.tesco.grocery.view
