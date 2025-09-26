@@ -8,3 +8,5 @@ GitHub CSP
 Copilot Chat on dotcom
 Copilot for Business
 GitHub Enterprise Cloud with Data Residency (GHEC-DR)
+Copilot Spaces
+Copilot Coding Agent
