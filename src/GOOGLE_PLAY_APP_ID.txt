@@ -629,3 +629,5 @@ com.trendyol.go
 com.abnamro.nl.buut
 Saily - Android
 com.tesco.grocery.view
+com.blueapron.blueapron.release
+com.grubhub.android
