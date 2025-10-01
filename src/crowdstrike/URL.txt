@@ -2,3 +2,6 @@ www.crowdstrike.org
 falcon-sandbox.com
 hybrid-analysis.com
 www.crowdstrike.com
+onum.com
+onum-labs.com
+pangea.cloud
