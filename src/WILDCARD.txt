@@ -2836,3 +2836,4 @@ https://*.rwbaird.com
 *.ascio.com
 *.tucowsdomains.com
 *.wavelo.com
+*.simplybits.com
