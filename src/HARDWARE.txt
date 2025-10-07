@@ -137,3 +137,4 @@ Nintendo Switch 2 Kernel / ARM® TrustZone®
 Nintendo Switch 2 System Processes allowing piracy
 Nintendo Switch 2 System Processes
 Helium Hotspot
+eero Devices
