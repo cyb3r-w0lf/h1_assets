@@ -6,3 +6,4 @@ https://github.com/brave-intl/bat-publisher
 https://github.com/brave-intl/publishers
 https://github.com/brave/vault-updater
 https://github.com/brave-intl/bat-go
+https://github.com/brave/*, https://github.com/brave-intl/*

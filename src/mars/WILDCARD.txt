@@ -108,3 +108,4 @@
 *.mars-dna.com
 *.vetsource.com
 *.effem.com
+*.cloud-effem.com

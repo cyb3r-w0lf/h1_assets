@@ -699,3 +699,4 @@ https://github.com/skip-mev/go-fast-contracts
 https://github.com/tomtom-international/*
 https://github.com/0xPolygon/heimdall-v2
 https://github.com/leather-wallet/desktop
+https://github.com/brave/*, https://github.com/brave-intl/*

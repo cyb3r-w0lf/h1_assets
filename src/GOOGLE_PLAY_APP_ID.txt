@@ -631,3 +631,4 @@ Saily - Android
 com.tesco.grocery.view
 com.blueapron.blueapron.release
 com.grubhub.android
+com.espn.score_center
