@@ -1239,3 +1239,8 @@ GitHub Spark
 ThreatDown Endpoint Detection & Response (EDR)
 ThreatDown Endpoint Protection
 https://www.npmjs.com/package/@bitwarden/mcp-server
+Fishbowl
+Glassdoor Authentication
+Glassdoor Heritage
+Glassdoor Infrastructure & Misc
+Glassdoor Jobs
