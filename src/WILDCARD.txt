@@ -2841,3 +2841,5 @@ https://*.rwbaird.com
 *.e2ro.com
 *.cloud-effem.com
 *.vueling.com
+*.roke.co.uk
+*.pipopay.com
