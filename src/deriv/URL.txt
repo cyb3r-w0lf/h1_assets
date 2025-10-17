@@ -10,3 +10,4 @@ dx-demo.deriv.com
 dx.deriv.com
 academy.deriv.com
 http://partners.deriv.com
+deriv.partners
