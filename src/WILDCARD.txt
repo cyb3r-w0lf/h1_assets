@@ -2843,3 +2843,5 @@ https://*.rwbaird.com
 *.vueling.com
 *.roke.co.uk
 *.pipopay.com
+https://*.say.rocks
+https://*.saytechnologies.com

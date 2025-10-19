@@ -1246,3 +1246,8 @@ Glassdoor Infrastructure & Misc
 Glassdoor Jobs
 Grammarly Agent Runtime
 Wrapped
+*.rhinternal.net
+*.robinhood.com
+*.robinhood.net
+*.say.rocks
+*.saytechnologies.com

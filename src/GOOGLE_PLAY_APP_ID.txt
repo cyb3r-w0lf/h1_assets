@@ -635,3 +635,6 @@ com.espn.score_center
 org.hartfordhealthcare.hhc247
 Glassdoor Android
 Regions Bank
+com.robinhood.android
+com.robinhood.gateway
+com.robinhood.money
