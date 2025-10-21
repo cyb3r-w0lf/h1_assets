@@ -12031,3 +12031,5 @@ cashier.robinhood.com
 minerva.robinhood.com
 nummus.robinhood.com
 identi.robinhood.com
+oak.robinhood.net
+www.firefox.com

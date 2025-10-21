@@ -1251,3 +1251,4 @@ Wrapped
 *.robinhood.net
 *.say.rocks
 *.saytechnologies.com
+*.rhapollo.net

@@ -2845,3 +2845,9 @@ https://*.rwbaird.com
 *.pipopay.com
 https://*.say.rocks
 https://*.saytechnologies.com
+*.1integrations.com
+*.x1.co
+*.x1creditcard.com
+*.itau.com.br
+*.itau
+*.userede.com.br

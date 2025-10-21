@@ -40,3 +40,5 @@ com.oplus.aimemory
 com.oppo.speechassist
 com.oplus.play
 com.coloros.wallet
+com.realme.storecn
+com.realmestore.app
