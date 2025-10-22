@@ -2851,3 +2851,5 @@ https://*.saytechnologies.com
 *.itau.com.br
 *.itau
 *.userede.com.br
+https://*.api.konghq.com
+https://us.identity.konghq.com/*

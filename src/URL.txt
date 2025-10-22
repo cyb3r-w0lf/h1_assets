@@ -12033,3 +12033,8 @@ nummus.robinhood.com
 identi.robinhood.com
 oak.robinhood.net
 www.firefox.com
+https://app.insomnia.rest/
+http://cloud.konghq.com
+developer.konghq.com
+konghq.com
+https://mcp.supabase.com/mcp
