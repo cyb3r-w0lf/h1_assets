@@ -6,3 +6,4 @@ https://github.com/cosmos/ledger-cosmos
 https://github.com/cosmos/gaia
 https://github.com/cosmos/ics23
 https://github.com/skip-mev/go-fast-contracts
+www.github.com/cosmos/evm
