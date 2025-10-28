@@ -2863,3 +2863,5 @@ https://us.identity.konghq.com/*
 *.apigatewayc.marriott.com
 *.apigwc.marriott.com
 *.artifactory.marriott.com
+*.web3factory.consensys.net
+*.sba.marriott.com
