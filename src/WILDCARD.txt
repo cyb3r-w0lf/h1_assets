@@ -2865,3 +2865,4 @@ https://us.identity.konghq.com/*
 *.artifactory.marriott.com
 *.web3factory.consensys.net
 *.sba.marriott.com
+*.stripchat.com
