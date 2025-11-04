@@ -10,3 +10,6 @@ https://*axissecurity.com*
 *nimblestorage.*
 *plexxi.*
 *hpe.com
+*.arubanetworks.com*
+*.central.arubanetworks.com*
+*.juniper.net
