@@ -4,3 +4,4 @@
 *.elstc.co
 *.elasticnet.co
 *.eops.nl
+*.elastic.dev
