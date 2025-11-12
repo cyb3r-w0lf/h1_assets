@@ -2878,3 +2878,4 @@ dev.epicgames.com/*
 *unitisolutions.com
 *.steamstatic.com
 *.elastic.dev
+*.happening.dev
