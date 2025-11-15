@@ -2884,3 +2884,4 @@ dev.epicgames.com/*
 *.tastemade.com
 *.tiktokpublishers.com
 *.tiktokcdn.com
+*.fanduel.com

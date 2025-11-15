@@ -5,3 +5,4 @@
 *.prd.fndlsb.net
 *inf.fndlsb.net
 *.numberfire.com
+*.fanduel.com
