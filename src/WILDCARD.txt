@@ -2885,3 +2885,4 @@ dev.epicgames.com/*
 *.tiktokpublishers.com
 *.tiktokcdn.com
 *.fanduel.com
+https://*.verilyme.com/
