@@ -2886,3 +2886,4 @@ dev.epicgames.com/*
 *.tiktokcdn.com
 *.fanduel.com
 https://*.verilyme.com/
+*.fdbox.net
