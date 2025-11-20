@@ -1,3 +1,11 @@
 grammarly.ai
 capi.grammarly.com
 app.grammarly.com
+goldengate.grammarly.com
+superhuman.com
+gateway.superhuman.com
+id.superhuman.com
+settings.superhuman.com
+auth.grammarly.com
+tokens.grammarly.com
+developer.grammarly.com

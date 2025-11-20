@@ -1,3 +1,4 @@
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
+*.superhuman.com

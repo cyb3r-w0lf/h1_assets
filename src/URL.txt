@@ -12394,3 +12394,13 @@ sandbox-b2b.ripio.com
 www.itau.com.uy
 app.taplio.com
 app.tweethunter.io
+andrewjohnson.com
+goldengate.grammarly.com
+superhuman.com
+gateway.superhuman.com
+id.superhuman.com
+settings.superhuman.com
+auth.grammarly.com
+tokens.grammarly.com
+developer.grammarly.com
+https://www.whosampled.com/

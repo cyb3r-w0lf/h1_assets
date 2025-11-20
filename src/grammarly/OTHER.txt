@@ -6,3 +6,4 @@ Grammarly Business Features
 Grammarly Auth Services
 Grammarly Agent Runtime
 Superhuman Go
+Grammarly Browser Extensions

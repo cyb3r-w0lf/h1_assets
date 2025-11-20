@@ -2887,3 +2887,4 @@ dev.epicgames.com/*
 *.fanduel.com
 https://*.verilyme.com/
 *.fdbox.net
+*.superhuman.com
