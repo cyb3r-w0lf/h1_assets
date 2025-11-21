@@ -2,3 +2,4 @@
 *.grammarlyaws.com
 *.grammarly.com
 *.superhuman.com
+*.coda.io

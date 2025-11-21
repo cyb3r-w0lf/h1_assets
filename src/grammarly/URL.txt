@@ -9,3 +9,7 @@ settings.superhuman.com
 auth.grammarly.com
 tokens.grammarly.com
 developer.grammarly.com
+codacontent.io
+codahosted.io
+coda.grammarly.com
+coda.io

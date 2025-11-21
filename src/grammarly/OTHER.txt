@@ -7,3 +7,4 @@ Grammarly Auth Services
 Grammarly Agent Runtime
 Superhuman Go
 Grammarly Browser Extensions
+Coda Chrome Extension
