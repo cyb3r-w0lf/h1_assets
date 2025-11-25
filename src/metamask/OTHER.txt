@@ -5,3 +5,4 @@ Snaps
 Authentication component
 Third Party Snaps
 Message signing snap
+mUSD Stablecoin
