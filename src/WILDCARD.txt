@@ -2890,3 +2890,4 @@ https://*.verilyme.com/
 *.superhuman.com
 *.coda.io
 *.www.allegrodev.com
+*.buildstaging.com
