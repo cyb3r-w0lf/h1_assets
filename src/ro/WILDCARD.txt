@@ -5,3 +5,4 @@
 *.modernfertility.com
 *.kit.ro.co
 *.myplenity.com
+https://*.ro.co/svc/auth-verifications/start.public/phone
