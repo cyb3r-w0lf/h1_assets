@@ -12618,3 +12618,6 @@ apps.havelockone.com
 cloudconnect.havelockone.com
 parallels.havelockone.com
 cloud.havelockone.com
+fusion.tradepmr.com
+www.tradepmr.com
+insight2.tradepmr.com
