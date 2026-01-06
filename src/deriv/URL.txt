@@ -11,3 +11,4 @@ dx.deriv.com
 academy.deriv.com
 http://partners.deriv.com
 deriv.partners
+partners.deriv.com
