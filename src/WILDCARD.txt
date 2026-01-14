@@ -3042,3 +3042,12 @@ wd2*.indriverapp.com
 *.academyofhairsalon.com
 *.devacurlpro.com
 *.agorex.cl
+*.unico.io
+*.acesso.io
+*.cadastro.uat.unico.app
+*.mufgamericas.com
+*.tobcrm-hcb.cn
+*.indola.com
+*.cascola.com.br
+*.clubedocabelopro.com.br
+*.combatbugs.com

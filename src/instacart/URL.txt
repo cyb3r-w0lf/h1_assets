@@ -2,3 +2,4 @@ api.instacart.com
 www.instacart.com
 admin.instacart.com
 shoppers.instacart.com
+template.uat.foodstorm.com
