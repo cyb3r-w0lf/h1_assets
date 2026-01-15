@@ -1,3 +1,4 @@
 *.unico.io
 *.acesso.io
 *.cadastro.uat.unico.app
+*.uat.unico.app
