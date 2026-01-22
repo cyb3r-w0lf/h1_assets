@@ -3071,3 +3071,7 @@ apps.*.svc.singlestore.com
 *.lepagecertifiedinstaller.com
 *.dev2.grindr.io
 *.grateful.me
+*.sip.*.twilio.com
+static*.twilio.com
+*.sonderhoff.com
+*.tvg.com

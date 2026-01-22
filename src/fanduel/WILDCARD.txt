@@ -6,3 +6,4 @@
 *inf.fndlsb.net
 *.numberfire.com
 *.fanduel.com
+*.tvg.com
