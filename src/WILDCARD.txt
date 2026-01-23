@@ -3075,3 +3075,6 @@ apps.*.svc.singlestore.com
 static*.twilio.com
 *.sonderhoff.com
 *.tvg.com
+*.bux.com
+*.getbux.com
+*.bux2b.com
