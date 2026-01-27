@@ -173,3 +173,6 @@
 *.stopdregmei.lt
 *.makroflex.ee
 *.mydentitycolor.com
+*.nomasclavos.cl
+*.osiatlowes.com
+*.velunkkezdodik.hu
