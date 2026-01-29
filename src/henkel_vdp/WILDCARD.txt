@@ -188,3 +188,5 @@
 *.snuggle.com
 *.sista-selladores.com
 *.phenion.com
+*.researchatelm.com
+*.resistol.com.mx
