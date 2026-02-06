@@ -62,3 +62,4 @@ https://github.com/nextcloud/tables
 https://github.com/nextcloud/collectives
 nextcloud/preferred_providers
 https://github.com/roundcube/roundcubemail
+nextcloud/files_fulltextsearch_tesseract
