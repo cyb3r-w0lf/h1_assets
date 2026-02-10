@@ -1,2 +1,3 @@
 com.coinbase.ios
 org.toshi.distribution
+com.vilcsak.bitcoin2
