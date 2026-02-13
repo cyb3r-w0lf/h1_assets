@@ -15,3 +15,4 @@ gravatar.com
 intensedebate.com
 happy.tools
 clay.earth
+wpscan.com

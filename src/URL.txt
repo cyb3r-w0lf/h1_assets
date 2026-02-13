@@ -13251,3 +13251,5 @@ api-dashboard.web3auth.io
 wallet.web3auth.io
 api-wallet.web3auth.io
 logiq.logitech.io
+cadburyworld.co.uk
+wpscan.com
