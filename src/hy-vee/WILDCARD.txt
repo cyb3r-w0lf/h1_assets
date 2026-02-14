@@ -1,1 +1,2 @@
 *.hy-vee.com
+*.hy-vee.cloud
