@@ -5,3 +5,4 @@
 *.elasticnet.co
 *.eops.nl
 *.elastic.dev
+*.ela.st
