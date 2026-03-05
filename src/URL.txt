@@ -13474,3 +13474,11 @@ http://verified.clearme.com/dashboard
 clearme.atlassian.net
 www.23andme.com
 https://ebctest.cybersource.com/notification-subscriptions
+https://passelivre.intg.appslatam.com
+https://pci-xp-bff-audit.st.latamairlines.com
+https://qa.latampass.com/
+https://latampass.com/facilidades/compra-milhas/lp?pt=pp
+https://passplay.intg.appslatam.com
+https://partnerportal.intg.appslatam.com/
+https://beta.latampass.latam.com/
+dicey.com
