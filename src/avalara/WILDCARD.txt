@@ -11,3 +11,4 @@
 *.ttrus.com
 *.impendulo.com
 *.certexpress.com
+*.avalarabrasil.com.br
