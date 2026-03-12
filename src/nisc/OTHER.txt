@@ -8,3 +8,4 @@ NISC Cloud Portal
 NISC Community
 NISC Payment Gateway
 NISC SmartHub
+iVUE Launcher / Frameworks

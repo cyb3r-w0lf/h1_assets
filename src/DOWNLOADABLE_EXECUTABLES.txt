@@ -249,3 +249,4 @@ CFEngine Enterprise
 Brave Browser Desktop
 singlestoredb-server
 singlestore-operator
+Dia Browser
