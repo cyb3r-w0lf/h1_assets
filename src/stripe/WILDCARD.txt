@@ -1,2 +1,3 @@
 *.lemonsqueezy.com
 *.bridge.xyz
+*.metronome.com
