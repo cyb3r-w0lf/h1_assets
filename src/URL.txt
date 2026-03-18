@@ -13544,3 +13544,7 @@ celticfinance.com
 royalcanin.petpaw.com
 money.x.com
 p2p.walletbot.me
+www.whatnot.com
+api.whatnot.com
+live-service.whatnot.com
+auction-service.whatnot.com
