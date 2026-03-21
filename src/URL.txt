@@ -13549,3 +13549,4 @@ api.whatnot.com
 live-service.whatnot.com
 auction-service.whatnot.com
 ygeiaspavlides.gr
+https://skills-manager.dev.appslatam.com
