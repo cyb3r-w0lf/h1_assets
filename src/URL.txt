@@ -13872,3 +13872,5 @@ www.certos.com
 http://mortgageadvisors.53.com
 sipas-ca-west.ccid.neustar.biz
 sipvs-ca.ccid.neustar.biz
+paisly.jetblue.com
+api.paisly.jetblue.com
