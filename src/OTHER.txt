@@ -1629,3 +1629,6 @@ Deposit/Withdraw
 Any other Luminor System, Website, App, Domain and IP
 WP Cloud
 Stock AI Studio
+Vendara - Jarvis
+Vendara - Gateway
+Vendara - Merchant Portal
