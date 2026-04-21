@@ -13893,3 +13893,7 @@ discover.23andme.com
 trust.23andme.com
 23andmeresearchinstitute.org
 refer.23andme.com
+www.babcockinternational.com
+investor.meesho.com
+meesho.io
+cloud.threatdown.com
