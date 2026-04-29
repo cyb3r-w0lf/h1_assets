@@ -3304,3 +3304,5 @@ static*.twilio.com
 *.porchlightgroup.com
 *.superbet.gr
 *.bancoplata.mx
+*.ai.8x8.vc
+*.preview.8x8.vc

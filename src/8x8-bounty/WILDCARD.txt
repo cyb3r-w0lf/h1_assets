@@ -37,3 +37,5 @@ analytics-*.8x8.com
 *-vpn.8x8.com
 *.unreal-agents.jitsi.net
 *.unreal-agents.com
+*.ai.8x8.vc
+*.preview.8x8.vc
