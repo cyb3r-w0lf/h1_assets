@@ -9,3 +9,4 @@ app.taxjar.com
 *.reckostaging.com
 *.link.co
 www.stripe.partners
+mcp.stripe.com
