@@ -1,3 +1,4 @@
 *.moonpaycloud.com
 *.hypermint.com
 *.moonpay.com
+*.hel.io
