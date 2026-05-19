@@ -1,2 +1,3 @@
 *.gymshark.com
 *.gymshark.io
+*.gymsharkapps.io
