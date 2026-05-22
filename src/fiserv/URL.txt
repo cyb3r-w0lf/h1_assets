@@ -810,3 +810,11 @@ http://hvcu-tn-dn.financial-net.com
 http://ibew26fcu-dn.financial-net.com
 http://iecumember-dn.financial-net.com
 http://ilafcu-dn.financial-net.com
+http://industrialemployeescu-dn.financial-net.com
+http://inlandfederal-dn.financial-net.com
+http://integrisfcu-dn.financial-net.com
+http://ircocu-dn.financial-net.com
+http://ivcu-dn.financial-net.com
+http://iwfcu-dn.financial-net.com
+http://jaclcu-dn.financial-net.com
+http://jacomcu-dn.financial-net.com
