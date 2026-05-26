@@ -3320,3 +3320,4 @@ static*.twilio.com
 *.notyourmothers.com
 *.nymbrands.com,uk,co.uk
 *.nymhair.co.uk,.com,.uk
+*.devin.ai

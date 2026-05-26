@@ -1649,3 +1649,6 @@ Behance Freelance Job creation
 *.vans.com
 *.thenorthface.com
 *.timberland.com
+Windsurf IDE
+Windsurf Plugins
+Elastic Credentials
