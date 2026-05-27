@@ -3321,3 +3321,7 @@ static*.twilio.com
 *.nymbrands.com,uk,co.uk
 *.nymhair.co.uk,.com,.uk
 *.devin.ai
+www.gogo*.com
+www.*gogo.com
+www.*gogo*.com
+www.gogo*.*
