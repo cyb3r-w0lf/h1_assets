@@ -14234,3 +14234,5 @@ https://gosatcom.net
 https://gogo.aero
 https://www.sdgov.gogoair.com
 https://gogo.to
+developer.gocardless.com
+survey.visa.com
