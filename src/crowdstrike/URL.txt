@@ -6,3 +6,7 @@ onum.com
 onum-labs.com
 pangea.cloud
 seraphicsecurity.com
+sgnl.ai
+sgnl.cloud
+sgnl.team
+sgnlapis.cloud

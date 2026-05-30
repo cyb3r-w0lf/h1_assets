@@ -14239,3 +14239,8 @@ survey.visa.com
 resolve.8x8.com
 admin-resolve.8x8.com
 seraphicsecurity.com
+www.visa.com.ru
+sgnl.ai
+sgnl.cloud
+sgnl.team
+sgnlapis.cloud
