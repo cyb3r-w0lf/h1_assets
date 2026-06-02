@@ -34,3 +34,4 @@
 *.paddypartners.com
 *.dibz.co.uk
 *.ppbdev.com
+*.ppb.com

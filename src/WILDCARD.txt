@@ -3325,3 +3325,5 @@ www.gogo*.com
 www.*gogo.com
 www.*gogo*.com
 www.gogo*.*
+www.*.gogoair.*.com
+*.ppb.com
