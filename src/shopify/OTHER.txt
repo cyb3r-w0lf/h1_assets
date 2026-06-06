@@ -2,3 +2,4 @@ Shopify Mobile Applications
 Shopify Developed Apps
 Shopify Third Party Apps
 Shopify Third Party Store
+Authentication & ATO
