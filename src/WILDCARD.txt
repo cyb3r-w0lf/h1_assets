@@ -3336,3 +3336,4 @@ www.*.gogoair.*.com
 *.primarycareondemand.mayoclinic.org
 *.novanthealthvirtualprimarycare.org
 *.pennmedicine.connect-visit.com
+*.soundon.global
