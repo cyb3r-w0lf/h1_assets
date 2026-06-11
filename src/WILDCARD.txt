@@ -3337,3 +3337,5 @@ www.*.gogoair.*.com
 *.novanthealthvirtualprimarycare.org
 *.pennmedicine.connect-visit.com
 *.soundon.global
+*.bcbits.com
+*.fallguys.com
