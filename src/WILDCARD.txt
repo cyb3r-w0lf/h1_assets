@@ -3339,3 +3339,5 @@ www.*.gogoair.*.com
 *.soundon.global
 *.bcbits.com
 *.fallguys.com
+*.bouchonbakeryme.com/
+*.8x8.studio

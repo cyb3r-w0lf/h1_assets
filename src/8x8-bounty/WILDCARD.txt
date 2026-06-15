@@ -39,3 +39,4 @@ analytics-*.8x8.com
 *.unreal-agents.com
 *.ai.8x8.vc
 *.preview.8x8.vc
+*.8x8.studio
