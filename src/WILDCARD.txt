@@ -3343,3 +3343,10 @@ www.*.gogoair.*.com
 *.8x8.studio
 *.svc.singlestore.com
 *.cloud.singlestore.com
+*.windsurf.com
+*.cognition.com
+*.cognition.ai
+*.drs.com
+*.drs.ca
+*.drsrada.com
+*.leonardodrs.com
