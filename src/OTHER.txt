@@ -1711,3 +1711,5 @@ Twinmotion
 UnrealEngine
 Any other ThreatDown asset
 Devin Desktop
+Hilton Franchised Properties
+Hilton Third Party Applications
