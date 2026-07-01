@@ -3352,3 +3352,4 @@ www.*.gogoair.*.com
 *.leonardodrs.com
 *.safran-dsi.com
 *.optics1.com
+*.labs.8x8.com
