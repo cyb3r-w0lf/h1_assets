@@ -11,3 +11,5 @@ magnolia.jetblue.com
 experience.jetblue.com
 paisly.jetblue.com
 api.paisly.jetblue.com
+www.truebluetravel.com/
+jetbluevacations.com
