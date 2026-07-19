@@ -5,3 +5,4 @@ Software Supply Chain
 Elastic Clients
 elastic.co credentials
 Elastic Credentials
+Subdomain takeover

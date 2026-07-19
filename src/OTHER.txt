@@ -1719,3 +1719,4 @@ Firefox Homepage Newtab
 Superhuman Mail Desktop App
 Superhuman Mail Chrome Extension
 Superhuman Mail
+Subdomain takeover
