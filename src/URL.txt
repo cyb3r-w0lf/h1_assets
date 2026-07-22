@@ -14434,3 +14434,6 @@ payflow.appslatam.com
 home.deriv.com
 core-api.deriv.com
 https://api-core.deriv.com
+treinamento-crivoapi.crivo.com.br
+https://fx-qa.np.bolsasymercados.es/
+resmax.hilton.com
