@@ -3357,3 +3357,4 @@ www.*.gogoair.*.com
 *.discoverfinancial.com
 *.www.olf.com
 *.www.openlink.com
+*.wolt.com

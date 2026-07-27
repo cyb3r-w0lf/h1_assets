@@ -14518,3 +14518,12 @@ supportdispatch.appslatam.com
 http://recruitment.roke.co.uk
 sabal.com
 stagingwpm.neustar.biz
+authentication.wolt.com
+corporate.wolt.com
+drive.wolt.com
+merchant.wolt.com
+ops.wolt.com
+restaurant-api.wolt.com
+wolt.com
+maestro.8x8.cloud
+8x8.cloud

@@ -1,0 +1,2 @@
+com.wolt.android
+com.wolt.courierapp

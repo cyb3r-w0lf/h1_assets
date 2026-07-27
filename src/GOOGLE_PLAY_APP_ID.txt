@@ -665,3 +665,5 @@ com.starbucks.tr
 com.getyourguide.android
 com.hilton.android.hhonors
 com.ba.mobile
+com.wolt.android
+com.wolt.courierapp
