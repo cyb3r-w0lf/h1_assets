@@ -14527,3 +14527,6 @@ restaurant-api.wolt.com
 wolt.com
 maestro.8x8.cloud
 8x8.cloud
+supplier-api.getyourguide.com
+supplier-support.getyourguide.com
+supplier.getyourguide.com

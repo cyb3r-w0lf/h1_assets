@@ -3358,3 +3358,6 @@ www.*.gogoair.*.com
 *.www.olf.com
 *.www.openlink.com
 *.wolt.com
+*.omnicell.com
+*.myomnicell.com
+*.enlivenhealth.co

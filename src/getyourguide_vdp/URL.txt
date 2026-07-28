@@ -3,3 +3,6 @@ widget.getyourguide.com
 https://partner-public.getyourguide.com/graphql
 www.getyourguide.com
 travelers-api.getyourguide.com
+supplier-api.getyourguide.com
+supplier-support.getyourguide.com
+supplier.getyourguide.com

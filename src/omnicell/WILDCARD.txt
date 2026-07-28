@@ -1,0 +1,3 @@
+*.omnicell.com
+*.myomnicell.com
+*.enlivenhealth.co
