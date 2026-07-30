@@ -3361,3 +3361,5 @@ www.*.gogoair.*.com
 *.omnicell.com
 *.myomnicell.com
 *.enlivenhealth.co
+*.kellanova.com
+*.pringles.com

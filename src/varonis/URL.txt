@@ -1,0 +1,4 @@
+licensemgmt.varonis.com
+downloads.varonis.com
+my.varonis.com
+support.varonis.com
