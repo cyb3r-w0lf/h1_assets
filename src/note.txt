@@ -737,3 +737,4 @@
 58184	https://hackerone.com/abercrombie_fitch_bbp	Abercrombie & Fitch Bug Bounty	abercrombie_fitch_bbp
 114418	https://hackerone.com/wolt	Wolt	wolt
 112443	https://hackerone.com/omnicell	Omnicell	omnicell
+115006	https://hackerone.com/assa_abloy_americas	Assa Abloy Americas	assa_abloy_americas

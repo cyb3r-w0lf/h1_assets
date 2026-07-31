@@ -667,3 +667,11 @@ com.hilton.android.hhonors
 com.ba.mobile
 com.wolt.android
 com.wolt.courierapp
+https://play.google.com/store/apps/details?id=com.yale.multifamconftool
+https://play.google.com/store/apps/details?id=com.luxerone.mobile.residentapp
+https://play.google.com/store/apps/details?id=com.kwikset.blewifi
+https://play.google.com/store/apps/details?id=com.assaabloy.yaleconnect
+https://play.google.com/store/apps/details?id=com.assaabloy.centrIosAppStore
+https://play.google.com/store/apps/details?id=com.assaabloy.accentra.access
+https://play.google.com/store/apps/details?id=br.com.controlid.rhid&hl=en&gl=US
+https://play.google.com/store/apps/details?id=co.level.app
