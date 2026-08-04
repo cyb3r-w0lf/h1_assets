@@ -770,3 +770,5 @@ Mapbox MCP Server
 Mapbox DevKit MCP Server
 Mapbox Docs MCP Server
 Mapbox GL Geocoder
+https://github.com/vercel/eve
+https://github.com/vercel/chat
