@@ -1,3 +1,5 @@
 Exodus Browser Extension
 Passkey PlayGround
 Passkey Wallet
+Smart Contract: Solana - EQYRmLmkE7G7a2WQyojwrXg4SeguypCdnbm3ecncizsd
+Smart Contract: Solana mainnet - xoUSDq85Rjsb6SbUwJyreFgeWQvxdkT7R3c3g7s6p5Y

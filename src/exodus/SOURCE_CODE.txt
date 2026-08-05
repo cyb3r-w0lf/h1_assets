@@ -1,0 +1,7 @@
+https://github.com/ExodusOSS/crypto
+https://github.com/ExodusOSS/bytes
+https://github.com/ExodusOSS/hydra
+https://www.npmjs.com/package/@exodus/keychain
+https://www.npmjs.com/package/@exodus/sentry-client
+https://www.npmjs.com/package/@exodus/errors
+https://www.npmjs.com/package/@exodus/safe-string

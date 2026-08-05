@@ -1,0 +1,1 @@
+42006	https://hackerone.com/box_private	Box BB	box_private
