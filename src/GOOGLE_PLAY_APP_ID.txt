@@ -676,3 +676,4 @@ https://play.google.com/store/apps/details?id=com.assaabloy.accentra.access
 https://play.google.com/store/apps/details?id=br.com.controlid.rhid&hl=en&gl=US
 https://play.google.com/store/apps/details?id=co.level.app
 Android Box Mobile App
+com.superhuman.mail

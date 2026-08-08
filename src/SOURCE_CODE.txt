@@ -779,3 +779,6 @@ https://www.npmjs.com/package/@exodus/keychain
 https://www.npmjs.com/package/@exodus/sentry-client
 https://www.npmjs.com/package/@exodus/errors
 https://www.npmjs.com/package/@exodus/safe-string
+https://github.com/aws-actions/*
+https://github.com/coinbase/*
+https://github.com/base/*

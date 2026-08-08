@@ -1,1 +1,2 @@
 *.coinbase-corp.com
+*.base.app
