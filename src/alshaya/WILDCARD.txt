@@ -85,3 +85,4 @@
 *.babelkwt.com
 *.pfchangsme.com
 *.bouchonbakeryme.com/
+*.aura-mena-uat.alshaya.com

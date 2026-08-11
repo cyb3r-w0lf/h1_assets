@@ -761,3 +761,6 @@ e1ch.neustar.biz
 treinamento-crivoapi.crivo.com.br
 stagingwpm.neustar.biz
 empidwatch.sontiq.com
+verify-uat-canada.ccid.neustar.biz
+fraudforce.iovation.com
+ftp.reallybigbank.com

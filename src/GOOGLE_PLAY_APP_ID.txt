@@ -677,3 +677,7 @@ https://play.google.com/store/apps/details?id=br.com.controlid.rhid&hl=en&gl=US
 https://play.google.com/store/apps/details?id=co.level.app
 Android Box Mobile App
 com.superhuman.mail
+OYO Android App - com.oyo.consumer
+Co-OYO Android App - com.oyo.partnerapp
+OYO OS Android App - com.oyo.property
+OYO Lite Android app - com.oyo.consumerlite

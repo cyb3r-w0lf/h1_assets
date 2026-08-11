@@ -14683,3 +14683,8 @@ dl.boxcloud.com
 cloud.app.box.com
 sr-staging-1.com
 signrequest.com
+prismlife.com
+patron.oyorooms.com
+verify-uat-canada.ccid.neustar.biz
+fraudforce.iovation.com
+ftp.reallybigbank.com

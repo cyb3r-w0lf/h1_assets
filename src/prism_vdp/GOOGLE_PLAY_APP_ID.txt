@@ -1,0 +1,4 @@
+OYO Android App - com.oyo.consumer
+Co-OYO Android App - com.oyo.partnerapp
+OYO OS Android App - com.oyo.property
+OYO Lite Android app - com.oyo.consumerlite

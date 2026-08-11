@@ -617,3 +617,7 @@ https://apps.apple.com/us/app/yale-accentra-access/id1523678122
 id6472633752
 iOS Box Mobile App
 com.superhuman.mail 
+OYO iOS Application
+Co-OYO iOS Application
+Weddingz iOS App 
+https://apps.apple.com/in/app/oyo-workspaces/id1448023664

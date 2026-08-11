@@ -1,0 +1,17 @@
+http://*.oyorooms.com
+http://*.oyoos.com
+http://*.oyorooms.io
+https://*.motel6.com
+https://*.belvilla.com
+https://*.dancenter.dk
+https://*.g6hospitality.com
+http://*.traum-ferienwohnungen.de
+http://*.leisure-partners.net
+*.checkin.life
+https://*.madecomfy.com.au
+http://*.weddingz.in
+http://*.oyocircle.com
+http://*.oyoworkspaces.com
+http://*.oyotownhouse.com
+http://*.innov8.work
+http://*.workflobyoyo.com

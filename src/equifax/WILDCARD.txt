@@ -30,3 +30,6 @@ https://*.justicexchange.com
 *.vineapps.com
 *www.vaultverify.com
 *vaultverify.com
+*.vedaadvantage.com
+*.vedaadvantage.com.au
+*.vedaadvantage.com.nz
