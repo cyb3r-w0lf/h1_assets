@@ -15,3 +15,5 @@ developer.crypto.com
 developer-api.crypto.com
 og.com
 travel.crypto.com
+experiences.crypto.com
+tickets.crypto.com

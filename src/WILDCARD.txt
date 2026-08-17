@@ -3382,3 +3382,4 @@ https://*.madecomfy.com.au
 *.klarnacdn.net
 *.pricerunner.com
 *.raqnhub.cn
+*.momoafrica.tech

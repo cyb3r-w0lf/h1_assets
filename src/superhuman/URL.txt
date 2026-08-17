@@ -8,3 +8,4 @@ codahosted.io
 coda.grammarly.com
 coda.io
 mail.superhuman.com
+docs.superhuman.com
