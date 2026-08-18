@@ -145,3 +145,4 @@ releasor.payworks.com/
 https://ebctest.cybersource.com/pbl
 survey.visa.com
 www.visa.com.ru
+www.visa.com.ua
