@@ -764,3 +764,6 @@ empidwatch.sontiq.com
 verify-uat-canada.ccid.neustar.biz
 fraudforce.iovation.com
 ftp.reallybigbank.com
+authn-uat-canada.ccid.neustar.biz
+cvt-uat-canada.ccid.neustar.biz
+extapi-test4.cloudcare.avg.com

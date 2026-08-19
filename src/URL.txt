@@ -14692,3 +14692,7 @@ docs.superhuman.com
 experiences.crypto.com
 tickets.crypto.com
 www.visa.com.ua
+https://qa.manage.saasalerts.com/
+authn-uat-canada.ccid.neustar.biz
+cvt-uat-canada.ccid.neustar.biz
+extapi-test4.cloudcare.avg.com
