@@ -260,3 +260,4 @@ FortniteClient-Win64-Shipping_EAC.exe
 UnrealEditorFortnite.exe
 Devin CLI
 basecamp-setup.exe
+grok-build

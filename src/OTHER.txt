@@ -1729,3 +1729,5 @@ Smart Contract: Solana - EQYRmLmkE7G7a2WQyojwrXg4SeguypCdnbm3ecncizsd
 Smart Contract: Solana mainnet - xoUSDq85Rjsb6SbUwJyreFgeWQvxdkT7R3c3g7s6p5Y
 Vega OS
 Vercel sandbox
+Hilton Third Party Applications - *.hilton.com
+X Pixel Helper (Chrome Extension)

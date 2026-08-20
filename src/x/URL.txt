@@ -11,3 +11,6 @@ grok.com
 chat.x.com
 grokipedia.com
 money.x.com
+console.x.com
+pscp.tv
+x.ai

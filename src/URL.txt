@@ -14696,3 +14696,6 @@ https://qa.manage.saasalerts.com/
 authn-uat-canada.ccid.neustar.biz
 cvt-uat-canada.ccid.neustar.biz
 extapi-test4.cloudcare.avg.com
+console.x.com
+pscp.tv
+x.ai
