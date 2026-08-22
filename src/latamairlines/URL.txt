@@ -30,3 +30,4 @@ portaltf.appslatam.com
 payflow.appslatam.com
 srtlatam.appslatam.com
 supportdispatch.appslatam.com
+andeslatam.tech

@@ -218,3 +218,5 @@
 *.nymhair.co.uk,.com,.uk
 *.henkeldx.com
 *.raqnhub.cn
+*.sawope.com
+*.henkeleconomato.es

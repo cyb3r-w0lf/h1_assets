@@ -14699,3 +14699,5 @@ extapi-test4.cloudcare.avg.com
 console.x.com
 pscp.tv
 x.ai
+forms.cybersource.com
+andeslatam.tech
