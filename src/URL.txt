@@ -14701,3 +14701,7 @@ pscp.tv
 x.ai
 forms.cybersource.com
 andeslatam.tech
+www.visa.co.cr
+www.visa.co.ni
+www.visa.com.bo
+https://www.myvisacardportal.com/enbd/en_ae/landing/

@@ -147,3 +147,7 @@ survey.visa.com
 www.visa.com.ru
 www.visa.com.ua
 forms.cybersource.com
+www.visa.co.cr
+www.visa.co.ni
+www.visa.com.bo
+https://www.myvisacardportal.com/enbd/en_ae/landing/
