@@ -681,3 +681,20 @@ OYO Android App - com.oyo.consumer
 Co-OYO Android App - com.oyo.partnerapp
 OYO OS Android App - com.oyo.property
 OYO Lite Android app - com.oyo.consumerlite
+https://play.google.com/store/apps/details?id=com.essity.femcare.period.tracker&pli=1
+https://play.google.com/store/apps/details?id=com.nixonnixon.libero
+https://play.google.com/store/apps/details?id=com.nixonnixon.libero&hl=da
+https://play.google.com/store/apps/details?id=com.nixonnixon.libero&hl=fi
+https://play.google.com/store/apps/details?id=com.nixonnixon.libero&hl=no
+https://play.google.com/store/apps/details?id=com.nolapp&gl=AR&hl=es_AR
+https://play.google.com/store/apps/details?id=com.nolapp&gl=BO&hl=es_BO
+https://play.google.com/store/apps/details?id=com.nolapp&gl=CL&hl=es_CL
+https://play.google.com/store/apps/details?id=com.nolapp&gl=CO&hl=es_CO
+https://play.google.com/store/apps/details?id=com.nolapp&gl=DO&hl=es_DO
+https://play.google.com/store/apps/details?id=com.nolapp&gl=EC&hl=es_EC
+https://play.google.com/store/apps/details?id=com.nolapp&gl=PE&hl=es_PE
+https://play.google.com/store/apps/details?id=com.nolapp&gl=PY&hl=es_PY
+https://play.google.com/store/apps/details?id=com.nolapp&gl=US&hl=es_US
+https://play.google.com/store/apps/details?id=com.nolapp&gl=UY&hl=es_UY
+https://play.google.com/store/apps/details?id=com.essity.torkvisioninstall
+https://play.google.com/store/apps/details?id=com.essity.torklegacyinstall

@@ -536,3 +536,4 @@ Amazon WorkSpaces Secure Browser
 Amazon WorkSpaces Thin Client
 Amazon lookout
 Apache Kafka APIs for Amazon MSK clusters
+Amazon VPC 

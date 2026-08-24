@@ -1731,3 +1731,5 @@ Vega OS
 Vercel sandbox
 Hilton Third Party Applications - *.hilton.com
 X Pixel Helper (Chrome Extension)
+Amazon VPC 
+Heartland Restaurant / Retail / Human Capital Management (Get Hired)
