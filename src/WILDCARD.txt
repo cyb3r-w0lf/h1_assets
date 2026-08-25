@@ -3385,3 +3385,4 @@ https://*.madecomfy.com.au
 *.momoafrica.tech
 *.sawope.com
 *.henkeleconomato.es
+*.iron.xyz

@@ -2,3 +2,4 @@
 *.hypermint.com
 *.moonpay.com
 *.hel.io
+*.iron.xyz
