@@ -15200,3 +15200,6 @@ www.visa.pl
 www.visa.be
 https://www.visa.com.ua/
 map.8x8.com
+auth.cdssandbox.xyz
+https://ebctest.cybersource.com/underwriting
+https://ebctest.cybersource.com/bos
