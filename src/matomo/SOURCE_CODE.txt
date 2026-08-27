@@ -3,3 +3,5 @@ https://plugins.matomo.org/developer/matomo-org
 https://plugins.matomo.org/developer/innocraft
 https://github.com/matomo-org
 https://github.com/innocraft/
+https://github.com/matomo-org/tracker-proxy
+https://github.com/matomo-org/developer-documentation

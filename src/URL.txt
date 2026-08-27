@@ -15203,3 +15203,8 @@ map.8x8.com
 auth.cdssandbox.xyz
 https://ebctest.cybersource.com/underwriting
 https://ebctest.cybersource.com/bos
+app.login-connexion.canada.ca
+api.login-connexion.canada.ca
+app.migration.login-connexion.canada.ca
+api.migration.login-connexion.canada.ca
+https://ebctest.cybersource.com/vroom

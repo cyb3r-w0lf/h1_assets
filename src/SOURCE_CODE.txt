@@ -783,3 +783,5 @@ https://github.com/aws-actions/*
 https://github.com/coinbase/*
 https://github.com/base/*
 https://gitlab.torproject.org/tpo/core/arti
+https://github.com/matomo-org/tracker-proxy
+https://github.com/matomo-org/developer-documentation
