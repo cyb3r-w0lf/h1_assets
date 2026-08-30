@@ -41,3 +41,8 @@ analytics-*.8x8.com
 *.preview.8x8.vc
 *.8x8.studio
 *.labs.8x8.com
+*.8x8.cloud
+*.8x8.engineering
+*.mavenlab.com
+*.moobidesk.com
+*.moobicast.com
