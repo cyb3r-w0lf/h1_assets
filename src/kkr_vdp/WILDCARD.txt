@@ -1,0 +1,2 @@
+*.globalatlantic.com
+*.gafg.com
