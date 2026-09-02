@@ -160,3 +160,8 @@ realme C71
 CounterAct 9.x
 XE360
 XE360 with RealSync
+Any Semtech Hardware Product
+Airlink XR/RX (>=AOS 6.1) 
+Airlink ALEOS
+LoRa LR
+Sierra Wireless Modules

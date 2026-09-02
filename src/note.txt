@@ -743,3 +743,4 @@
 116030	https://hackerone.com/vercel_sandbox	Vercel Sandbox	vercel_sandbox
 109248	https://hackerone.com/essity	Essity	essity
 109411	https://hackerone.com/vanguard	Vanguard	vanguard
+53217	https://hackerone.com/semtech	Semtech	semtech

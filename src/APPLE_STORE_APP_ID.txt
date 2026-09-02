@@ -637,3 +637,4 @@ https://apps.apple.com/uy/app/nosotras-v-app/id1577849733
 https://apps.apple.com/us/app/tork-vision-install/id6753860641
 https://apps.apple.com/de/app/tork-legacy-install/id6756050241
 https://apps.apple.com/se/app/libresse-menskalender/id6736515500?l=en-GB
+com.wealthsimple.predict

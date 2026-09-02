@@ -6,3 +6,5 @@ travelers-api.getyourguide.com
 supplier-api.getyourguide.com
 supplier-support.getyourguide.com
 supplier.getyourguide.com
+integrator.getyourguide.com
+integrator-portal-api.getyourguide.com

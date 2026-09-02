@@ -3394,3 +3394,12 @@ https://*.madecomfy.com.au
 *.moobicast.com
 *.globalatlantic.com
 *.gafg.com
+*.loracloud.com
+*.sierrawireless.com
+*.airvantage.net
+*vpn*.semtech.com
+*airvantage.net
+blog*semtech.com
+*sierrawireless-com.go-vip.net
+*learn.semtech.com
+info*semtech.com

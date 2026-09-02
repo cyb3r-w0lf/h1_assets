@@ -1,0 +1,5 @@
+Any Semtech Hardware Product
+Airlink XR/RX (>=AOS 6.1) 
+Airlink ALEOS
+LoRa LR
+Sierra Wireless Modules

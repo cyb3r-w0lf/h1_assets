@@ -698,3 +698,4 @@ https://play.google.com/store/apps/details?id=com.nolapp&gl=US&hl=es_US
 https://play.google.com/store/apps/details?id=com.nolapp&gl=UY&hl=es_UY
 https://play.google.com/store/apps/details?id=com.essity.torkvisioninstall
 https://play.google.com/store/apps/details?id=com.essity.torklegacyinstall
+com.wealthsimple.predict
