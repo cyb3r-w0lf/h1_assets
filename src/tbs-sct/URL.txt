@@ -14,3 +14,5 @@ app.login-connexion.canada.ca
 api.login-connexion.canada.ca
 app.migration.login-connexion.canada.ca
 api.migration.login-connexion.canada.ca
+api.forms-formulaires.alpha.canada.ca
+validate-email.cdssandbox.xyz
