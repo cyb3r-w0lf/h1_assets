@@ -1738,3 +1738,4 @@ https://hackerone.com/mcp
 Any Semtech Software Product
 Any Semtech Mobile Application
 Box Tools
+Services/Mobile/GenAI

@@ -8,3 +8,4 @@ Notion AI
 Player Support Chatbot
 Agentic Wallet
 Fable 5
+Fable 5.1

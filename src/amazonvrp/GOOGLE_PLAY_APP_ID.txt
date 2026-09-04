@@ -34,3 +34,10 @@ com.amazon.enterprise.access.android
 com.amazon.firetv.recast.blaster.aosp
 com.amazon.ihm.candycane
 com.amazon.swa.mobileapp
+com.amazon.dee.alexaonwearos
+com.amazon.clouddrive.photos
+com.amazon.dee.app
+com.amazon.kindle
+com.amazon.storm.lightning.client.aosp
+com.amazon.tahoe.freetime
+com.amazon.tails
