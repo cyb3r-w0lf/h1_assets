@@ -3,3 +3,4 @@ launchpad.37signals.com
 world.hey.com
 fizzy.do
 app.basecamp.com
+app.fizzy.do

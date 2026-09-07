@@ -35,3 +35,5 @@
 *.mercadoshops.com.py
 *.mercadoshops.com.uy
 *.mlstatic.com
+*.tucarro.com.ve
+*.mercadolibre.com.ve

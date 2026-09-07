@@ -3403,3 +3403,5 @@ blog*semtech.com
 *sierrawireless-com.go-vip.net
 *learn.semtech.com
 info*semtech.com
+*.tucarro.com.ve
+*.mercadolibre.com.ve
