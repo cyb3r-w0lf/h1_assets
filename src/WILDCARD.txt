@@ -3405,3 +3405,4 @@ blog*semtech.com
 info*semtech.com
 *.tucarro.com.ve
 *.mercadolibre.com.ve
+*.swaps.xyz
