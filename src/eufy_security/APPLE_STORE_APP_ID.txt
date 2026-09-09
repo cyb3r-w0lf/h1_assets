@@ -4,3 +4,5 @@ com.eufylife.EufyHome
 com.anker.AnkerMake
 id1635029057
 Anker
+anker-nebula/id1319092174
+soundcore/id1331876603

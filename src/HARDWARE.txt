@@ -165,3 +165,5 @@ Airlink XR/RX (>=AOS 6.1)
 Airlink ALEOS
 LoRa LR
 Sierra Wireless Modules
+Anker soundcore Work D3200
+Liberty 5 Pro Max D1204

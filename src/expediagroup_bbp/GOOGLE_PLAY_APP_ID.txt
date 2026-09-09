@@ -8,3 +8,5 @@ com.travelocity.android
 com.hcom.android
 com.vrbo.android
 com.expediapartnercentral
+com.carrentals
+com.homeaway.android

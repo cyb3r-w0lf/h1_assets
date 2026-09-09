@@ -699,3 +699,7 @@ https://play.google.com/store/apps/details?id=com.nolapp&gl=UY&hl=es_UY
 https://play.google.com/store/apps/details?id=com.essity.torkvisioninstall
 https://play.google.com/store/apps/details?id=com.essity.torklegacyinstall
 com.wealthsimple.predict
+id=com.oceanwing.soundcore
+id=com.zhixin.controller
+com.carrentals
+com.homeaway.android

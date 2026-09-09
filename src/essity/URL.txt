@@ -446,3 +446,5 @@ https://libresse.co.za
 https://libresse.bg
 https://tenanet.tenaprofessionals.ca
 https://tenanet.tenaprofessionals.us/
+app.essity.com
+gms.app.essity.com
