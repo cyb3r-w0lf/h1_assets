@@ -640,3 +640,5 @@ https://apps.apple.com/se/app/libresse-menskalender/id6736515500?l=en-GB
 com.wealthsimple.predict
 anker-nebula/id1319092174
 soundcore/id1331876603
+506426310
+642441300

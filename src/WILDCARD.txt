@@ -3407,3 +3407,5 @@ info*semtech.com
 *.mercadolibre.com.ve
 *.swaps.xyz
 *.tigets.com
+*.tiqets.com
+*.expedia-aarp.com
