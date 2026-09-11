@@ -12,3 +12,4 @@
 *.superbet.pl
 *.happening.dev
 *.superbet.gr
+*.super.xyz

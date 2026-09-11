@@ -1741,3 +1741,5 @@ Box Tools
 Services/Mobile/GenAI
 Globalpayments.com
 Neon-supported extensions
+Lakebase-Supported extensions
+Files.com SDKs and MCP

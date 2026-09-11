@@ -3409,3 +3409,4 @@ info*semtech.com
 *.tigets.com
 *.tiqets.com
 *.expedia-aarp.com
+*.super.xyz
