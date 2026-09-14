@@ -37,3 +37,4 @@
 *.mlstatic.com
 *.tucarro.com.ve
 *.mercadolibre.com.ve
+mercadolibreexperience.com.*
