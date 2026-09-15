@@ -15345,3 +15345,8 @@ www.tigets.com
 www.tiqets.com
 auth.forms-formulaires.alpha.canada.ca
 https://super.xyz
+http://heartland.us
+test.revaluemycard.com
+testadmin.revaluemycard.com
+testmobile.revaluemycard.com
+testprovider.revaluemycard.com

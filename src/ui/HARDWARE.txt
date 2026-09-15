@@ -13,3 +13,5 @@ Cloudkey
 UniFi LED
 UniFi Access
 UniFi Connect
+Enterprise Audio/Video
+UniFi-Play

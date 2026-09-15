@@ -3,3 +3,8 @@ bleepplc.co.uk
 pcamerica.com
 http://portal-staging.storman.com
 http://cloud-sbox.storman.com
+http://heartland.us
+test.revaluemycard.com
+testadmin.revaluemycard.com
+testmobile.revaluemycard.com
+testprovider.revaluemycard.com

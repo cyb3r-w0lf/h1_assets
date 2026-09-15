@@ -42,3 +42,5 @@ Vendara - Gateway
 Vendara - Merchant Portal
 Heartland Restaurant / Retail / Human Capital Management (Get Hired)
 Globalpayments.com
+Heartland Developer Portal
+Merchant Portal
