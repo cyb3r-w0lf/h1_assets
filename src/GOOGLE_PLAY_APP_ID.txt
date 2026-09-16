@@ -703,3 +703,4 @@ id=com.oceanwing.soundcore
 id=com.zhixin.controller
 com.carrentals
 com.homeaway.android
+d-you Wallet Android Test

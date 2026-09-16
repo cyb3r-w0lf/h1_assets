@@ -3,3 +3,4 @@ com.wisdomtree.wtprime
 com.finnwea.Raivo
 https://testflight.apple.com/join/vwFxXX7t
 https://testflight.apple.com/join/Y4cHu289
+d-you Wallet iOS Test

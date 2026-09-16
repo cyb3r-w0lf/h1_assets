@@ -1,0 +1,5 @@
+https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/v1/wpb
+https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/v1/rwsca
+https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/v1/mdvm
+https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/v1/status-lists
+https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/v1/pns

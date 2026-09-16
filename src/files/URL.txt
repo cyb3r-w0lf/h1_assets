@@ -1,3 +1,4 @@
 app.files.com
 your-assigned-subdomain.files.com
 www.files.com
+your-assigned-subdomain.hosted-by-files.com

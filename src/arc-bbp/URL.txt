@@ -1,0 +1,2 @@
+rpc.testnet.arc.network
+rpc.drpc.testnet.arc.network
