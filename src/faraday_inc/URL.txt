@@ -3,3 +3,7 @@ api.faraday.ai
 vault2.faraday.ai
 buy.faraday.ai
 row.pro
+api.row.pro
+pro.faraday.ai
+mcp.faraday.ai
+api.pro.faraday.ai

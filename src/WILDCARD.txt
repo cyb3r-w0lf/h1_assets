@@ -3412,3 +3412,5 @@ info*semtech.com
 *.super.xyz
 mercadolibreexperience.com.*
 *.arc.io
+*.expediataap.com
+*.expediataaprewards.com

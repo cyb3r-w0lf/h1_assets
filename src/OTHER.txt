@@ -1744,3 +1744,4 @@ Neon-supported extensions
 Lakebase-Supported extensions
 Files.com SDKs and MCP
 Heartland Developer Portal
+BigQuery

@@ -15352,3 +15352,7 @@ testmobile.revaluemycard.com
 testprovider.revaluemycard.com
 metrocompetitions.com
 your-assigned-subdomain.hosted-by-files.com
+api.row.pro
+pro.faraday.ai
+mcp.faraday.ai
+api.pro.faraday.ai
