@@ -3414,3 +3414,5 @@ mercadolibreexperience.com.*
 *.arc.io
 *.expediataap.com
 *.expediataaprewards.com
+*.vercel.live
+*.vercel.com

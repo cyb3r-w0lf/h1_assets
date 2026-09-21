@@ -1,0 +1,4 @@
+vercel.app
+vercel.com
+v0.dev
+v0.app
