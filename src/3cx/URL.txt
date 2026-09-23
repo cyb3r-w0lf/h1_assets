@@ -1,1 +1,7 @@
 https://portal.3cx.com
+activate.3cx.com
+wmr.3cx.net
+mailproxy.3cx.com
+downloads-global.3cx.com
+repo.3cx.com
+rps.3cx.com

@@ -38,3 +38,4 @@
 *.zurichempresas.es
 *.zurichna.com
 *.zurichseguros.com.ec
+*.zurich.com.sg

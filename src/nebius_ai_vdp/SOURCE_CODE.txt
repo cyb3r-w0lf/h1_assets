@@ -1,0 +1,5 @@
+https://github.com/nebius/gosdk 
+https://github.com/nebius/js-sdk 
+https://github.com/nebius/terraform-provider-nebius 
+https://github.com/nebius/pysdk 
+https://github.com/nebius/nebius-observability-agent-updater 
