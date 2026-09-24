@@ -7,3 +7,9 @@ GlotPress
 WP-CLI
 Official WordPress plugins
 bbPress Core
+*.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org
+Secure Custom Fields
+SQLite Database Integration
+Create Block Theme
+github.com/wordpress
+Playground

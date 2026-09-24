@@ -749,3 +749,4 @@
 83563	https://hackerone.com/circle-bbp	Circle	circle-bbp
 59176	https://hackerone.com/vercel	Vercel	vercel
 114975	https://hackerone.com/nebius_ai_vdp	Nebius AI Vulnerability Disclosure	nebius_ai_vdp
+76417	https://hackerone.com/kaltura	Kaltura	kaltura

@@ -818,3 +818,13 @@ http://ivcu-dn.financial-net.com
 http://iwfcu-dn.financial-net.com
 http://jaclcu-dn.financial-net.com
 http://jacomcu-dn.financial-net.com
+http://jessopfcu-dn.financial-net.com
+http://jtvaecu-dn.financial-net.com
+http://kahukufcu-dn.financial-net.com
+http://kahuluifcu-dn.financial-net.com
+http://kaipermnw-dn.financial-net.com
+http://kbrhfcu-dn.financial-net.com
+http://kellogg-fcu-dn.financial-net.com
+http://kembacfcu-dn.financial-net.com
+http://kembain-dn.financial-net.com
+http://kembaky-dn.financial-net.com

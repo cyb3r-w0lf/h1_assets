@@ -17,3 +17,5 @@ api.migration.login-connexion.canada.ca
 api.forms-formulaires.alpha.canada.ca
 validate-email.cdssandbox.xyz
 auth.forms-formulaires.alpha.canada.ca
+tracker.canada.ca
+staging.tracker.canada.ca
