@@ -41,3 +41,4 @@ maestro.8x8.cloud
 8x8.cloud
 map.8x8.com
 bridge.8x8.com
+eg.ht

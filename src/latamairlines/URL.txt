@@ -32,3 +32,4 @@ srtlatam.appslatam.com
 supportdispatch.appslatam.com
 andeslatam.tech
 artifactoryrepo1.appslatam.com
+latampass.com.br

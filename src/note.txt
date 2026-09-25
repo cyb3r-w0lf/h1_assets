@@ -750,3 +750,5 @@
 59176	https://hackerone.com/vercel	Vercel	vercel
 114975	https://hackerone.com/nebius_ai_vdp	Nebius AI Vulnerability Disclosure	nebius_ai_vdp
 76417	https://hackerone.com/kaltura	Kaltura	kaltura
+107771	https://hackerone.com/live_nation	Live Nation	live_nation
+115683	https://hackerone.com/coindcx_vdp	CoinDCX Vulnerability Disclosure	coindcx_vdp

@@ -704,3 +704,7 @@ id=com.zhixin.controller
 com.carrentals
 com.homeaway.android
 d-you Wallet Android Test
+dk.royalarena.app
+https://play.google.com/store/apps/details?id=com.coindcx.btc
+https://play.google.com/store/apps/details?id=com.bitoasis&hl=en
+https://play.google.com/store/apps/details?id=com.coindcx.okto

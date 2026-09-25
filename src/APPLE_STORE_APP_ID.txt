@@ -642,3 +642,8 @@ anker-nebula/id1319092174
 soundcore/id1331876603
 506426310
 642441300
+https://apps.apple.com/us/app/ticketmaster-buy-sell-tickets/id500003565
+https://apps.apple.com/no/app/royal-arena/id1181913144
+https://apps.apple.com/ae/app/bitoasis-buy-bitcoin-crypto/id1521661794
+https://apps.apple.com/in/app/coindcx-bitcoin-crypto-app/id1517787269
+https://apps.apple.com/in/app/okto-wallet/id6450688229
