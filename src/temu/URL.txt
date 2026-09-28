@@ -1,3 +1,4 @@
 www.temu.com
 seller.temu.com
 ads.temu.com
+partner.temu.com
