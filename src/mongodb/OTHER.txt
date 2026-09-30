@@ -60,3 +60,6 @@ Atlas Payments/Billing
 University Platform
 MongoDB Toolchain
 App Services/Realm
+MongoDB Atlas Agent Engine 
+MongoDB Atlas Agent Engine CLI and First Party Libraries
+Atlas Infinite

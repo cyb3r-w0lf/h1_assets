@@ -1751,3 +1751,6 @@ Stream Unlimited
 Cloud & 3rd-Party Services (First-Party Misconfigurations)
 Confidence Domains
 UPI 123 Feature in "Feature Phones"
+MongoDB Atlas Agent Engine 
+MongoDB Atlas Agent Engine CLI and First Party Libraries
+Atlas Infinite
