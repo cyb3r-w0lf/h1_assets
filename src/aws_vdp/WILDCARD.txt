@@ -1,2 +1,3 @@
 *.lostark.games.aws.dev
 https://github.com/awslabs/*
+https://github.com/strands-agents/*

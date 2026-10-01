@@ -202,3 +202,4 @@ https://ebctest.cybersource.com/bos
 https://ebctest.cybersource.com/vroom
 developer.plus.authorize.net
 sandbox.developer.plus.authorize.net
+https://www.currencycloud.com/
