@@ -753,3 +753,4 @@
 107771	https://hackerone.com/live_nation	Live Nation	live_nation
 115683	https://hackerone.com/coindcx_vdp	CoinDCX Vulnerability Disclosure	coindcx_vdp
 81934	https://hackerone.com/walt_io	Walt.io	walt_io
+117363	https://hackerone.com/omarchy	Omarchy	omarchy
