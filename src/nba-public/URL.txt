@@ -434,3 +434,16 @@ wisconsin-dev.gleague.nba.com
 wisconsin-qa.gleague.nba.com
 wisconsin.gleague.nba.com
 wnbabroadcastmanuals.nba.com
+cleveland-dev.gleague.nba.com
+cleveland-qa.gleague.nba.com
+coachellavalley.gleague.nba.com
+coachellavalley-dev.gleague.nba.com
+coachellavalley-qa.gleague.nba.com
+laketown.gleague.nba.com
+laketown-dev.gleague.nba.com
+laketown-qa.gleague.nba.com
+osceola.gleague.nba.com
+osceola-qa.gleague.nba.com
+sandiego.gleague.nba.com
+valley.gleague.nba.com
+valley-qa.gleague.nba.com
