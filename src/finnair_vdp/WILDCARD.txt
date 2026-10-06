@@ -1,0 +1,9 @@
+*.aurinkomatkat.fi
+https://*.finnair.com/
+https://*-dev.finnair.com/
+*.prod.app.finnair.com
+*.cloud.finnair.com
+*.preprod.app.finnair.com
+*.dev.app.finnair.com
+*.finnairshop.com
+https://*-preprod.finnair.com/

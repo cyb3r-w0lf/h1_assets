@@ -1,0 +1,7 @@
+https://api.finnair.com/d/mobileapp-services/*
+https://api-preprod.finnair.com/d/*
+https://api-dev.finnair.com/d/*
+https://api.finnair.com/d/mobileapp/*
+https://api.finnair.com/d/loyalty-service/ *
+https://api.finnair.com/d/payments/*
+https://api.finnair.com/d/fcom/*
