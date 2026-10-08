@@ -1,2 +1,3 @@
 https://github.com/bitwarden
 https://github.com/passwordless
+https://github.com/bitwarden/server

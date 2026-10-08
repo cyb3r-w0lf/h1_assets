@@ -203,3 +203,4 @@ https://ebctest.cybersource.com/vroom
 developer.plus.authorize.net
 sandbox.developer.plus.authorize.net
 https://www.currencycloud.com/
+https://ebctest.cybersource.com/varm
