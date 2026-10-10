@@ -2,3 +2,6 @@ https://github.com/bitwarden
 https://github.com/passwordless
 https://github.com/bitwarden/server
 https://github.com/bitwarden/clients
+https://github.com/bitwarden/android
+https://github.com/bitwarden/ios
+https://github.com/bitwarden/sdk-internal
