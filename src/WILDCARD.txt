@@ -3459,3 +3459,7 @@ https://*-dev.finnair.com/
 *.dev.app.finnair.com
 *.finnairshop.com
 https://*-preprod.finnair.com/
+*.iso.com
+*.verisk.com
+*.
+https://*.ifec-ground.com

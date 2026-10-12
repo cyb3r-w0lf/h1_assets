@@ -69,3 +69,6 @@ https://api.finnair.com/d/mobileapp/*
 https://api.finnair.com/d/loyalty-service/ *
 https://api.finnair.com/d/payments/*
 https://api.finnair.com/d/fcom/*
+https://api.finnair.com/c/*
+https://api.finnair.com/d/customer/*
+https://api.finnair.com/d/customer-care-api/*
