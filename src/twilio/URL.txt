@@ -9,3 +9,14 @@ api.sendgrid.com
 mc.sendgrid.com
 app.segment.com
 https://segment.com/docs/connections/sources/
+blog.twilio.com
+console.twilio.com
+help.twilio.com
+tsock.us1.twilio.com
+twilio.com
+https://stytch.com/blog
+https://stytch.com/dashboard
+client.dev
+connectedapps.dev
+isagent.dev
+smtp.sendgrid.net
