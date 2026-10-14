@@ -3463,3 +3463,4 @@ https://*-preprod.finnair.com/
 *.verisk.com
 *.
 https://*.ifec-ground.com
+https://github.com/deepjavalibrary/*

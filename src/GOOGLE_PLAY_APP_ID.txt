@@ -710,3 +710,4 @@ https://play.google.com/store/apps/details?id=com.bitoasis&hl=en
 https://play.google.com/store/apps/details?id=com.coindcx.okto
 com.finnair
 com.authy.authy
+https://play.google.com/store/apps/datasafety?id=com.expediapartnercentral&hl=en

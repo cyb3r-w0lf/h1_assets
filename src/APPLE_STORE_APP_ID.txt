@@ -649,3 +649,4 @@ https://apps.apple.com/in/app/coindcx-bitcoin-crypto-app/id1517787269
 https://apps.apple.com/in/app/okto-wallet/id6450688229
 933867978
 com.authy
+https://apps.apple.com/in/app/expedia-group-partner-central/id987675995
