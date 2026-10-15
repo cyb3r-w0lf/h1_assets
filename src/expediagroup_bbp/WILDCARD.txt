@@ -27,3 +27,4 @@
 *.stayz.com.au
 *.expediataap.com
 *.expediataaprewards.com
+*.expedia.biz

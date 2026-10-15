@@ -52,3 +52,6 @@ https://etherscan.io/address/0x46167cB034feC6ceC46CaeD4f61281f5Aa0Eb0e6
 https://etherscan.io/address/0xD168CFbBE260D48cd119497a9a2eE8482080C5E7
 https://basescan.org/address/0xf469eC9dEBf7F0adEBA4d1Db2FF5c70707bEeB30
 https://worldscan.org/address/0xDe7Ec97CFDeE9F20f9d256F4a0A0d694479fa2E0
+https://solscan.io/account/GWvQinGBRa7ZUzhXY23MrLjdsx3KfRGxH8yXURBwrz1R
+https://solscan.io/account/sxzuA7TuRvjVbrXkJUgrYq2hfjVf3RFd8WFaSxt2rYm
+https://solscan.io/account/B2RFzpckwjtHXHMrPMKarg6Cj6xkSdT6mru4gJiJE87L
