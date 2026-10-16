@@ -72,3 +72,4 @@ editionhotels.com
 https://gatewaydsapprd.marriott.com/v2/
 https://gatewaydsapprd.marriott.com/v1/
 hotshoppeservices.com
+uat.marriott.com

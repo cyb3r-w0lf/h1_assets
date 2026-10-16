@@ -3465,3 +3465,4 @@ https://*-preprod.finnair.com/
 https://*.ifec-ground.com
 https://github.com/deepjavalibrary/*
 *.expedia.biz
+*uat.marriott.com

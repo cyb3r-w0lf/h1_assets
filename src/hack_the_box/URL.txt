@@ -7,3 +7,5 @@ https://jobs.hackthebox.com/
 https://status.hackthebox.com/
 labs.hackthebox.com
 api.jobs.hackthebox.com
+https://profile.hackthebox.com
+https://range.hackthebox.ai/
