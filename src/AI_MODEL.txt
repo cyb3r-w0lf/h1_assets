@@ -9,3 +9,7 @@ Player Support Chatbot
 Agentic Wallet
 Fable 5
 Fable 5.1
+Opus 5.5
+Other Opus Class Models
+Sonnet Class Models
+Haiku Class Models

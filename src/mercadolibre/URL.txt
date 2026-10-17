@@ -57,3 +57,6 @@ mpago.li
 mpago.la
 mercadobackoffice.com
 www.ipbooster.com
+mercadolivreexperience.mercadolivre.com.br
+*.modoblack.mercadolivre.com.br
+fullbarhomologa.modoblackfullbar.com.br
