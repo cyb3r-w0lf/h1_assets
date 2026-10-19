@@ -16011,3 +16011,6 @@ uat.marriott.com
 mercadolivreexperience.mercadolivre.com.br
 *.modoblack.mercadolivre.com.br
 fullbarhomologa.modoblackfullbar.com.br
+lovable.net
+cibil.com
+docs.gocardless.com

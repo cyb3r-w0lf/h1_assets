@@ -773,3 +773,4 @@ nim.trucontact.us.transunion.com
 idp.ccid.neustar.biz
 nim-api.trucontact.us.transunion.com
 sipas-prod-br.ccid.neustar.biz
+cibil.com

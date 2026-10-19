@@ -2,3 +2,4 @@ lovable.dev
 oauth.lovable.dev
 api.lovable.dev
 mcp.lovable.dev
+lovable.net
