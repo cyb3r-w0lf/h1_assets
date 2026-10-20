@@ -110,3 +110,4 @@ taskrouter.twilio.com
 telemetry.stytch.com
 test.stytch.com
 trunking.twilio.com
+prime.plata.co

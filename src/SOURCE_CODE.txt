@@ -829,3 +829,4 @@ github.com/stytchauth/terraform-provider-stytch
 github.com/twilio
 github.com/twilio-labs
 https://github.com/stytchauth
+https://github.com/sveltejs/kit
