@@ -1,3 +1,4 @@
 Windsurf IDE
 Windsurf Plugins
 Devin Desktop
+Jetbrains IDE Plugin

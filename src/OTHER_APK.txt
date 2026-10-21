@@ -70,3 +70,4 @@ com.qpon.platform
 com.shopai.apps
 com.katanlabs.bubblepop
 com.katanlabs.matchballgame
+https://app.bitrise.io/app/51a95edaab331ec5/installable-artifacts/48548bd7878361ab/public-install-page/82f78f6dddbebab09e2f4ac3c0081984
