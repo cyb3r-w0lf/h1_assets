@@ -204,3 +204,4 @@ developer.plus.authorize.net
 sandbox.developer.plus.authorize.net
 https://www.currencycloud.com/
 https://ebctest.cybersource.com/varm
+https://ebc2test.cybersource.com/settings

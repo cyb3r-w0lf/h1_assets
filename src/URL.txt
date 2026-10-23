@@ -16024,3 +16024,6 @@ https://aoa-ws-direct.earlywarning.com/aoainquiryservice/services/aoainquiryserv
 https://aoa-ws-direct-snd.earlywarning.com/aoainquiryservice/services/aoainquiryservice
 inquirydirect.earlywarning.com
 aoa-ws-fis.earlywarning.com
+https://ebc2test.cybersource.com/settings
+ui-assets.cloud.databricks.com
+login.databricks.com

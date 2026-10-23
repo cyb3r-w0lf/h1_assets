@@ -14,3 +14,5 @@ customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
 https://dbc-9a3f8ed1-7608.cloud.databricks.com
+ui-assets.cloud.databricks.com
+login.databricks.com
