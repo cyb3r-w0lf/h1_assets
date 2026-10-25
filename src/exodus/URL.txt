@@ -26,3 +26,4 @@ fiat.a.exodus.io
 fiat-p.a.exodus.io
 fiat-prod-fallback.a.exodus.io
 kyc.a.exodus.io
+agents.exodus.com
