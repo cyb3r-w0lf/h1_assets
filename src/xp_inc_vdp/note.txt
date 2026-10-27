@@ -1,0 +1,1 @@
+114479	https://hackerone.com/xp_inc_vdp	XP Inc Vulnerability Disclosure	xp_inc_vdp

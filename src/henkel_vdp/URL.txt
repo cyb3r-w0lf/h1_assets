@@ -54,3 +54,12 @@ henkeldev.service-now.com
 henkelsand.service-now.com
 dmeops.schwarzkopfclub.com.cn
 dev-aip.henkel-adhesives.com.cn
+osidealer.com
+barnangen.dk
+barnangen.fi
+barnangen.no
+barnangen.nu
+barnangen.se
+indola.se
+indolacrew.com
+syoss-selfcoloring.jp

@@ -205,3 +205,4 @@ sandbox.developer.plus.authorize.net
 https://www.currencycloud.com/
 https://ebctest.cybersource.com/varm
 https://ebc2test.cybersource.com/settings
+http://test.payworks.io/uis/mngr/

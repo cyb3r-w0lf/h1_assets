@@ -39,3 +39,4 @@
 *.zurichna.com
 *.zurichseguros.com.ec
 *.zurich.com.sg
+*.zurich.com.cn
