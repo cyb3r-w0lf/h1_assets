@@ -170,3 +170,4 @@ Liberty 5 Pro Max D1204
 Enterprise Audio/Video
 UniFi-Play
 Axa Remote 2.0
+Bose Automotive

@@ -1,2 +1,6 @@
 *.hertz.com
 *hertz.io
+*.thrifty.com
+*.dollar.com
+*.oromobility.com
+*.hertz.io
