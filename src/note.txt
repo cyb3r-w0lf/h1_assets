@@ -757,3 +757,4 @@
 115207	https://hackerone.com/verisk_vdp	Verisk VDP	verisk_vdp
 109454	https://hackerone.com/aegean_airlines_vdp	Aegean Airlines Vulnerability Disclosure	aegean_airlines_vdp
 114479	https://hackerone.com/xp_inc_vdp	XP Inc Vulnerability Disclosure	xp_inc_vdp
+114005	https://hackerone.com/smartsheet_vdp	Smartsheet (VDP)	smartsheet_vdp
