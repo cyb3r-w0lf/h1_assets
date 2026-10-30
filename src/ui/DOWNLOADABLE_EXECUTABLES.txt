@@ -3,3 +3,4 @@ UCRM
 UNMS
 UISP
  UniFi OS Server
+WiFiman
